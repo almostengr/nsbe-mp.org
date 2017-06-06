@@ -1,0 +1,51 @@
+BODY {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-TOP: 0px
+}
+BODY {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: gray; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+TD {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: gray; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+P {
+	FONT-WEIGHT: bold; FONT-SIZE: 11px; COLOR: gray; FONT-FAMILY: Arial, Helvetica, sans-serif
+}
+A:link {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #3f3f3f; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+A:hover {
+	FONT-WEIGHT: bolder; FONT-SIZE: 12px; COLOR: green; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+A:visited {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #3f3f3f; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+A:active {
+	FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #3f3f3f; FONT-FAMILY: Verdana, Geneva, Arial, Helvetica, sans-serif
+}
+.title1 {
+	FONT-SIZE: 10px; TEXT-TRANSFORM: uppercase; COLOR: #cc9900
+}
+.title2 {
+	FONT-WEIGHT: bold; FONT-SIZE: 13px; TEXT-TRANSFORM: uppercase; LETTER-SPACING: 4px
+}
+.bgSealIV {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/global_images/bg/sealIVbackground.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #cccccc
+}
+.bgSealBest {
+	BACKGROUND-POSITION: right top; BACKGROUND-IMAGE: url(/global_images/bg/sealBestBackground.jpg); BACKGROUND-REPEAT: no-repeat; BACKGROUND-COLOR: #cccccc
+}
+.bgGlowMain {
+	BACKGROUND-POSITION: center 50%; BACKGROUND-IMAGE: url(../images/layout/background.gif); BACKGROUND-REPEAT: repeat-y
+}
+.bgGlowLeft {
+	BACKGROUND-POSITION: right 50%; BACKGROUND-IMAGE: url(../images/layout/left_scroll_pane.gif); BACKGROUND-REPEAT: repeat-y
+}
+.bgGlowRight {
+	BACKGROUND-POSITION: left 50%; BACKGROUND-IMAGE: url(../images/layout/right_scroll_pane.gif); BACKGROUND-REPEAT: repeat-y
+}
+.textBoxHome {
+	BORDER-RIGHT: #ffffff 0px solid; BORDER-TOP: #ffffff 0px solid; FONT-WEIGHT: bold; FONT-SIZE: 11px; BORDER-LEFT: #ffffff 0px solid; COLOR: black; BORDER-BOTTOM: #ffffff 0px solid; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: transparent
+}
+.VideoHighlight {
+	FONT-WEIGHT: bold; COLOR: #ffcc00
+}
