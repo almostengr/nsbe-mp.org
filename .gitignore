@@ -12,3 +12,4 @@ install.php
 sites/*/admin_menu*
 *.txt
 
+php.ini
