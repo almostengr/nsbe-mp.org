@@ -1,17 +1,11 @@
 # Ignore configuration files that may contain sensitive information.
 sites/*/settings*.php
-sites/*/*settings*.php
 
 # Ignore paths that contain user-generated content.
 sites/*/files
 sites/*/private
 
-# Ignore additional files that should not be deployed to PROD environment.
-install.php
-sites/*/admin_menu*
-
-php.ini
-
+# files in the core
 CHANGELOG.txt
 COPYRIGHT.txt
 INSTALL.mysql.txt
@@ -22,4 +16,5 @@ LICENSE.txt
 MAINTAINERS.txt
 README.txt
 UPGRADE.txt
+install.php
 
