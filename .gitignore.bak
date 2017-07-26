@@ -22,6 +22,4 @@ install.php
 .ftpquota
 php.ini
 .php.ini*
-.htaccess
-.editorconfig
 
