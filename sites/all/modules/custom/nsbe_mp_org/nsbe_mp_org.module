@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the nsbe-mp.org feature.
+ */
+
+include_once 'nsbe_mp_org.features.inc';
