@@ -65,6 +65,14 @@ function nsbe_mp_org_node_info() {
       'title_label' => t('Title'),
       'help' => '',
     ),
+    'stem_project' => array(
+      'name' => t('STEM Project'),
+      'base' => 'node_content',
+      'description' => t('To post a STEM related project that have been performed in the past by NSBE MP or CA NSBE Jr.'),
+      'has_title' => '1',
+      'title_label' => t('Project Name'),
+      'help' => '',
+    ),
   );
   drupal_alter('node_info', $items);
   return $items;
