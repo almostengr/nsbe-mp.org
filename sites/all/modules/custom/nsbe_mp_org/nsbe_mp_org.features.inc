@@ -57,6 +57,14 @@ function nsbe_mp_org_node_info() {
       'title_label' => t('Title'),
       'help' => '',
     ),
+    'photogallery' => array(
+      'name' => t('Photo Gallery'),
+      'base' => 'node_content',
+      'description' => t('Create a photo gallery page for a past event or function. '),
+      'has_title' => '1',
+      'title_label' => t('Title'),
+      'help' => '',
+    ),
     'scholarship_application' => array(
       'name' => t('Scholarship Application'),
       'base' => 'node_content',
