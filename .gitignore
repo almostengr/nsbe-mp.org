@@ -19,9 +19,9 @@ UPGRADE.txt
 install.php
 
 # remote other files 
-.ftpquota
-php.ini
-.php.ini*
-.htaccess
-.editorconfig
+*.ftpquota*
+*php.ini*
+*.php.ini*
+*.htaccess*
+*.editorconfig*
 
