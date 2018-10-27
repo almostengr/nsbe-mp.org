@@ -55,7 +55,6 @@ Disallow: /modules/
 Disallow: /profiles/
 Disallow: /scripts/
 Disallow: /themes/
-Disallow: /sites/default/files
 # Files
 Disallow: /CHANGELOG.txt
 Disallow: /cron.php
