@@ -1,3 +1,89 @@
 /**
  * Place your custom styles here.
  */
+
+/**
+ * Page body
+ */
+body{
+	/*background-color: #ccc;*/
+	background-color: #933;
+	color: #000;
+	font-family: Arial, sans-serif;
+}
+
+div.main-container.container {
+	background-color: #fff;
+	color: #000;
+	padding: 15px;
+}
+
+a{
+	color: #933;
+}
+
+h2 {
+	font-weight: bold;
+}
+
+header h2 a{
+	text-decoration: underline;
+}
+
+h1 {
+	font-weight: bold;
+}
+
+/**
+ * Block
+ */
+h2.block-title{
+	font-weight: normal;
+	text-align: center;
+	text-decoration: underline;
+}
+
+/**
+ * Help Region
+ */
+div.region.region-help {
+	background-color: #ccff99;
+}
+
+/**
+ * Navigation bar
+ */
+#navbar {
+	padding: 15px;
+}
+
+#navbar, #navbar-collapse a, #navbar-nav{
+	/*background-color: #933;*/
+	background-color: #fff;
+	color: #000;
+}
+
+ul.menu.nav.navbar-nav {
+	padding-left: 25px;
+	float: right;
+}
+
+.navbar-brand, a.name.navbar-brand {
+	color: #000;
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+footer.footer.container {
+	/*background-color: #854747;*/
+	background-color: #000;
+	text-align: center;
+	color: #ccc;
+}
+
+div.region.region-sidebar-first.well {
+	background-color: #f5f5f5;
+	color: #000;
+}
+
+
