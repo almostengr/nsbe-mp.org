@@ -47,7 +47,7 @@ h2 {
 }
 
 header h2 a{
-	text-decoration: underline;
+	/* text-decoration: underline; */
 }
 
 h1 {
@@ -76,7 +76,6 @@ button#edit-cancel {
 h2.block-title{
 	font-weight: normal;
 	text-align: center;
-	text-decoration: underline;
 }
 
 /**
@@ -97,6 +96,7 @@ div.region.region-help {
 	/*background-color: #933;*/
 	background-color: #fff;
 	color: #000;
+	font-size: 20px;
 }
 
 ul.menu.nav.navbar-nav {
