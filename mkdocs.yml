@@ -1,0 +1,28 @@
+site_name: NSBE Montgomery Professionals
+site_description: National Society of Black Engineers Montgomery Professionals
+site_author: NSBE Montgomery Professionals
+copyright: 2020 NSBE Montgomery Professionals
+
+google_analytics: ['', '']
+
+# repository information
+repo_url: https://github.com/almostengr/nsbe-mp.org
+repo_name: Github
+remote_name: origin
+remote_branch: website
+
+# Development server details
+# dev_addr: 192.168.57.117:8000
+
+# Appearance
+theme:
+  name: null
+  custom_dir: 'nsbemptheme'
+  language: en
+
+use_directory_urls: true
+strict: false
+
+plugins:
+  - minify: 
+      minify_html: true

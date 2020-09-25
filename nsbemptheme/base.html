@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:site_name" content="{{ config.site_name }}" />
+
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@nsbemp" />
+  <meta name="twitter:creator" content="@nsbemp" />
+
+  {% if page.meta.description %}
+  <meta name="description" content="{{ page.meta.description }}">
+  <meta property="og:description" content="{{ page.meta.description }}" />
+  <meta name="twitter:description" content="{{ page.meta.description }}" />
+  {% elif config.site_description %}
+  <meta name="description" content="{{ config.site_description }}">
+  <meta property="og:description" content="{{ config.site_description }}" />
+  <meta name="twitter:description" content="{{ config.site_description }}" />
+  {% endif %}
+
+  {% if page.meta.author %}
+  <meta name="author" content="{{ page.meta.author }}">
+  {% else %}
+  <meta name="author" content="{{ config.site_author }}">
+  {% endif %}
+
+  {% if page.meta.title %}
+  <title>{{ page.meta.title | striptags }} | {{ config.site_name }}</title>
+  <meta property="og:title" content="{{ page.meta.title }}" />
+  <meta name="twitter:title" content="{{ page.meta.title }}" />
+  {% elif page.title and not page.is_homepage %}
+  <title>{{ page.title | striptags }} | {{ config.site_name }}</title>
+  <meta property="og:title" content="{{ page.title | striptags }}" />
+  <meta name="twitter:title" content="{{ page.title | striptags }}" />
+  {% else %}
+  <title>{{ config.site_name }}</title>
+  <meta property="og:title" content="{{ config.site_name }}" />
+  <meta name="twitter:title" content="{{ config.site_name }}" />
+  {% endif %}
+
+  {% if page.meta.image %}
+  <meta property="og:image" content="{{ page.meta.image | url }}" />
+  <meta name="twitter:image" content="{{ page.meta.image | url }}" />
+  {% endif %}
+
+  {% if page.meta.keywords %}
+  <meta name="keywords" content="{{ page.meta.keywords }}" />
+  {% endif %}
+
+  {% if page.meta.ogtype %}
+  <meta property="og:type" content="{{ page.meta.ogtype }}" />
+  {% else %}
+  <meta property="og:type" content="website" />
+  {% endif %}
+
+  {% if page.meta.robots %}
+  <meta name="robots" content="{{ page.meta.robots }}" />
+  {% else %}
+  <meta name="robots" content="index, follow" />
+  {% endif %}
+
+  {% if page.canonical_url %}
+  <link rel="canonical" href="{{ page.canonical_url | url }}">
+  <meta property="og:url" content="{{ page.canonical_url | url }}" />
+  <meta property="twitter:url" content="{{ page.canonical_url | url }}" />
+  {% endif %}
+
+  {% if config.google_analytics %}
+  <script type="text/javascript">
+    (function (i, s, o, g, r, a, m) {
+      i['GoogleAnalyticsObject'] = r;
+      i[r] = i[r] || function () {
+        (i[r].q = i[r].q || []).push(arguments)
+      }, i[r].l = 1 * new Date();
+      a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0];
+      a.async = 1;
+      a.src = g;
+      m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+    ga('create', '{{ config.google_analytics[0] }}', '{{ config.google_analytics[1] }}');
+    ga('send', 'pageview');
+  </script>
+  {% endif %}
+
+  <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link href="/css/jumbotron.min.css" rel="stylesheet" type="text/css">
+  <!-- <link href="/css/nsbemp.min.css" rel="stylesheet" type="text/css"> -->
+  <link href="/css/nsbemp.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top navbar-color">
+    <a class="navbar-brand font-weight-bold" href="/">{{ config.site_name }}</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
+      aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item">
+          <a href="/membership" class="nav-link text-white">Membership</a>
+        </li>
+        <li class="nav-item">
+          <a href="/programs" class="nav-link text-white">Programs</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link text-white">Events</a>
+        </li>
+        <li class="nav-item">
+          <a href="#" class="nav-link text-white">Photos</a>
+        </li>
+        <li class="nav-item">
+          <a href="/about" class="nav-link text-white">About</a>
+        </li>
+      </ul>
+      <!-- <form class="form-inline my-2 my-lg-0">
+        <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form> -->
+    </div>
+  </nav>
+
+  <main role="main">
+    {% if page.is_homepage %}
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+    <div class="jumbotron">
+      <div class="container">
+        <h1 class="display-3">Hello, world!</h1>
+        <p>This is a template for a simple marketing or informational website. It includes a large callout called a
+          jumbotron and three supporting pieces of content. Use it as a starting point to create something more unique.
+        </p>
+        <p><a class="btn btn-primary btn-lg" href="#" role="button">Learn more &raquo;</a></p>
+      </div>
+    </div>
+    {% endif %}
+
+    <!-- <div class="container">
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris
+            condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod.
+            Donec sed odio dui. </p>
+          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec id elit non mi porta gravida at eget metus. Fusce dapibus, tellus ac cursus commodo, tortor mauris
+            condimentum nibh, ut fermentum massa justo sit amet risus. Etiam porta sem malesuada magna mollis euismod.
+            Donec sed odio dui. </p>
+          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Heading</h2>
+          <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta
+            felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum
+            massa justo sit amet risus.</p>
+          <p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p>
+        </div>
+      </div> -->
+
+    <div class="container body">
+      <h1 class="pt-3">{{ page.title }}</h1>
+      {{ page.content }}
+      <hr>
+    </div>
+  </main>
+  <footer class="container pb-4 mb-4 footer text-center">
+    <ul class="list-unstyled footer">
+      <li class="nav-item list-inline-item">
+        <a class="text-black" href="/contact">Contact</a>
+      </li>
+      <li class="nav-item list-inline-item">
+        <a href="tel:(334) 625-8589">(334) 625-8589</a>
+      </li>
+      <li class="nav-item list-inline-item">
+        <a class="text-black" href="https://www.instagram.com/nsbemp" target="_blank">Instagram</a>
+      </li>
+      <li class="nav-item list-inline-item">
+        <a class="text-black" href="https://www.facebook.com/nsbemp" target="_blank">Facebook</a>
+      </li>
+      <li class="nav-item list-inline-item">
+        <a class="text-black" href="https://twitter.com/nsbemp" target="_blank">Twitter</a>
+      </li>
+    </ul>
+
+    <ul class="list-unstyled footer">
+      <li class="nav-item list-inline-item">
+        <a href="http://www.nsbe.org/" target="_blank">National Society of Black Engineers</a></li>
+      <li class="nav-item list-inline-item">
+        <a href="https://www.nsbe.org/professionals/home.aspx" target="_blank">NSBE Professionals</a></li>
+      <li class="nav-item list-inline-item">
+        <a href="http://www.nsbe.org/professionals/Regions/Region3/home.aspx" 
+        target="_blank">NSBE Region 3 Professionals</a>
+      </li>
+      <li class="nav-item list-inline-item">
+        <a href="http://www.nsbe.org/professionals/pdc/home.aspx" target="_blank">NSBE PDC</a>
+      </li>
+      <li class="nav-item list-inline-item">
+        <a href="http://careers.nsbe.org/jobseeker/search" target="_blank">NSBE Careers</a>
+      </li>
+    </ul>
+
+    <p class="footer"><strong>Copyright &copy; {{ config.copyright }}</strong></p>
+  </footer>
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+    integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+    crossorigin="anonymous"></script>
+  <script>window.jQuery || document.write('<script src="/js/vendor/jquery.slim.min.js"><\/script>')</script>
+  <script src="/js/bootstrap.bundle.min.js"></script>
+</body>
+
+</html>
