@@ -1,7 +1,11 @@
 :root{
-    --navbar-red: rgb(150, 19, 0);
+    --dark-red: rgb(150, 19, 0);
     --white: #ffffff;
     --black: #000000;
+    --nsbe-red: rgb(255,0,0);
+    --nsbe-green: rgb(0,255,0);
+    --nsbe-black: rgb(0,0,0);
+    --nsbe-yellow: rgb(255,255,0);
 }
 
 .bd-placeholder-img {
@@ -20,24 +24,51 @@
 }
 
 nav.navbar-color {
-    background-color: var(--navbar-red);
+    background-color: var(--nsbe-red);
+}
+
+nav.navbar-color > a.navbar-brand,
+ul.navbar-nav > li.nav-item > a.nav-link{
+    color: var(--white);
 }
 
 .text-white {
     color: var(--white);
 }
 
+.bg-black {
+    background-color: var(--black);
+}
 .text-black {
     color: var(--black);
 }
 
-p.footer > a:hover {
-    color: var(--navbar-red);
-    font-weight: bold;
+ul.footer > .nav-item.list-inline-item > a:hover,
+div.body > p > a:hover,
+div.body > ul > li > a:hover {
+    color: var(--nsbe-red);
 }
 
 ul.footer > .nav-item.list-inline-item > a,
-div.body a {
+div.body > p > a,
+div.body > ul > li > a {
     color: var(--black);
     text-decoration: underline;
+}
+
+h1 {
+    font-weight: bold;
+    border-bottom: solid var(--nsbe-red) 1px;
+}
+
+hr {
+    background-color: var(--nsbe-red);
+}
+
+.nsbe-red-border{
+    border-color: var(--nsbe-red);
+}
+
+.bg-darkred {
+    background-color: var(--dark-red);
 }
