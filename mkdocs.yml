@@ -3,7 +3,7 @@ site_description: National Society of Black Engineers Montgomery Professionals
 site_author: NSBE Montgomery Professionals
 copyright: 2020 NSBE Montgomery Professionals
 
-google_analytics: ["UA-101970327-1", {"cookieDomain":"auto"}]
+google_analytics: ["UA-101970327-1", "cookieDomain":"auto"]
 
 # repository information
 repo_url: https://github.com/almostengr/nsbe-mp.org
