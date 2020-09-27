@@ -23,6 +23,13 @@ To become a member of NSBE, you will need to complete all of the steps listed be
 <a href="https://connect.nsbe.org/NewUser.aspx" target="_blank">NSBE Connect website</a>.
 * Pay your Local Dues of $50. This step is done by adding the NSBE Local Membership to your cart and completing checkout.
 
+### First Year Members
+
+Those who choose to join and it is their first year as a member of NSBE MP, due not have to pay
+chapter dues. You are still responsible for completing the registration on NSBE Connect and paying
+your national and regional dues (if applicable).
+
 ## NSBE Calendar Year
 
-Membership dues have to be paid on a yearly basis. The membership year runs from August 1 until July 31 of each year.
+Membership dues have to be paid on a yearly basis. The membership year starts on August 1
+and ends on July 31 of each year.

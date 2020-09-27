@@ -6,7 +6,7 @@ title: About NSBE Montgomery Professionals
 <img src="/images/mgmskyline.jpg" alt="Montgomery skyline at night" class="mx-auto">
 </div>
 
-## About The Chapter
+## About The NSBE Montgomery Professionals Chapter
 
 National Society of Black Engineers Montgomery Professionals (NSBE-MP) Chapter is the local Montgomery Area chapter of a national organization of minority professionals educated and working in the STEM fields of Science, Technology, Engineering, and Mathematics.
 
@@ -17,5 +17,17 @@ As a local chapter of NSBE, we are committed to *increasing the number of cultur
 
 ## Chapter Executive Board
 
+### Adminstration Zone
+
 * Kenny Robinson, President Emeritus
+
+### Membership Zone
+
+### Communication Zone 
+
+### Finance Zone
+
+## NSBE Mission
+
+NSBE's mission is "to increase the number of culturally responsible Black Engineers who excel academically, succeed professionally and positively impact the community."
 
