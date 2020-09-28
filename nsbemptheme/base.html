@@ -85,9 +85,14 @@
   </script>
   {% endif %}
 
+  <script async id="mcjs" src="/js/mailchimp.js"></script>
+  <script async src="https://kit.fontawesome.com/a076d05399.js"></script>
+  <link rel="shortcut icon" href="/images/nsbemplogo.png" type="image/png" />
+
   <link href="/css/bootstrap.min.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link href="/css/carousel.min.css" rel="stylesheet" type="text/css">
-  <link href="/css/nsbemp.min.css" rel="stylesheet" type="text/css">
+  <link href="/css/nsbemp.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -115,6 +120,9 @@
         <li class="nav-item">
           <a href="/about" class="nav-link">About</a>
         </li>
+        <li class="nav-item">
+          <a href="/contact" class="nav-link">Contact</a>
+        </li>
       </ul>
       <!-- <form class="form-inline my-2 my-lg-0">
         <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
@@ -127,68 +135,30 @@
     {% if page.is_homepage %}
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
       <ol class="carousel-indicators">
-        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-        <li data-target="#myCarousel" data-slide-to="1"></li>
-        <li data-target="#myCarousel" data-slide-to="2"></li>
-        <li data-target="#myCarousel" data-slide-to="3"></li>
-        <li data-target="#myCarousel" data-slide-to="4"></li>
+        {% for item in config.theme.carousel %}
+        {% if loop.first %}
+        <li data-target="#myCarousel" data-slide-to="{{ loop.index-1 }}" class="active"></li>
+        {% else %}
+        <li data-target="#myCarousel" data-slide-to="{{ loop.index-1 }}"></li>
+        {% endif %}
+        {% endfor %}
       </ol>
       <div class="carousel-inner bg-black">
-        <div class="carousel-item active">
-          <div class="text-center">
-            <img class="bd-placeholder-img" src="/images/edaybanner.jpg"
-              style="width: auto; text-align: center; height: 100%;" />
-          </div>
+        {% for item in config.theme.carousel %}
+        <div {% if loop.first %} class="carousel-item text-center active">
+          {% else %}
+          class="carousel-item text-center">
+          {% endif %}
+          <img src="{{ item.imageurl }}" alt="{{ item.buttontext }}" />
+          {% if item.buttontext and item.buttonlink %}
           <div class="container">
             <div class="carousel-caption">
-              <p><a class="btn btn-lg" href="/eday" role="button">Find out about Engineering Day At The Park!</a></p>
+              <p><a class="btn btn-lg" href="{{ item.buttonlink | url }}" role="button">{{ item.buttontext }}</a></p>
             </div>
           </div>
+          {% endif %}
         </div>
-        <div class="carousel-item">
-          <div class="text-center">
-            <img class="bd-placeholder-img" src="/images/nsbejr.jpg"
-              style="width: auto; text-align: center; height: 100%;" />
-          </div>
-          <div class="container">
-            <div class="carousel-caption">
-              <p><a class="btn btn-lg" href="/nsbejr" role="button">Find out about NSBE Jr!</a></p>
-            </div>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="text-center">
-            <img class="bd-placeholder-img" src="/images/carousel3.jpg"
-              style="width: auto; text-align: center; height: 100%;" />
-          </div>
-          <div class="container">
-            <div class="carousel-caption text-right">
-              <!-- <p><a class="btn btn-lg" href="/nsbejr" role="button">Find out about NSBE Jr!</a></p> -->
-            </div>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="text-center">
-            <img class="bd-placeholder-img" src="/images/23376203_2076577645910383_3305085649971947333_n.jpg"
-            style="width: auto; text-align: center; height: 100%;" />
-          </div>
-          <div class="container">
-            <div class="carousel-caption text-right">
-              <!-- <p><a class="btn btn-lg" href="/nsbejr" role="button">Find out about NSBE Jr!</a></p> -->
-            </div>
-          </div>
-        </div>
-        <div class="carousel-item">
-          <div class="text-center">
-            <img class="bd-placeholder-img" src="/images/20171118_125459.jpg" 
-            style="width: auto; text-align: center; height: 100%;" />
-          </div>
-          <div class="container">
-            <div class="carousel-caption text-right">
-              <!-- <p><a class="btn btn-lg" href="/nsbejr" role="button">Find out about NSBE Jr!</a></p> -->
-            </div>
-          </div>
-        </div>
+        {% endfor %}
       </div>
 
       <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
@@ -199,65 +169,20 @@
         <span class="carousel-control-next-icon" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
       </a>
-    </div>
-
-    <div class="container">
+    </div> <!-- end carousel -->
+    <div class="container marketing">
       <div class="row">
-        <div class="col-md-4">
-          <h2>NSBE Jr</h2>
+        {% for block in config.theme.headings %}
+        <div class="col-sm-12 col-md-4">
+          <h2>{{ block.title }}</h2>
           <p>
-            NSBE Jr is designed for students in grades K-12 to receive mentoring from current
-            engineers and exposure to STEM activities in a learning environment.
+            {{ block.body }}
           </p>
-          <p><a class="btn btn-dark" href="/nsbejr" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-dark" href="{{ block.link }}" role="button">View details &raquo;</a></p>
         </div>
-        <div class="col-md-4">
-          <h2>E-Day At The Park</h2>
-          <p>
-            E-Day at the Park is an annual event hosted by NSBE MP that allows K–12th grade students
-            an opportunity to participate in a number of hands-on
-            activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
-          </p>
-          <p><a class="btn btn-dark" href="/eday" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-          <h2>Meetings</h2>
-          <p>
-            Meetings are held on the first Tuesday of each month at 6 PM CT.
-          </p>
-          <p><a class="btn btn-dark" href="/programs#professional-development" role="button">View details &raquo;</a></p>
-        </div>
-      </div> <!-- end of first row -->
-
-      <div class="row">
-        <div class="col-md-4">
-          <h2>Join NSBE</h2>
-          <p>
-            NSBE Jr is designed for students in grades K-12 to receive mentoring from current
-            engineers and exposure to STEM activities in a learning environment.
-          </p>
-          <p><a class="btn btn-dark" href="/membership" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-          <h2>NSBE MP Scholarship</h2>
-          <p>
-            NSBE programs are designed to encourage students in grades K-12 and college to pursue a career
-            in a STEM (Science, Technology, Engineering, and Math) field and to improve professionals
-            in their career development.
-          </p>
-          <p><a class="btn btn-dark" href="/scholarship" role="button">View details &raquo;</a></p>
-        </div>
-        <div class="col-md-4">
-          <h2>Programs</h2>
-          <p>
-            NSBE programs are designed to encourage students in grades K-12 and college to pursue a career
-            in a STEM (Science, Technology, Engineering, and Math) field and to improve professionals
-            in their career development.
-          </p>
-          <p><a class="btn btn-dark" href="/programs" role="button">View details &raquo;</a></p>
-        </div>
+        {% endfor %}
       </div>
-    </div> <!-- end headings -->
+    </div> <!-- end marketing -->
     {% endif %}
 
     <div class="container body">
@@ -268,6 +193,23 @@
       {% if page.meta.imageurl %}
       <div class="col-12 pb-4 text-center">
         <img src="{{ page.meta.imageurl | url }}" alt="{{ page.meta.imagealt }}" class="headimage" />
+      </div>
+      {% endif %}
+
+      {% if page.url == "about/" %}
+      <h2>NSBE Montgomery Professionals Executive Board</h2>
+      <div class="row">
+        {% for officer in config.theme.eboard %}
+        <div class="col-lg-4 col-md-6 col-sm-12 py-2 text-center">
+          {% if officer.imageurl %}
+          <img src="{{ officer.imageurl }}" alt="{{ officer.name }}" class="officer-photo" /><br />
+          {% else %}
+          <img src="/images/nsbemplogo.png" alt="No headshot available" class="officer-photo mt-5" /><br />
+          {% endif %}
+          <h3>{{ officer.name }}</h3>
+          <h5>{{ officer.position }}</h5>
+        </div>
+        {% endfor %}
       </div>
       {% endif %}
 
@@ -287,8 +229,8 @@
         </p>
         <p>
           <label for="calltyrone" class="font-weight-bold required">Phone Number</label><br />
-          <input name="calltyrone" type="tel" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" class="form-control"
-            placeholder="555-555-5555" required="required" minlength="12" />
+          <input name="calltyrone" type="tel" class="form-control" placeholder="555-555-5555" required="required"
+            minlength="12" />
         </p>
         <p>
           <label for="message" class="font-weight-bold required">Message, Comment or Question</label><br />
@@ -307,76 +249,54 @@
 
   <footer class="footer">
     <div class="container py-4 mx-auto subfooter row">
+
+      {% for block in config.theme.footerblocks %}
       <div class="card subfooter col-lg-3 col-sm-12">
         <div class="card-body">
-          <h5 class="card-title p-2 subfooter font-weight-bold">Join Today</h5>
-          <p class="card-text subfooter">
-            Join NSBE-MP! We want you to become a member of the most dynamic group professionals who are working towards
-            eliminating disparities in education and achievement in engineering.
-          </p>
-          <a href="/membership" class="btn btn-footer">Join today!</a>
+          <h5 class="card-title p-2 subfooter font-weight-bold">{{ block.title }}</h5>
+          <p class="card-text subfooter">{{ block.body }}</p>
+          {% if block.linkurl and block.linktext %}
+          <a href="{{ block.linkurl }}" class="btn btn-footer">{{ block.linktext }}</a>
+          {% endif %}
         </div>
       </div>
-
-      <div class="card subfooter col-lg-3 col-sm-12">
-        <div class="card-body">
-          <h5 class="card-title p-2 font-weight-bold">Donations</h5>
-          <p class="card-text">
-            Want to make a difference? Donate to NSBE MP today!! NSBE MP is a 501(c)(3) organization. Donations made to
-            NSBE MP will go to the NSBE MP Scholarship Fund.
-          </p>
-          <a href="/donate" class="btn btn-footer">Donate today!</a>
-        </div>
-      </div>
-
-      <div class="card text-white subfooter col-lg-3 col-sm-12">
-        <div class="card-body">
-          <h5 class="card-title p-2 font-weight-bold">Amazon Smile</h5>
-          <p class="card-text">
-            If you shop with Amazon, please consider using Amazon Smile for your purchase.
-            NSBE MP receives a percentage of your purchase that is used towards scholarships
-            and community programs.
-          </p>
-          <a href="/donate#amazon-smile" class="btn btn-footer">Shop today!</a>
-        </div>
-      </div>
+      {% endfor %}
 
       <div class="card subfooter col-lg-3 col-sm-12">
         <div class="card-body">
           <h5 class="card-title p-2 font-weight-bold">Links</h5>
           <ul class="list-unstyled footer">
+            {% for link in config.theme.contactlinks %}
             <li class="nav-item">
-              <a class="text-black" href="/contact">Contact</a>
+              <a class="text-black" href="{{ link.url | url }}">
+                {% if link.icon %}
+                <i class="{{ link.icon }}"></i>
+                {% endif %}
+                {{ link.name | striptags }}
+              </a>
             </li>
-            <li class="nav-item">
-              <a href="tel:(334) 625-8589">(334) 625-8589</a>
-            </li>
-            <li class="nav-item">
-              <a class="text-black" href="https://www.instagram.com/nsbemp" target="_blank">Instagram</a>
-            </li>
-            <li class="nav-item">
-              <a class="text-black" href="https://www.facebook.com/nsbemp" target="_blank">Facebook</a>
-            </li>
-            <li class="nav-item">
-              <a class="text-black" href="https://twitter.com/nsbemp" target="_blank">Twitter</a>
-            </li>
+            {% endfor %}
           </ul>
 
           <ul class="list-unstyled footer">
+            {% for link in config.theme.sociallinks %}
             <li class="nav-item">
-              <a href="https://www.nsbe.org/" target="_blank">National Society of Black Engineers</a></li>
-            <li class="nav-item">
-              <a href="https://www.nsbe.org/professionals/home.aspx" target="_blank">NSBE Professionals</a></li>
-            <li class="nav-item">
-              <a href="https://www.nsbe.org/professionals/Regions/Region3/home.aspx" target="_blank">NSBE Region 3
-                Professionals</a>
+              <a class="text-black" href="{{ link.url | url }}" target="_blank">
+                {% if link.icon %}
+                <i class="{{ link.icon }}"></i>
+                {% endif %}
+                {{ link.name | striptags }}
+              </a>
             </li>
+            {% endfor %}
+          </ul>
+
+          <ul class="list-unstyled footer">
+            {% for link in config.theme.nsbelinks %}
             <li class="nav-item">
-              <a href="https://pdc.nsbe.org" target="_blank">NSBE PDC</a>
+              <a href="{{ link.url | url }}" target="_blank">{{ link.name | striptags }}</a>
             </li>
-            <li class="nav-item">
-              <a href="https://careers.nsbe.org/jobseeker/search" target="_blank">NSBE Careers</a>
-            </li>
+            {% endfor %}
           </ul>
         </div>
       </div>
@@ -385,7 +305,12 @@
     <hr class="bg-white" />
 
     <div class="container text-center">
-      <p class="footer"><strong>Copyright &copy; {{ config.copyright }}</strong></p>
+      <p class="footer">Copyright &copy; {{ config.copyright }}</p>
+      <p class="footer text-small">
+        Cookies are used on this website to track your visits, provide advertisements specific
+        to you, and preferences by a third-party.
+        By continuing to use this site, you agree to the use of cookies unless you have disabled them.
+      </p>
     </div>
   </footer>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"

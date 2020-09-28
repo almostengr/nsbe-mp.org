@@ -1,5 +1,5 @@
 ---
-title: Donate
+title: Make A Donation
 ---
 
 With your donation, NSBE MP can:
@@ -12,6 +12,8 @@ With your donation, NSBE MP can:
 *Instructions: On the cart page, adjust the product quantity until it displays the dollar amount that you wish to donate.*
 
 ## Amazon Smile
+
+If you shop with Amazon, please consider using Amazon Smile for your purchase. NSBE MP receives a percentage of your purchase that is used towards scholarships and community programs. 
 
 <div id="amznCharityBanner">
     <script type="text/javascript" async src="/js/amazonsmile.js"></script>

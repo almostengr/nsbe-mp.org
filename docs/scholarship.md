@@ -4,9 +4,18 @@ imageurl: /images/IMG_6468.jpg
 imagealt: Scholarship receipents with NSBE MP members.
 ---
 
-The Montgomery Professionals Chapter of the National Society of Black Engineers (NSBE -MP) will award
-up to two $500 scholarship(s) to one deserving minority high school senior and/or one deserving college
- student with the intent of pursuing a technical degree from an accredited four-year college or university.
+Each year, the Montgomery Professionals Chapter of the National Society of Black Engineers (NSBE-MP) awards
+scholarships to high school senior and/or college students with the intent of pursuing a technical or 
+engineering degree from an accredited four-year college or university. Students must be a resident of 
+Autauga, Elmore, or Montgomery Counties in Alabama and meet other stated requirements in order to qualify
+for this award.
 
-Sign up for the mailing list to be notified when the scholarship application are being accepted for the 
-upcoming year.
+To be notified when scholarship applications are being accepted for the upcoming year, please sign up for 
+our mailing list or check with your school guidance counselor or advisor.
+
+## Previous Scholarship Recepients
+### 2020 - Jada Stringer; Brandon Butts
+### 2019 - Tiara Williams; Aaron Bowen
+### 2018 - Ryan Roche; Jasmine Williams
+### 2017 - Charity Brown; JoyVante' Pettaway
+### 2016 - Eboni Gardner; Breonna Kyles
