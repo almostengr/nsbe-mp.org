@@ -6,8 +6,6 @@
     --nsbe-green: rgb(0, 255, 0);
     --nsbe-black: rgb(0, 0, 0);
     --nsbe-yellow: rgb(255, 255, 0);
-    /* --subfooter-color: #adb8b8; */
-    --subfooter-color: #cccccc;
 }
 
 .bd-placeholder-img {
@@ -31,21 +29,13 @@ a.btn {
     text-decoration: none;
 }
 
-.jumbotron {
-    background-color: var(--black);
-    background-image: url("/images/edaybanner.jpg");
-    background-position: center;
-    background-repeat: no-repeat;
-    border-radius: 0px;
-}
-
 nav.navbar-color {
     background-color: var(--dark-red);
 }
 
 nav.navbar-color>a.navbar-brand, 
 ul.navbar-nav>li.nav-item>a.nav-link,
-ul.footer>.nav-item.list-inline-item>a,
+ul.footer>.nav-item>a,
 .text-white {
     color: var(--white);
 }
@@ -58,19 +48,27 @@ ul.footer>.nav-item.list-inline-item>a,
     color: var(--black);
 }
 
-ul.footer>.nav-item.list-inline-item>a:hover, div.body>p>a:hover, div.body>ul>li>a:hover {
+ul.footer>.nav-item>a:hover {
+    font-weight: bold;
+} 
+
+div.body>p>a:hover, 
+div.body>ul>li>a:hover,
+div.body > div > a:hover {
     color: var(--dark-red);
 }
 
-/* ul.footer>.nav-item.list-inline-item>a {
-    color: var(--white);
-    text-decoration: underline;
-} */
-
 div.body>p>a, 
-div.body>ul>li>a {
+div.body>ul>li>a,
+div.body > div > a {
     color: var(--black);
-    /* text-decoration: underline; */
+}
+
+a.btn.btn-footer {
+    background-color: var(--black);
+    color: var(--white);
+    border-width: 1px;
+    border-color: var(--black);
 }
 
 h1 {
@@ -80,7 +78,6 @@ h1 {
 }
 
 h2 {
-    /* font-weight: bold; */
     border-bottom: solid var(--black) 1px;
 }
 
@@ -100,40 +97,42 @@ hr {
     background-color: var(--dark-red);
 }
 
+img.headimage {
+    max-width: 75%;
+    height: auto;
+}
+
+h5.card-title {
+    border-bottom: 3px;
+    border-bottom-style: solid;
+}
+
+div.card {
+    border-width: 0px;
+}
+
 .subfooter,
 a.card-link {
-    background-color: var(--black);
-    color: var(--nsbe-red);
+    background-color: var(--dark-red);
+    color: var(--white)
 }
 
 a {
     text-decoration: underline;
 }
 
-/* .footer-red {
-    background-color: var(--nsbe-red);
-    color: var(--black);
-}
-
-.footer-yellow {
-    background-color: var(--nsbe-yellow);
-    color: var(--black);
-} */
-
 div.card.subfooter {
     border-radius: 0px;
 }
 
 main{
-    min-height: 100vh;
+    min-height: 75vh;
+    background-color: var(--white);
 }
 
 footer.footer {
-    background-color: var(--black);
     color: var(--white);
     margin-top: 0px;
-    padding-bottom: 20px;
-    padding-top: 5px;
 }
 
 nav.navbar > a.navbar-brand,
@@ -141,6 +140,7 @@ div#navbarsExampleDefault > ul > li > a {
     text-decoration: none;
 }
 
-h1.display-3 {
-    border-bottom: none;
+body {
+    padding-top: 3.5rem;
+    background-color: var(--dark-red);
 }

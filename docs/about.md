@@ -1,10 +1,8 @@
 ---
 title: About NSBE Montgomery Professionals
+imageurl: /images/mgmskyline.jpg
+imagealt: Montgomery skyline at night
 ---
-
-<div class="col-12 text-center mb-3">
-<img src="/images/mgmskyline.jpg" alt="Montgomery skyline at night" class="mx-auto">
-</div>
 
 ## About The NSBE Montgomery Professionals Chapter
 
