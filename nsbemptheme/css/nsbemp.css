@@ -33,10 +33,9 @@ nav.navbar-color {
     background-color: var(--dark-red);
 }
 
-nav.navbar-color>a.navbar-brand, 
+nav.navbar-color>a.navbar-brand,
 ul.navbar-nav>li.nav-item>a.nav-link,
-ul.footer>.nav-item>a,
-.text-white {
+ul.footer>.nav-item>a {
     color: var(--white);
 }
 
@@ -44,23 +43,20 @@ ul.footer>.nav-item>a,
     background-color: var(--black);
 }
 
-.text-black {
-    color: var(--black);
-}
-
 ul.footer>.nav-item>a:hover {
     font-weight: bold;
-} 
+}
 
-div.body>p>a:hover, 
+div.body>p>a:hover,
 div.body>ul>li>a:hover,
 div.body > div > a:hover {
     color: var(--dark-red);
 }
 
-div.body>p>a, 
+div.body>p>a,
 div.body>ul>li>a,
-div.body > div > a {
+div.body > div > a,
+.text-black {
     color: var(--black);
 }
 
@@ -89,14 +85,6 @@ hr {
     background-color: var(--dark-red);
 }
 
-.nsbe-red-border {
-    border-color: var(--dark-red);
-}
-
-.bg-darkred {
-    background-color: var(--dark-red);
-}
-
 img.headimage {
     max-width: 75%;
     height: auto;
@@ -114,7 +102,7 @@ div.card {
 .subfooter,
 a.card-link {
     background-color: var(--dark-red);
-    color: var(--white)
+    color: var(--white);
 }
 
 a {
@@ -143,4 +131,13 @@ div#navbarsExampleDefault > ul > li > a {
 body {
     padding-top: 3.5rem;
     background-color: var(--dark-red);
+}
+
+.required:after, label.required:after {
+    content: ' *';
+    color: var(--nsbe-red);
+}
+
+.btn-dark {
+    background-color: var(--black);
 }

@@ -163,25 +163,30 @@
           </div>
           <div class="container">
             <div class="carousel-caption text-right">
+              <!-- <p><a class="btn btn-lg" href="/nsbejr" role="button">Find out about NSBE Jr!</a></p> -->
             </div>
           </div>
         </div>
         <div class="carousel-item">
           <div class="text-center">
             <img class="bd-placeholder-img" src="/images/23376203_2076577645910383_3305085649971947333_n.jpg"
-              style="width: auto; text-align: center; height: 100%;" />
+            style="width: auto; text-align: center; height: 100%;" />
           </div>
           <div class="container">
             <div class="carousel-caption text-right">
+              <!-- <p><a class="btn btn-lg" href="/nsbejr" role="button">Find out about NSBE Jr!</a></p> -->
             </div>
           </div>
         </div>
         <div class="carousel-item">
           <div class="text-center">
-            <img src="/images/20171118_125459.jpg" style="width: 60%; text-align: center; height: auto;" />
+            <img class="bd-placeholder-img" src="/images/20171118_125459.jpg" 
+            style="width: auto; text-align: center; height: 100%;" />
           </div>
           <div class="container">
-            <div class="carousel-caption text-right"></div>
+            <div class="carousel-caption text-right">
+              <!-- <p><a class="btn btn-lg" href="/nsbejr" role="button">Find out about NSBE Jr!</a></p> -->
+            </div>
           </div>
         </div>
       </div>
@@ -199,28 +204,57 @@
     <div class="container">
       <div class="row">
         <div class="col-md-4">
-          <h2>Join NSBE</h2>
+          <h2>NSBE Jr</h2>
           <p>
-            To become a member of NSBE, you will need to complete all of the steps listed on the
-            Membership page.
+            NSBE Jr is designed for students in grades K-12 to receive mentoring from current
+            engineers and exposure to STEM activities in a learning environment.
           </p>
-          <p><a class="btn btn-secondary" href="/membership" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-dark" href="/nsbejr" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>E-Day At The Park</h2>
           <p>
-            E-Day in the Park allows K–12th grade students an opportunity to participate in a number of hands-on
+            E-Day at the Park is an annual event hosted by NSBE MP that allows K–12th grade students
+            an opportunity to participate in a number of hands-on
             activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
           </p>
-          <p><a class="btn btn-secondary" href="/eday" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-dark" href="/eday" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>Meetings</h2>
+          <p>
+            Meetings are held on the first Tuesday of each month at 6 PM CT.
+          </p>
+          <p><a class="btn btn-dark" href="/programs#professional-development" role="button">View details &raquo;</a></p>
+        </div>
+      </div> <!-- end of first row -->
+
+      <div class="row">
+        <div class="col-md-4">
+          <h2>Join NSBE</h2>
+          <p>
+            NSBE Jr is designed for students in grades K-12 to receive mentoring from current
+            engineers and exposure to STEM activities in a learning environment.
+          </p>
+          <p><a class="btn btn-dark" href="/membership" role="button">View details &raquo;</a></p>
+        </div>
+        <div class="col-md-4">
+          <h2>NSBE MP Scholarship</h2>
+          <p>
+            NSBE programs are designed to encourage students in grades K-12 and college to pursue a career
+            in a STEM (Science, Technology, Engineering, and Math) field and to improve professionals
+            in their career development.
+          </p>
+          <p><a class="btn btn-dark" href="/scholarship" role="button">View details &raquo;</a></p>
         </div>
         <div class="col-md-4">
           <h2>Programs</h2>
           <p>
-            NSBE programs are designed to encourage students in grades K-12 and college to pursue a career 
-            in a STEM (Science, Technology, Engineering, and Math) field.
+            NSBE programs are designed to encourage students in grades K-12 and college to pursue a career
+            in a STEM (Science, Technology, Engineering, and Math) field and to improve professionals
+            in their career development.
           </p>
-          <p><a class="btn btn-secondary" href="/programs" role="button">View details &raquo;</a></p>
+          <p><a class="btn btn-dark" href="/programs" role="button">View details &raquo;</a></p>
         </div>
       </div>
     </div> <!-- end headings -->
@@ -238,6 +272,34 @@
       {% endif %}
 
       {{ page.content }}
+
+      {% if page.url == "contact/" %}
+      <form method="POST" action="/submit.php">
+        <p>
+          <label for="requestorname" class="font-weight-bold required">Name</label><br />
+          <input class="form-control" name="requestorname" type="text" placeholder="John Doe" required="required"
+            minlength="4" />
+        </p>
+        <p>
+          <label for="emailaddress" class="font-weight-bold required">Email Address</label><br />
+          <input class="form-control" name="emailaddress" type="email" placeholder="user@nsbe-mp.org"
+            required="required" minlength="5" />
+        </p>
+        <p>
+          <label for="calltyrone" class="font-weight-bold required">Phone Number</label><br />
+          <input name="calltyrone" type="tel" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" class="form-control"
+            placeholder="555-555-5555" required="required" minlength="12" />
+        </p>
+        <p>
+          <label for="message" class="font-weight-bold required">Message, Comment or Question</label><br />
+          <textarea class="form-control" name="message" required="required" rows="5"
+            placeholder="I have a question about NSBE MP"></textarea>
+        </p>
+        <p>
+          <input type="submit" name="submit" value="Submit" class="btn btn-dark" />
+        </p>
+      </form>
+      {% endif %}
 
       <div class="text-small pb-4"><a href="#top" class="text-small">Back to Top</a></div>
     </div>
@@ -302,18 +364,18 @@
 
           <ul class="list-unstyled footer">
             <li class="nav-item">
-              <a href="http://www.nsbe.org/" target="_blank">National Society of Black Engineers</a></li>
+              <a href="https://www.nsbe.org/" target="_blank">National Society of Black Engineers</a></li>
             <li class="nav-item">
               <a href="https://www.nsbe.org/professionals/home.aspx" target="_blank">NSBE Professionals</a></li>
             <li class="nav-item">
-              <a href="http://www.nsbe.org/professionals/Regions/Region3/home.aspx" target="_blank">NSBE Region 3
+              <a href="https://www.nsbe.org/professionals/Regions/Region3/home.aspx" target="_blank">NSBE Region 3
                 Professionals</a>
             </li>
             <li class="nav-item">
-              <a href="http://pdc.nsbe.org" target="_blank">NSBE PDC</a>
+              <a href="https://pdc.nsbe.org" target="_blank">NSBE PDC</a>
             </li>
             <li class="nav-item">
-              <a href="http://careers.nsbe.org/jobseeker/search" target="_blank">NSBE Careers</a>
+              <a href="https://careers.nsbe.org/jobseeker/search" target="_blank">NSBE Careers</a>
             </li>
           </ul>
         </div>

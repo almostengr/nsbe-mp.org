@@ -1,5 +1,7 @@
 ---
 title: Photos
+imageurl: /images/20171118_125419.jpg
+imagealt: Members of NSBE MP and ASU NSBE
 ---
 
 To see our photos from past events, please visit our social media pages.

@@ -38,3 +38,8 @@ your national and regional dues (if applicable).
 
 Membership dues have to be paid on a yearly basis. The membership year starts on August 1
 and ends on July 31 of each year.
+
+## Questions
+
+Questions regarding membership sign up can be directed to our Chapter Chair-Elect by 
+visiting the [Contact page](/contact).

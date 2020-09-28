@@ -16,3 +16,5 @@
 User-agent: *
 Crawl-delay: 10
 Allow: /
+Disallow: /submission
+Disallow: /submission/index.html
