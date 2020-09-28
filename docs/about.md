@@ -6,9 +6,9 @@ imagealt: Montgomery skyline at night
 
 ## NSBE Montgomery Professionals History
 
-National Society of Black Engineers Montgomery Professionals (NSBE-MP) Chapter is the local Montgomery Area 
-chapter of a national organization of minority professionals educated and working in the STEM fields of 
-Science, Technology, Engineering, and Mathematics.
+National Society of Black Engineers Montgomery Professionals (NSBE-MP) Chapter is the Montgomery, Alabama
+chapter of a national organization of minority professionals educated and working in the fields of 
+Science, Technology, Engineering, and Mathematics (STEM).
 
 NSBE-MP was founded in November 2001. A total of thirteen individuals with various engineering and technical 
 disciplines came together in agreement and vowed to inform, teach, and educate others (especially our youth) 

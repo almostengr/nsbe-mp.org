@@ -37,14 +37,14 @@ theme:
       buttontext: Read more about our Community Programs
       buttonlink: /programs
 
-  headings:
+  marketing:
     - title: NSBE Jr
       body: NSBE Jr is designed for students in grades K-12 to receive mentoring from current engineers and exposure to STEM activities in a learning environment.
       link: /nsbejr
     - title: E-Day At The Park
       body:  E-Day at the Park is an annual event hosted by NSBE MP that allows K-12th grade students an opportunity to participate in a number of hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
       link: /eday
-    - title: Meetings
+    - title: Chapter Meetings
       body:  General Body Meetings are held on the first Tuesday of each month at 6 PM CT.
       link: /programs
     - title: Join NSBE
@@ -122,9 +122,9 @@ theme:
     - name: Sonja Favors
       position: Delegate
       imageurl: "/images/officers/Sonja.jpg"
-    - name: "" # use this to fill empty spots on page so that alignment doesnt appear weird
-      position: ""
-      imageurl: ""
+    # - name: "" # use this to fill empty spots on page so that alignment doesnt appear weird
+    #   position: ""
+    #   imageurl: ""
 
   footerblocks:
     - title: Join Today

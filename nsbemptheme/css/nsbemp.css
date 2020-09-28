@@ -51,7 +51,9 @@ h3 > a:hover,
 div.body>p>a:hover,
 div.body>ul>li>a:hover,
 div.body > div > a:hover {
-    font-weight: bold;
+    /* font-weight: bold; */
+    background-color: var(--dark-red);
+    color: var(--white);
 }
 
 div.body>p>a,

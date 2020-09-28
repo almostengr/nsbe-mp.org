@@ -1,5 +1,7 @@
 ---
 title: Make A Donation
+imageurl: /images/nsbemplogo2.png
+imagealt: National Society of Black Engineers Montgomery Professionals
 ---
 
 With your donation, NSBE MP can:
