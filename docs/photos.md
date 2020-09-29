@@ -1,6 +1,6 @@
 ---
 title: Photos
-imageurl: /images/20171118_125419.jpg
+imageurl: /images/stempresentations.jpg
 imagealt: Members of NSBE MP and ASU NSBE
 ---
 
