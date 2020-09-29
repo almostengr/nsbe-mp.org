@@ -21,8 +21,7 @@ NSBE Jr meets on 3rd Sunday of each month from September until May from
 
 ## Membership Dues
 
-NSBE Jr Membership dues are $5 for grades K-8 and $10 for grades 9 and up. Membership
-dues are paid yearly.
+NSBE Jr Membership dues are $5 for grades K-8 and $10 for grades 9 and up. Membership dues are paid yearly.
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pb-2">
 <input type="hidden" name="cmd" value="_s-xclick">
@@ -33,11 +32,12 @@ dues are paid yearly.
 <option value="Elem/Middle School Student">Elem/Middle School Student $5.00 USD</option>
 <option value="High School Student">High School Student $10.00 USD</option>
 </select>
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="Add to Cart">
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" 
+name="submit" alt="Add to Cart">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
 ## Awards
 
-* In 2019, we recieved the NSBE Region 3 Pre-College Initiative Program of the Year for our efforts with
+* In 2019, we received the NSBE Region 3 Pre-College Initiative Program of the Year for our efforts with
 the CA NSBE Jr program and Engineering Day at the Park.
