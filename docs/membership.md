@@ -46,11 +46,12 @@ select "Professional" as the Membership Type and "Montgomery Professionals" as t
 * Once local and national dues have been paid, you will be officially a member and be able to 
 participate in chapter activities and elections.
 
-### Purchase Local Membership
+### Purchase NSBE MP (Local) Membership
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="6TLMYDYRX27TS">
+<input type="hidden" name="on0" value="Which Membership Would You Like">
 <select name="os0">
 <option value="Local Dues:">Local Dues: $50.00 USD</option>
 </select>

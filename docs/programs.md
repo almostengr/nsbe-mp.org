@@ -21,7 +21,7 @@ outreach events and providing scholarships for graduating high school seniors an
 * [Central Alabama NSBE Jr. Chapter](/nsbejr)
 * [NSBE MP Scholarship](/scholarship)
 * [Career Day Presentations](#career-day-presentations)
-* [STEM Exhibitions and Presentations](/#stem-exhibitions-and-presentations)
+* [STEM Exhibitions and Presentations](#stem-exhibitions-and-presentations)
 
 ### Career Day Presentations
 

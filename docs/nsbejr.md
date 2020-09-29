@@ -17,17 +17,19 @@ leadership, technical development, and teamwork.
 NSBE Jr meets on 3rd Sunday of each month from September until May from
 3 PM until 5 PM CT on the campus of Alabama Statu University. 
 
-**However, due to the pandemic, meetings will be held via Google Meet or Zoom until further notice.**
+**Due to the pandemic, meetings will be held via Google Meet or Zoom until further notice.**
 
 ## Membership Dues
 
 NSBE Jr Membership dues are $5 for grades K-8 and $10 for grades 9 and up. Membership dues are paid yearly.
 
+### Purchase NSBE Jr Membership
+
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pb-2">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="VDL5MXV73N266">
 <input type="hidden" name="currency_code" value="USD">
-<h3><input type="hidden" name="on0" value="Membership Type">Membership Type</h3>
+<input type="hidden" name="on0" value="Membership Type">
 <select name="os0">
 <option value="Elem/Middle School Student">Elem/Middle School Student $5.00 USD</option>
 <option value="High School Student">High School Student $10.00 USD</option>
