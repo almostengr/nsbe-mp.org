@@ -1,0 +1,148 @@
+site_name: NSBE Montgomery Professionals
+site_description: NSBE Montgomery Professionals is a chapter of the National Society of Black Engineers, located in Montgomery, Alabama.
+site_author: NSBE Montgomery Professionals
+copyright: 2020 NSBE Montgomery Professionals (NSBE-MP)
+
+google_analytics: ["UA-101970327-1", "cookieDomain":"auto"]
+
+# repository information
+repo_url: https://github.com/almostengr/nsbe-mp.org
+repo_name: Github
+remote_name: origin
+remote_branch: website
+
+# Development server details
+dev_addr: 192.168.57.117:8000
+
+# Appearance
+theme:
+  name: null
+  custom_dir: 'nsbemptheme'
+  language: en
+
+  carousel:
+    - imageurl: /images/edaybanner.jpg
+      buttontext: Read more about Engineering Day at the Park
+      buttonlink: /eday
+    - imageurl: /images/nsbejr.jpg
+      buttontext: Read more about our NSBE Jr Chapter!
+      buttonlink: /nsbejr
+    - imageurl: /images/carousel3.jpg
+      buttontext: NSBE-MP is involved in the community
+      buttonlink: "#"
+    - imageurl: /images/23376203_2076577645910383_3305085649971947333_n.jpg
+      buttontext: Read more about our TORCH Programs
+      buttonlink: /programs
+    - imageurl: /images/20171118_125459.jpg
+      buttontext: Read more about our Community Programs
+      buttonlink: /programs
+
+  marketing:
+    - title: NSBE Jr
+      body: NSBE Jr is designed for students in grades K-12 to receive mentoring from current engineers and exposure to STEM activities in a learning environment.
+      link: /nsbejr
+    - title: E-Day At The Park
+      body:  E-Day at the Park is an annual event hosted by NSBE MP that allows K-12th grade students an opportunity to participate in a number of hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
+      link: /eday
+    - title: Chapter Meetings
+      body:  General Body Meetings are held on the first Tuesday of each month at 6 PM CT.
+      link: /programs
+    - title: Join NSBE
+      body: Being a member of NSBE comes with great benefits and networking opportunities.
+      link: /membership
+    - title: Scholarships
+      body: Each year, NSBE MP gives out scholarships to students in the River Region that are pursuing or plan on pursuing a degree in a STEM or engineering related field.
+      link: /scholarship
+    - title: Programs
+      body: NSBE programs are designed to encourage students in grades K-12 and college to pursue a career in a STEM (Science, Technology, Engineering, and Math) field and to improve professionals in their career development.
+      link: /programs
+
+  contactlinks:
+    - url: /contact
+      name: Contact
+      icon: fas fa-id-card-alt
+    - url: tel:(334) 625-8589
+      name: (334) 625-8589
+      icon: fas fa-phone
+
+  nsbelinks:
+    - url: https://www.nsbe.org
+      name: National Society of Black Engineers (NSBE)
+    - url: https://www.nsbe.org/professionals/home.aspx
+      name: NSBE Professionals
+    - url: https://www.nsbe.org/professionals/Regions/Region3/home.aspx
+      name: NSBE Region 3 Professionals
+    - url: https://pdc.nsbe.org/
+      name: NSBE PDC
+    - url: https://careers.nsbe.org/jobseeker/search
+      name: NSBE Careers
+
+  sociallinks:
+    - url: https://www.facebook.com/nsbemp
+      name: Facebook
+      icon: fab fa-facebook
+    - url: https://www.instagram.com/nsbemp
+      name: Instagram
+      icon: fab fa-instagram
+    - url: https://twitter.com/nsbemp
+      name: Twitter
+      icon: fab fa-twitter
+
+  eboard:
+    - name: Shar Stiles
+      position: President
+      imageurl: "/images/officers/Shar.jpg"
+    - name: Adam Sumbry
+      position: President-Elect, Programs Chair
+      imageurl: "/images/officers/Adam.jpg"
+    - name: Kel Morrissette
+      position: Secretary
+      imageurl: "/images/officers/Kel.jpg"
+    - name: Al Thomas
+      position: Treasurer
+      imageurl: "/images/officers/Al.jpg"
+    - name: Janice Hamilton
+      position: Parliamentarian, Membership Chair
+      imageurl: "/images/officers/Janice.jpg"
+    - name: Kenny Robinson
+      position: President Emeritus, Delegate
+      imageurl: "/images/officers/Kenny.jpg"
+    - name: Tamaria McAlpin
+      position: PCI (Pre-Collegiate Initiative) Chair
+      imageurl: "/images/officers/Tamaria.jpg"
+    - name: Earnest Colvin
+      position: Scholarship Chair
+      imageurl: "/images/officers/Earnest.jpg"
+    - name: Rodney Zeigler
+      position: Fundraising Chair
+      imageurl: "/images/officers/Zig.jpg"
+    - name: LaTasha Merchant
+      position: Telecommunications Chair
+      imageurl: "/images/officers/Tasha.jpg"
+    - name: Sonja Favors
+      position: Delegate
+      imageurl: "/images/officers/Sonja.jpg"
+    # - name: "" # use this to fill empty spots on page so that alignment doesnt appear weird
+    #   position: ""
+    #   imageurl: ""
+
+  footerblocks:
+    - title: Join Today
+      body: Join NSBE-MP! We want you to become a member of the most dynamic group professionals who are working towards eliminating disparities in education and achievement in engineering.
+      linkurl: /membership
+      linktext: Join now
+    - title: Donations
+      body: Want to make a difference? Donate to NSBE MP today!! NSBE MP is a 501(c)(3) organization. Donations made to NSBE MP will go to the NSBE MP Scholarship Fund.
+      linkurl: /donate
+      linktext: Donate today
+    - title: Amazon Smile
+      body: If you shop with Amazon, please consider using Amazon Smile for your purchase. NSBE MP receives a percentage of your purchase that is used towards scholarships and community programs.
+      linkurl: /donate#amazon-smile
+      linktext: Start shopping
+
+use_directory_urls: true
+strict: false
+
+plugins:
+  - minify:
+      minify_html: true
