@@ -40,9 +40,9 @@
   <meta name="twitter:title" content="{{ config.site_name }}" />
   {% endif %}
 
-  {% if page.meta.image %}
-  <meta property="og:image" content="{{ page.meta.image | url }}" />
-  <meta name="twitter:image" content="{{ page.meta.image | url }}" />
+  {% if page.meta.imageurl %}
+  <meta property="og:image" content="{{ page.meta.imageurl | url }}" />
+  <meta name="twitter:image" content="{{ page.meta.imageurl | url }}" />
   {% endif %}
 
   {% if page.meta.keywords %}
