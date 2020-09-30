@@ -1,6 +1,7 @@
 site_name: NSBE Montgomery Professionals
 site_description: NSBE Montgomery Professionals is a chapter of the National Society of Black Engineers, located in Montgomery, Alabama.
 site_author: NSBE Montgomery Professionals
+site_url: https://www.nsbe-mp.org
 copyright: 2020 NSBE Montgomery Professionals (NSBE-MP)
 
 google_analytics: ["UA-101970327-1", "cookieDomain":"auto"]
