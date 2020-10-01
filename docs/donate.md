@@ -25,6 +25,6 @@ To make a donation, click the button below.
 If you shop with Amazon, please consider using Amazon Smile for your purchase. NSBE MP receives a percentage of your purchase that is used towards scholarships and community programs. 
 
 <div id="amznCharityBanner">
-    <script type="text/javascript" async src="/js/amazonsmile.js"></script>
+    <script type="text/javascript" async src="/js/amazonsmile.min.js"></script>
     <iframe style="display: block; border: medium none;" scrolling="no" frameborder="0"></iframe>
 </div>
