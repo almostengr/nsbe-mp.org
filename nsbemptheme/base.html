@@ -68,7 +68,7 @@
   {% endif %}
 
   {% if config.google_analytics %}
-<script type="text/javascript" src=/js/analytics.min.js></script>
+  <script type="text/javascript" src=/js/analytics.min.js></script>
   {% endif %}
 
   <script async id="mcjs" src="/js/mailchimp.min.js"></script>
@@ -128,7 +128,9 @@
       </ol>
       <div class="carousel-inner bg-black">
         {% for item in config.theme.carousel %}
-        <div {% if loop.first %} class="carousel-item text-center active">
+        <div 
+          {% if loop.first %} 
+          class="carousel-item text-center active">
           {% else %}
           class="carousel-item text-center">
           {% endif %}
@@ -286,12 +288,11 @@
     <hr class="bg-white" />
 
     <div class="container text-center">
-      <p class="footer">Copyright &copy; {{ config.copyright }}</p>
+      <p class="footer">Copyright &copy; {{ build_date_utc.strftime('%Y') }} {{ config.copyright }}</p>
       <p class="footer text-small">
         Cookies are used on this website to track your visits, provide advertisements specific
         to you, and preferences by a third-party.
-        By continuing to use this site, you agree to the use of cookies unless you have disabled them.<br />
-        Last Updated: {{ build_date_utc }}
+        By continuing to use this site, you agree to the use of cookies unless you have disabled them.
       </p>
     </div>
   </footer>
