@@ -1,6 +1,6 @@
 ---
 title: Contact Us
-imageurl: /images/nsbemplogo2.png
+imageurl: /images/nsbemplogo2.jpg
 imagealt: National Society of Black Engineers Montgomery Professionals
 ---
 
