@@ -78,6 +78,8 @@ theme:
       name: NSBE PDC
     - url: https://careers.nsbe.org/jobseeker/search
       name: NSBE Careers
+    - url: https://connect.nsbe.org/
+      name: NSBE Connect
 
   sociallinks:
     - url: https://www.facebook.com/nsbemp
