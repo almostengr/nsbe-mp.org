@@ -38,9 +38,9 @@ National and regional membership dues can be found by visiting
 To become a member of NSBE, you will need to complete all of the steps listed below.
 
 * Register with NSBE National. This can be done by visiting 
-<a href="https://connect.nsbe.org/NewUser.aspx" target="_blank">NSBE Connect</a>.
+<a href="https://connect.nsbe.org" target="_blank">NSBE Connect</a>.
 * Pay your National and Regional Dues. This step is also done via the 
-<a href="https://connect.nsbe.org/NewUser.aspx" target="_blank">NSBE Connect website</a>. When paying,
+<a href="https://connect.nsbe.org" target="_blank">NSBE Connect website</a>. When paying,
 select "Professional" as the Membership Type and "Montgomery Professionals" as the Chapter.
 * Pay your Local Dues. This step is done by clicking the "Add To Cart" in the section below.
 * Once local and national dues have been paid, you will be officially a member and be able to 
