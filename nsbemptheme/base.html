@@ -92,23 +92,13 @@
 
     <div class="collapse navbar-collapse" id="navbarsExampleDefault">
       <ul class="navbar-nav ml-auto">
+        {% for navitem in config.theme.mainnav %}
         <li class="nav-item">
-          <a href="/membership" class="nav-link">Membership</a>
-        </li>
-        <li class="nav-item">
-          <a href="/programs" class="nav-link">Programs</a>
-        </li>
-        <li class="nav-item">
-          <a href="https://www.facebook.com/nsbemp/events" target="_blank" class="nav-link">Events</a>
-        </li>
-        <li class="nav-item">
-          <a href="/photos" class="nav-link">Photos</a>
-        </li>
-        <li class="nav-item">
-          <a href="/about" class="nav-link">About</a>
-        </li>
-        <li class="nav-item">
-          <a href="/contact" class="nav-link">Contact</a>
+          {% if navitem.target %}
+          <a href="{{ navitem.link }}" class="nav-link" target="{{ navitem.target }}">{{ navitem.name }}</a>
+          {% else %}
+          <a href="{{ navitem.link }}" class="nav-link">{{ navitem.name }}</a>
+          {% endif %}
         </li>
       </ul>
     </div>
