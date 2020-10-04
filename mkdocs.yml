@@ -21,6 +21,20 @@ theme:
   custom_dir: 'nsbemptheme'
   language: en
   theme: '@nsbemp'
+  
+  mainnav:
+    - link: /membership
+      name: Membership
+    - link: /programs
+      name: Programs
+    - link: /donate
+      name: Donate
+    - link: https://www.facebook.com/nsbemp/events
+      name: Events
+    - link: /about
+      name: About
+    - link: /contact
+      name: Contact
 
   carousel:
     - imageurl: /images/edaybanner.jpg
@@ -60,12 +74,15 @@ theme:
       link: /programs
 
   contactlinks:
-    - url: /contact
+    - url:  /contact
       name: Contact
       icon: fas fa-id-card-alt
-    - url: tel:(334) 625-8589
+    - url:  tel:(334) 625-8589
       name: (334) 625-8589
       icon: fas fa-phone
+    - url:  /photos
+      name: Photos
+      icon: fas fa-photo-video
 
   nsbelinks:
     - url: https://www.nsbe.org
