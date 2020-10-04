@@ -29,8 +29,9 @@ theme:
       name: Programs
     - link: /donate
       name: Donate
-    - link: https://www.facebook.com/nsbemp/events
-      name: Events
+    - name: Events
+      link: https://www.facebook.com/nsbemp/events
+      target: "_blank"
     - link: /about
       name: About
     - link: /contact
