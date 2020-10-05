@@ -12,6 +12,11 @@ Due to the COVID-19 pandemic, Engineering Day will be held virutally this year. 
 details will be posted at a later time. Please check our social media pages for the 
 latest updates.
 
+## E-Day 2020
+
+To register for Virtual Engineering Day, visit 
+<a href="http://nsbempvirtualeday.eventbrite.com/" target="_blank">our Event Brite page</a>.
+
 ## Highlights
 
 Engineering Day At The Park was featured on the local news. Check out the video on our 
