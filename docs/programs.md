@@ -17,6 +17,8 @@ NSBE TORCH Programs are designed to encourage students in grades K-12 and colleg
 STEM (Science, Technology, Engineering, and Math) field. This is done though various community
 outreach events and providing scholarships for graduating high school seniors and collegiate students.
 
+Below are the programs that we offer. Click the program name below to read more information about it.
+
 * [E-Day (Engineering Day) At The Park](/eday)
 * [Central Alabama NSBE Jr. Chapter](/nsbejr)
 * [NSBE MP Scholarship](/scholarship)
@@ -31,8 +33,9 @@ alt="Two of NSBE MP members participating in Career Day at Catoma Elementary, a 
 </div>
 
 Our members are glad to share the work that we do in our professional careers to the
-community through career day presentations. Pictured above is the career day presentation that two 
-NSBE-MP members did who work for the Alabama Department of Transportation.
+community through career day presentations. Pictured above is the career day presentation at 
+Catoma Elementary in Montgomery, Alabama, that NSBE-MP members did who work for the
+Alabama Department of Transportation presented information about their careers.
 
 ### STEM Exhibitions and Presentations
 
@@ -53,3 +56,6 @@ professional. Various events are held throughout the year.
 * Monthly Chapter Meetings - meetings are held on the first Tuesday of each month at 6 PM CT
 * Networking Events
 * Special Interest Group (SIG) meetings and workshops
+
+To find out when these events will happen, follow or like our social media pages nad sign up for our
+mailing list.

@@ -8,7 +8,7 @@ NSBE Jr. is the formal membership category for NSBE (National Society of Black E
 students which exists to fulfill NSBE's Pre-College Initiative (PCI). The Pre-College Initiative (PCI)
 Program is designed to stimulate the interest in science, technology, engineering, and mathematics fields,
 or STEM. The goal is to encourage students in grades 3-12 to attend college and pursue technical degrees.
-Central Alabama NSBE Jr. program provides activities to help students discover firsthand how engineering
+The Central Alabama NSBE Jr. program provides activities to help students discover firsthand how engineering
 and technology relate to the world around them and discover the excitement of academic excellence,
 leadership, technical development, and teamwork.
 
@@ -17,11 +17,11 @@ leadership, technical development, and teamwork.
 NSBE Jr meets on 3rd Sunday of each month from September until May from
 3 PM until 5 PM CT on the campus of Alabama Statu University. 
 
-**Due to the pandemic, meetings will be held via Google Meet or Zoom until further notice.**
+**Due to the COVID-19 pandemic, meetings will be held via Google Meet or Zoom until further notice.**
 
 ## Membership Dues
 
-NSBE Jr Membership dues are $5 for grades K-8 and $10 for grades 9 and up. Membership dues are paid yearly.
+NSBE Jr Membership dues are $5 for grades K-8 and $10 for grades 9-12. Membership dues are paid yearly.
 
 ### Purchase NSBE Jr Membership
 

@@ -37,7 +37,7 @@ The dean agreed to the idea and assigned the only black faculty member on staff,
 
 Barnett served as the first president of the BSE. The fledging group gained momentum in 1974, with the direction 
 and encouragement of Bond and the active participation of the young men whose destiny was to become the founders 
-of NSBE. Now known as the &quot;Chicago Six&quot;, these men are Anthony Harris, Brian Harris, Stanley L. Kirtley, 
+of NSBE. Now known as the "Chicago Six", these men are Anthony Harris, Brian Harris, Stanley L. Kirtley, 
 John W. Logan, Jr., Edward A. Coleman, and George A. Smith.
 
 Encouraged by their on-campus success, Anthony Harris, president of the Purdue chapter, wrote a letter to the presidents 
@@ -45,11 +45,11 @@ and deans of every accredited engineering program in the country (288), explaine
 (SBE) concept and asked them to identify black student leaders, organizations and faculty members who might support 
 their efforts on a national basis. Approximately 80 schools responded. Many had similar Black student organizations 
 with similar objectives. A date was set for the first national meeting and 48 students representing 32 schools attended 
-the event, held April 10-12, 1975. Harris also changed the organizations&#39; nomenclature from the BSE to the Society 
+the event, held April 10-12, 1975. Harris also changed the organizations' nomenclature from the BSE to the Society 
 of Black Engineers (SBE).
 
 It was at that historic meeting through majority vote, that SBE became the National Society of Black Engineers. 
-The familiar NSBE symbol &quot;N&quot; with lightning bolts was chosen and it remains a distinctively recognizable symbol 
+The familiar NSBE symbol "N" with lightning bolts was chosen and it remains a distinctively recognizable symbol 
 representing the premier technical organization for African American engineering students and professionals. NSBE 
 was eventually incorporated in Texas, in 1976 as a non-profit organization. John Cason, also of Purdue, served as 
 the first elected president of NSBE. As the organization grew, Virginia Booth became the first female National Chairperson 

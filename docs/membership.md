@@ -11,9 +11,10 @@ NSBE Montgomery Professionals. Membership dues are $50.00 for the
 ## Membership Benefits
 
 * A vote in chapter issues.
-* Discounted rates to NSBE Regional Conference, Professional Development Conference, and National Convention.
+* Discounted rates to NSBE Regional Conferences, NSBE Professional Development Conference (PDC), 
+and NSBE National Convention.
 * Discounts with our partner organizations including Ford, Geico, Dell, and more!
-* Join membership opportunities with SWE (Society of Women Engineers) and ASME (American Society of 
+* Joint membership opportunities with SWE (Society of Women Engineers) and ASME (American Society of 
 Mechanical Engineers).
 * Networking opportunities with other engineers and technical professionals.
 * Becoming one of a group of professionals who are working towards eliminating disparities in education 
@@ -28,12 +29,12 @@ Membership dues for NSBE MP and CA NSBE Jr are broken down by the following cate
 
 * Current or Previous Professional Members - $50 annually
 * [First Year Professional Members](#first-year-members) - Free
-* NSBE Jr Members - $5 annually
+* NSBE Jr Members - $5 annually for Elementary and Middle School students, $10 annually for high school students
 
 National and regional membership dues can be found by visiting 
 <a href="https://connect.nsbe.org" target="_blank">NSBE Connect</a>.
 
-## How to Become A Member
+## How to Become A NSBE Professional Member
 
 To become a member of NSBE, you will need to complete all of the steps listed below.
 
@@ -47,6 +48,9 @@ select "Professional" as the Membership Type and "Montgomery Professionals" as t
 participate in chapter activities and elections.
 
 ### Purchase NSBE MP (Local) Membership
+
+To pay your local dues to NSBE MP, select the option you wish to pay and click the "Add to Cart" button. 
+You will be directed to Paypal to complete your transaction.
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
 <input type="hidden" name="cmd" value="_s-xclick">

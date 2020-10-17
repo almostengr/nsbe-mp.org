@@ -1,7 +1,7 @@
 ---
 title: NSBE MP Scholarship
 imageurl: /images/IMG_6468.jpg
-imagealt: Scholarship receipents with NSBE MP members.
+imagealt: 2016 NSBE MP Scholarship receipents with NSBE MP members.
 ---
 
 Each year, the Montgomery Professionals Chapter of the National Society of Black Engineers (NSBE-MP) awards
