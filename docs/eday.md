@@ -29,11 +29,15 @@ This project is designed for 3rd through 7th Grade Students. This session will s
 
 [Download Instructions and Supply List](/files/Rubber Band Powered Helicopter Virtual E-Day.pdf)
 
+<a href="https://www.facebook.com/watch/?v=396275881763482" target="_blank">Watch Session at Virtual E-Day</a>
+
 ### Session 2: Extending Grabber
 
 This project is designed for 8th through 12th Grade Students. This session will start at 12 PM CT.
 
 [Download Instructions and Supply List](/files/Extending Grabber Virtual E-Day.pdf)
+
+<a href="https://www.facebook.com/watch/?v=371819160852461" target="_blank">Watch Session at Virtual E-Day</a>
 
 ## E-Day 2019 Highlights
 
