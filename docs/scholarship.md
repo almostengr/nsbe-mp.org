@@ -15,8 +15,10 @@ our mailing list or check with your school guidance counselor or advisor.
 
 ## 2021 Scholarship Application Now Open!
 
+![2021 Scholarship Flyer](/files/2021 Scholarship Flyer.jpg)
+
 Applications are now being accepted for the NSBE MP Scholarship for 2021. Applications must be 
-postmarked by January 23, 2021. 
+postmarked by February 22, 2021. 
 
 [Download Application](/files/NSBE-MP 2021 Scholarship Application.pdf)
 
