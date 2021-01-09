@@ -20,7 +20,7 @@ our mailing list or check with your school guidance counselor or advisor.
 Applications are now being accepted for the NSBE MP Scholarship for 2021. Applications must be 
 postmarked by February 22, 2021. 
 
-[Download Application](/files/NSBE-MP 2021 Scholarship Application.pdf)
+To apply for for the scholarship, [Download Application](/files/NSBE-MP 2021 Scholarship Application.pdf)
 
 ## Previous Scholarship Recepients
 ### 2020 - Jada Stringer; Brandon Butts
