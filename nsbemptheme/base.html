@@ -191,33 +191,6 @@
 
       {{ page.content }}
 
-      {% if page.url == "contact/" %}
-      <form method="POST" action="/submit.php">
-        <p>
-          <label for="requestorname" class="font-weight-bold required">Name</label><br />
-          <input class="form-control" name="requestorname" type="text" placeholder="John Doe" required="required"
-            minlength="4" />
-        </p>
-        <p>
-          <label for="emailaddress" class="font-weight-bold required">Email Address</label><br />
-          <input class="form-control" name="emailaddress" type="email" placeholder="user@nsbe-mp.org"
-            required="required" minlength="5" />
-        </p>
-        <p>
-          <label for="calltyrone" class="font-weight-bold required">Phone Number</label><br />
-          <input name="calltyrone" type="tel" class="form-control" placeholder="555-555-5555" minlength="12" />
-        </p>
-        <p>
-          <label for="message" class="font-weight-bold required">Message, Comment or Question</label><br />
-          <textarea class="form-control" name="message" required="required" rows="5"
-            placeholder="I have a question about NSBE MP"></textarea>
-        </p>
-        <p>
-          <input type="submit" name="submit" value="Submit" class="btn btn-dark" />
-        </p>
-      </form>
-      {% endif %}
-
       <div class="text-small py-4"><a href="#top">Back to Top</a></div>
     </div>
   </main>
