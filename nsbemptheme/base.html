@@ -10,7 +10,7 @@
   <meta name="twitter:site" content="{{ config.theme.twitter_name }}" />
   <meta name="twitter:creator" content="{{ config.theme.twitter_name }}" />
 
-  {% if page.meta.description %}
+  {% if page and page.meta.description %}
   <meta name="description" content="{{ page.meta.description | striptags }}">
   <meta property="og:description" content="{{ page.meta.description | striptags }}" />
   <meta name="twitter:description" content="{{ page.meta.description | striptags }}" />
@@ -20,13 +20,13 @@
   <meta name="twitter:description" content="{{ config.site_description | striptags }}" />
   {% endif %}
 
-  {% if page.meta.author %}
+  {% if page and page.meta.author %}
   <meta name="author" content="{{ page.meta.author }}">
   {% else %}
   <meta name="author" content="{{ config.site_author }}">
   {% endif %}
 
-  {% if page.meta.title %}
+  {% if page and page.meta.title %}
   <title>{{ page.meta.title | striptags }} | {{ config.site_name }}</title>
   <meta property="og:title" content="{{ page.meta.title }}" />
   <meta name="twitter:title" content="{{ page.meta.title }}" />
@@ -40,28 +40,28 @@
   <meta name="twitter:title" content="{{ config.site_name }}" />
   {% endif %}
 
-  {% if page.meta.imageurl %}
+  {% if page and page.meta.imageurl %}
   <meta property="og:image" content="{{ page.meta.imageurl | url }}" />
   <meta name="twitter:image" content="{{ page.meta.imageurl | url }}" />
   {% endif %}
 
-  {% if page.meta.keywords %}
+  {% if page and page.meta.keywords %}
   <meta name="keywords" content="{{ page.meta.keywords }}" />
   {% endif %}
 
-  {% if page.meta.ogtype %}
+  {% if page and page.meta.ogtype %}
   <meta property="og:type" content="{{ page.meta.ogtype }}" />
   {% else %}
   <meta property="og:type" content="website" />
   {% endif %}
 
-  {% if page.meta.robots %}
+  {% if page and page.meta.robots %}
   <meta name="robots" content="{{ page.meta.robots }}" />
   {% else %}
   <meta name="robots" content="index, follow" />
   {% endif %}
 
-  {% if page.canonical_url %}
+  {% if page and page.canonical_url %}
   <link rel="canonical" href="{{ page.canonical_url | url }}">
   <meta property="og:url" content="{{ page.canonical_url | url }}" />
   <meta property="twitter:url" content="{{ page.canonical_url | url }}" />
@@ -162,17 +162,17 @@
     {% endif %}
 
     <div class="container body">
-      {% if page.meta.title %}
+      {% if page and page.meta.title %}
       <h1>{{ page.meta.title }}</h1>
       {% endif %}
 
-      {% if page.meta.imageurl and page.meta.imagealt %}
+      {% if page and page.meta.imageurl and page.meta.imagealt %}
       <div class="col-12 pb-4 text-center">
         <img src="{{ page.meta.imageurl | url }}" alt="{{ page.meta.imagealt }}" class="headimage" />
       </div>
       {% endif %}
 
-      {% if page.url == "about/" %}
+      {% if page and page.url == "about/" %}
       <h2>NSBE Montgomery Professionals Executive Board</h2>
       <div class="row mx-auto">
         {% for officer in config.theme.eboard %}

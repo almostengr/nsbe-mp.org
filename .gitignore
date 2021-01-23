@@ -25,3 +25,5 @@ install.php
 *.htaccess*
 *.editorconfig*
 
+sites
+site
