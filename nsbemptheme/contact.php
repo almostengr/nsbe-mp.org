@@ -1,5 +1,5 @@
 <?php
-require_once($_SERVER['DOCUMENT_ROOT'] . "/../phpenv.rs.php");
+require_once($_SERVER['DOCUMENT_ROOT'] . "/../phpenv.php") or die("Unable to get page configuration");
 ?>
 {% extends "base.html" %}
 {% block content %}
