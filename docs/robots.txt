@@ -17,5 +17,3 @@ User-agent: *
 Crawl-delay: 10
 Sitemap: https://nsbe-mp.org/sitemap.xml
 Allow: /
-Disallow: /submission
-Disallow: /submission/index.html
