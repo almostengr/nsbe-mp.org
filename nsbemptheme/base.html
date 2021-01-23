@@ -189,7 +189,9 @@
       </div>
       {% endif %}
 
+      {%- block content %}
       {{ page.content }}
+      {%- endblock %}
 
       <div class="text-small py-4"><a href="#top">Back to Top</a></div>
     </div>
