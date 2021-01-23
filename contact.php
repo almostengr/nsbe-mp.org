@@ -1,5 +1,7 @@
 <?php
-require_once($_SERVER['DOCUMENT_ROOT'] . "/../phpenv.php") or die("Unable to get page configuration");
+$HOMEPATH = str_replace("public_html", "", $_SERVER['DOCUMENT_ROOT']);
+$HOMEPATH .= "phpenv.php";
+require($HOMEPATH);
 ?>
 <!doctype html>
 <html lang="en">
@@ -123,7 +125,6 @@ require_once($_SERVER['DOCUMENT_ROOT'] . "/../phpenv.php") or die("Unable to get
 <?php
 if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
     date_default_timezone_set('America/Chicago');
-    // unset($_POST['captcha']);
     $new_line = "\r\n";
     $current_time = date("Y-m-d H:i:s");
     $message = print_r($_POST, true);
@@ -141,7 +142,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
     if ($mail_result) {
 ?>
         <div class="bg-success text-light container py-2 my-5" id="successmessage">
-            Your request has been submitted successfully!
+            Your request has been submitted successfully! Please allow 2-3 business days to receive a response.
         </div>
     <?php
     } else {
@@ -170,11 +171,11 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
     </p>
     <p>
         <a class="btn text-white" href="https://www.facebook.com/nsbemp" target="_blank">
-            <i class="fab fa-facebook"></i> Facebook</a><br />
+            <i class="fab fa-facebook"></i> Facebook</a><span> </span>
         <a class="text-white btn" href="https://www.instagram.com/nsbemp" target="_blank">
-            <i class="fab fa-instagram"></i> Instagram</a><br />
+            <i class="fab fa-instagram"></i> Instagram</a><span> </span>
         <a class="text-white btn" href="https://twitter.com/nsbemp" target="_blank">
-            <i class="fab fa-twitter"></i> Twitter</a><br />
+            <i class="fab fa-twitter"></i> Twitter</a>
     </p>
     <form method="POST" action="/contact.php">
         <p>
@@ -183,7 +184,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
         </p>
         <p>
             <label for="emailaddress" class="font-weight-bold required">Email Address</label><br />
-            <input class="form-control" name="emailaddress" type="email" placeholder="user@nsbe-mp.org" required="required" minlength="5" />
+            <input class="form-control" name="emailaddress" type="email" placeholder="visitor@nsbe-mp.org" required="required" minlength="5" />
         </p>
         <p>
             <label for="phonenumber" class="required">Phone Number</label>
@@ -196,7 +197,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
             <div class="text-small text-muted font-italic">Minimum 50 characters. The more details, the better</div>
         </p>
         <p>
-            <input type="submit" class="form-control btn btn-dark-gray" value="Submit">
+            <input type="submit" class="form-control btn" value="Submit">
         </p>
     </form>
 <?php
