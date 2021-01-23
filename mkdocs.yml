@@ -22,7 +22,7 @@ theme:
   language: en
   theme: '@nsbemp'
   
-  static-pages:
+  static_templates:
     - 404.html
     - 500.html
     - contact.php
