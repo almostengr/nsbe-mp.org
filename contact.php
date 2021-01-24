@@ -344,7 +344,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
 
     <div class="container text-center">
       <p class="footer">Copyright &copy; 2021 NSBE Montgomery Professionals (NSBE-MP)</p>
-      <p class="footer text-small">
+      <p class="footer">
         Cookies are used on this website to track your visits, provide advertisements specific
         to you, and preferences by a third-party.
         By continuing to use this site, you agree to the use of cookies unless you have disabled them.
