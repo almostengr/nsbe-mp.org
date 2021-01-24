@@ -6,7 +6,8 @@ ErrorDocument 500 /500.html
 
 # Do permanent redirects
 Redirect 301 /about-us /about
-Redirect 301 /contact-us /contact
+Redirect 301 /contact-us /contact.php
+Redirect 301 /contact /contact.php
 Redirect 301 /nsbe-mp-professional-dues /membership
 Redirect 301 /photo-gallery /photos
 Redirect 301 /product /
