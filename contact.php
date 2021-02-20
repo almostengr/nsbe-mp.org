@@ -164,14 +164,14 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
     <div class="col-12 pb-4 text-center">
         <img src="/images/nsbemplogo2.jpg" alt="National Society of Black Engineers Montgomery Professionals" class="headimage">
     </div>
-    <h2 class="mailing-address">Mailing Address <i class="fas fa-envelope"></i></h2>
+    <h2 class="mailing-address">Mailing Address <i class="bi bi-envelope-open"></i></h2>
     <p>
         P.O. Box 210176<br />
         Montgomery, AL 36121
     </p>
-    <h2 class="phone">Phone <i class="fas fa-phone"></i></h2>
+    <h2 class="phone">Phone <i class="bi bi-telephone"></i></h2>
     <p><a href="tel: 3346258589">(334) 625-8589</a></p>
-    <h2 class="social-media">Social Media <i class="fas fa-hashtag"></i></h2>
+    <h2 class="social-media">Social Media <i class="bi bi-hash"></i></h2>
     <p>
         Follow or like our social media pages to get the latest information about upcoming meetings,
         events, and activities.
