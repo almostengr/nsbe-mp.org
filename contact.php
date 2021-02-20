@@ -50,8 +50,8 @@ require($HOMEPATH);
   
 
   <script async id="mcjs" src="/js/mailchimp.min.js"></script>
-  <script async src="https://kit.fontawesome.com/a076d05399.js"></script>
-  <script data-ad-client="ca-pub-5755792965145196" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <!-- <script async src="//kit.fontawesome.com/a076d05399.js"></script> -->
+  <script data-ad-client="ca-pub-5755792965145196" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   <link rel="shortcut icon" href="/images/nsbemplogo.ico" type="image/png" />
 
   <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
@@ -59,6 +59,7 @@ require($HOMEPATH);
     href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
   <link rel="stylesheet" type="text/css" href="/css/carousel.min.css">
   <link rel="stylesheet" type="text/css" href="/css/nsbemp.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.min.css">
 </head>
 
 <body>
@@ -258,7 +259,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
             <li class="nav-item">
               <a class="text-black" href="/contact.php">
                 
-                <i class="fas fa-id-card-alt"></i>
+                <i class="bi bi-person-lines-fill"></i>
                 
                 Contact
               </a>
@@ -267,7 +268,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
             <li class="nav-item">
               <a class="text-black" href="tel:(334) 625-8589">
                 
-                <i class="fas fa-phone"></i>
+                <i class="bi bi-telephone"></i>
                 
                 (334) 625-8589
               </a>
@@ -276,7 +277,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
             <li class="nav-item">
               <a class="text-black" href="/photos">
                 
-                <i class="fas fa-photo-video"></i>
+                <i class="bi bi-camera"></i>
                 
                 Photos
               </a>
@@ -289,7 +290,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
             <li class="nav-item">
               <a class="text-black" href="https://www.facebook.com/nsbemp" target="_blank">
                 
-                <i class="fab fa-facebook"></i>
+                <i class="bi bi-facebook"></i>
                 
                 Facebook
               </a>
@@ -298,7 +299,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
             <li class="nav-item">
               <a class="text-black" href="https://www.instagram.com/nsbemp" target="_blank">
                 
-                <i class="fab fa-instagram"></i>
+                <i class="bi bi-instagram"></i>
                 
                 Instagram
               </a>
@@ -307,7 +308,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
             <li class="nav-item">
               <a class="text-black" href="https://twitter.com/nsbemp" target="_blank">
                 
-                <i class="fab fa-twitter"></i>
+                <i class="bi bi-twitter"></i>
                 
                 Twitter
               </a>
