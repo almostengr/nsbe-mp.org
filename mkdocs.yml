@@ -82,13 +82,13 @@ theme:
   contactlinks:
     - url:  /contact.php
       name: Contact
-      icon: fas fa-id-card-alt
+      icon: bi bi-person-lines-fill
     - url:  tel:(334) 625-8589
       name: (334) 625-8589
-      icon: fas fa-phone
+      icon: bi bi-telephone
     - url:  /photos
       name: Photos
-      icon: fas fa-photo-video
+      icon: bi bi-camera
 
   nsbelinks:
     - url: https://www.nsbe.org
@@ -107,13 +107,13 @@ theme:
   sociallinks:
     - url: https://www.facebook.com/nsbemp
       name: Facebook
-      icon: fab fa-facebook
+      icon: bi bi-facebook
     - url: https://www.instagram.com/nsbemp
       name: Instagram
-      icon: fab fa-instagram
+      icon: bi bi-instagram
     - url: https://twitter.com/nsbemp
       name: Twitter
-      icon: fab fa-twitter
+      icon: bi bi-twitter
 
   eboard:
     - name: Shar Stiles
