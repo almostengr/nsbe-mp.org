@@ -83,8 +83,8 @@ theme:
     - url:  /contact.php
       name: Contact
       icon: bi bi-person-lines-fill
-    - url:  tel:(334) 625-8589
-      name: (334) 625-8589
+    - url:  tel:(334) 640-5405
+      name: (334) 640-5405
       icon: bi bi-telephone
     - url:  /photos
       name: Photos

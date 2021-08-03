@@ -47,7 +47,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
         Montgomery, AL 36121
     </p>
     <h2 class="phone">Phone <i class="bi bi-telephone"></i></h2>
-    <p><a href="tel: 3346258589">(334) 625-8589</a></p>
+    <p><a href="tel: 3346258589">(334) 640-5405</a></p>
     <h2 class="social-media">Social Media <i class="bi bi-hash"></i></h2>
     <p>
         Follow or like our social media pages to get the latest information about upcoming meetings,
