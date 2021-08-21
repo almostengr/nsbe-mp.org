@@ -50,16 +50,13 @@ require($HOMEPATH);
   
 
   <script async id="mcjs" src="/js/mailchimp.min.js"></script>
-  <!-- <script async src="//kit.fontawesome.com/a076d05399.js"></script> -->
   <script data-ad-client="ca-pub-5755792965145196" async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-  <link rel="shortcut icon" href="/images/nsbemplogo.ico" type="image/png" />
 
-  <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
-  <link rel="stylesheet" type="text/css"
-    href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="shortcut icon" href="/images/nsbemplogo.ico" type="image/png" />
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
   <link rel="stylesheet" type="text/css" href="/css/carousel.min.css">
   <link rel="stylesheet" type="text/css" href="/css/nsbemp.min.css">
-  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap-icons@1.3.0/font/bootstrap-icons.min.css">
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap-icons@1.5.0/font/bootstrap-icons.min.css">
 </head>
 
 <body>
@@ -178,11 +175,11 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
     </p>
     <p>
         <a class="btn text-white" href="https://www.facebook.com/nsbemp" target="_blank">
-            <i class="fab fa-facebook"></i> Facebook</a><span> </span>
+            <i class="bi bi-facebook"></i> Facebook</a><span> </span>
         <a class="text-white btn" href="https://www.instagram.com/nsbemp" target="_blank">
-            <i class="fab fa-instagram"></i> Instagram</a><span> </span>
+            <i class="bi bi-instagram"></i> Instagram</a><span> </span>
         <a class="text-white btn" href="https://twitter.com/nsbemp" target="_blank">
-            <i class="fab fa-twitter"></i> Twitter</a>
+            <i class="bi bi-twitter"></i> Twitter</a>
     </p>
     <form method="POST" action="/contact.php">
         <p>
