@@ -10,7 +10,7 @@ hands-on activities and experiences focused on Science, Technology, Engineering 
 **Due to the COVID-19 pandemic, Engineering Day will be held virutally this year.**
 **Please check our social media pages for the latest updates.**
 
-## E-Day (Engineering Day) 2021
+## E-Day 2021 Details
 
 ### Registration
 
