@@ -1,7 +1,7 @@
 ---
 title: Engineering Day (E-Day) At The Park
-imagealt: Engineering Day will be October 17, 2020.
-imageurl: /files/NSBEMPVirtualEDay.jpg
+imagealt: Engineering Day will be October 16, 2021 from 10AM-2PM
+imageurl: /images/2021 Virtual EDay Save The Date Flyer.jpg
 ---
 
 E-Day (Engineering Day) at the Park allows K–12th grade students an opportunity to participate in a number of
@@ -10,37 +10,48 @@ hands-on activities and experiences focused on Science, Technology, Engineering 
 **Due to the COVID-19 pandemic, Engineering Day will be held virutally this year.**
 **Please check our social media pages for the latest updates.**
 
-## E-Day 2020
+Virtual Engineering Day allows 3rd–12th grade students an opportunity to participate in a number of hands-on S.T.E.M. activities.
+
+## E-Day 2021 Details
 
 ### Registration
 
 To register for Virtual Engineering Day, visit 
-<a href="http://nsbempvirtualeday.eventbrite.com/" target="_blank">our EventBrite page</a>. 
+<a href="http://nsbempvirtualeday2021.eventbrite.com/" target="_blank">our EventBrite page</a>. 
 
-Event will take place via Zoom. Registrants will be sent the link for the project that they have registered
-prior to the meeting start time.
+**REGISTRATION CLOSES SEPTEMBER 25, 2021.**
 
-A limited number of supply kits will be available for pickup. More details regarding this are
-available on the registration page.
+Registrants will be sent the link for the project(s) that they have registered prior to the meeting start time.
 
-### Session 1: Rubber Band Powered Helicopter
+### Project Supplies
 
-This project is designed for 3rd through 7th Grade Students. This session will start at 10 AM CT.
+A limited number of supply kits will be available for pickup. 
+Details on project supplies, packet pickup, and virtual access links will be provided to those that 
+have registered closer to the event date.
 
-[Download Instructions and Supply List](/files/Rubber Band Powered Helicopter Virtual E-Day.pdf)
+Virtual Engineering Day wil be held in 3 grouped sessions.
 
-<a href="https://www.facebook.com/watch/?v=396275881763482" target="_blank">Watch Session at Virtual E-Day</a>
+### SESSION 1 (October 16, 2021 10:00AM-11:00AM)
 
-### Session 2: Extending Grabber
+3RD - 5TH GRADE STUDENTS
 
-This project is designed for 8th through 12th Grade Students. This session will start at 12 PM CT.
+PROJECT: TBA
 
-[Download Instructions and Supply List](/files/Extending Grabber Virtual E-Day.pdf)
+### SESSION 2 (October 16, 2021 11:30AM - 12:30PM)
 
-<a href="https://www.facebook.com/watch/?v=371819160852461" target="_blank">Watch Session at Virtual E-Day</a>
+6TH - 8TH GRADE STUDENTS
+
+PROJECT: TBA
+
+### SESSION 3 (October 16, 2021 1:00PM - 2:00PM)
+
+9TH - 12TH GRADE STUDENTS
+
+PROJECT: TBA
+
 
 ## E-Day 2019 Highlights
 
-Engineering Day At The Park was featured on the local news. Check out the video on our 
+Engineering Day At The Park was featured on the local news in 2019. Check out the video on our 
 <a href="https://www.facebook.com/watch/?v=373769769954484&extid=bYnyVhue16YMG869" 
 target="_blank">Facebook page</a>.
