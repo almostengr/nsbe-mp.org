@@ -90,7 +90,7 @@ require($HOMEPATH);
         
         <li class="nav-item">
           
-          <a href="https://www.facebook.com/nsbemp/events" class="nav-link" target="_blank">Events</a>
+          <a href="https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811" class="nav-link" target="_blank">Events</a>
           
         </li>
         
