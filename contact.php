@@ -124,7 +124,7 @@ require($HOMEPATH);
 
       
 
-      
+      <!--  -->
 <h1 id="contact-us">Contact Us</h1>
 <?php
 if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
@@ -336,7 +336,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
             </li>
             
             <li class="nav-item">
-              <a href="https://connect.nsbe.org/" target="_blank">NSBE Connect</a>
+              <a href="https://mynsbe.nsbe.org/" target="_blank">NSBE Connect</a>
             </li>
             
           </ul>
