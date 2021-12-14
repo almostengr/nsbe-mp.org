@@ -4,6 +4,31 @@ imageurl: /images/mgmskyline.jpg
 imagealt: Montgomery skyline at night
 ---
 
+## NSBE Montgomery Professionals E-Board 2021-2022
+
+### President - Adam Sumbry
+
+### Vice-President - Al Thomas
+
+### Treasurer - Rodney Zeigler
+
+### Secretary - Kenny Robinson
+
+### Parliamentarian - Kel Morrissette
+
+### President Emeritus - Shar Stiles
+
+### Telecommunications Chair - LaTasha Merchant
+
+### PCI (Pre-Collegiate Initiative) Chair - Tamaria McAlpin
+
+### Scholarship Chair - Earnest Colvin
+
+### Delegate - Kenny Robinson
+
+### Delegate - Sonja Favors
+
+
 ## NSBE Montgomery Professionals History
 
 National Society of Black Engineers Montgomery Professionals (NSBE-MP) Chapter is the Montgomery, Alabama
@@ -61,3 +86,4 @@ Va., NSBE offers academic excellence programs, scholarships, leadership training
 to career opportunities for thousands of members annually. With over 2,000 elected leadership positions, 12 regional 
 conferences and an annual convention, NSBE provides opportunities for success that remain unmatched by any other 
 organization.
+

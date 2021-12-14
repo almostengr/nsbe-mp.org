@@ -115,40 +115,40 @@ theme:
       name: Twitter
       icon: bi bi-twitter
 
-  eboard:
-    - name: Shar Stiles
-      position: President
-      imageurl: "/images/officers/Shar.jpg"
-    - name: Adam Sumbry
-      position: President-Elect, Programs Chair
-      imageurl: "/images/officers/Adam.jpg"
-    - name: Kel Morrissette
-      position: Secretary
-      imageurl: "/images/officers/Kel.jpg"
-    - name: Al Thomas
-      position: Treasurer
-      imageurl: "/images/officers/Al.jpg"
-    - name: Janice Hamilton
-      position: Parliamentarian, Membership Chair
-      imageurl: "/images/officers/Janice.jpg"
-    - name: Kenny Robinson
-      position: President Emeritus, Delegate
-      imageurl: "/images/officers/Kenny.jpg"
-    - name: Tamaria McAlpin
-      position: PCI (Pre-Collegiate Initiative) Chair
-      imageurl: "/images/officers/Tamaria.jpg"
-    - name: Earnest Colvin
-      position: Scholarship Chair
-      imageurl: "/images/officers/Earnest.jpg"
-    - name: Rodney Zeigler
-      position: Fundraising Chair
-      imageurl: "/images/officers/Zig.jpg"
-    - name: LaTasha Merchant
-      position: Telecommunications Chair
-      imageurl: "/images/officers/Tasha.jpg"
-    - name: Sonja Favors
-      position: Delegate
-      imageurl: "/images/officers/Sonja.jpg"
+  # eboard:
+  #   - name: Shar Stiles
+  #     position: President
+  #     imageurl: "/images/officers/Shar.jpg"
+  #   - name: Adam Sumbry
+  #     position: President-Elect, Programs Chair
+  #     imageurl: "/images/officers/Adam.jpg"
+  #   - name: Kel Morrissette
+  #     position: Secretary
+  #     imageurl: "/images/officers/Kel.jpg"
+  #   - name: Al Thomas
+  #     position: Treasurer
+  #     imageurl: "/images/officers/Al.jpg"
+  #   - name: Janice Hamilton
+  #     position: Parliamentarian, Membership Chair
+  #     imageurl: "/images/officers/Janice.jpg"
+  #   - name: Kenny Robinson
+  #     position: President Emeritus, Delegate
+  #     imageurl: "/images/officers/Kenny.jpg"
+  #   - name: Tamaria McAlpin
+  #     position: PCI (Pre-Collegiate Initiative) Chair
+  #     imageurl: "/images/officers/Tamaria.jpg"
+  #   - name: Earnest Colvin
+  #     position: Scholarship Chair
+  #     imageurl: "/images/officers/Earnest.jpg"
+  #   - name: Rodney Zeigler
+  #     position: Fundraising Chair
+  #     imageurl: "/images/officers/Zig.jpg"
+  #   - name: LaTasha Merchant
+  #     position: Telecommunications Chair
+  #     imageurl: "/images/officers/Tasha.jpg"
+  #   - name: Sonja Favors
+  #     position: Delegate
+  #     imageurl: "/images/officers/Sonja.jpg"
     # - name: "" # use this to fill empty spots on page so that alignment doesnt appear weird
     #   position: ""
     #   imageurl: ""
