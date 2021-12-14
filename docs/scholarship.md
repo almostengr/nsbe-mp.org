@@ -13,14 +13,14 @@ for this award.
 To be notified when scholarship applications are being accepted for the upcoming year, please sign up for 
 our mailing list or check with your school guidance counselor or advisor.
 
-## 2021 Scholarship Application Now Open!
+## 2022 Scholarship Application Now Open!
 
-![2021 Scholarship Flyer](/files/2021 Scholarship Flyer.jpg)
+![2022 Scholarship Flyer](/files/nsbemp2022scholarship.jpg)
 
-Applications are now being accepted for the NSBE MP Scholarship for 2021. Applications must be 
-postmarked by February 22, 2021. 
+Applications are now being accepted for the NSBE MP Scholarship for 2022. Applications must be 
+postmarked by February 19, 2022.
 
-To apply for for the scholarship, [Download Application](/files/NSBE-MP 2021 Scholarship Application.pdf)
+To apply for for the scholarship, [Download Application](/files/NSBE-MP2022ScholarshipApplication.pdf)
 
 ## Previous Scholarship Recepients
 ### 2020 - Jada Stringer; Brandon Butts
