@@ -15,7 +15,7 @@ our mailing list or check with your school guidance counselor or advisor.
 
 ## 2022 Scholarship Application Now Open!
 
-![2022 Scholarship Flyer](/files/nsbemp2022scholarship.jpg)
+![2022 Scholarship Flyer](/images/nsbemp2022scholarship.jpg)
 
 Applications are now being accepted for the NSBE MP Scholarship for 2022. Applications must be 
 postmarked by February 19, 2022.
