@@ -8,7 +8,7 @@ imagealt: Montgomery skyline at night
 
 ### President - Adam Sumbry
 
-### Vice-President - Al Thomas
+### President-Elect - Al Thomas
 
 ### Treasurer - Rodney Zeigler
 
