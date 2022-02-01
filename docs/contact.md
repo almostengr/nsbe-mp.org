@@ -6,7 +6,7 @@ imagealt: National Society of Black Engineers Montgomery Professionals
 
 ## Mailing Address
 
-PO BOX 210176
+P.O. BOX 210176<br />
 Montgomery, AL 36121
 
 ## Phone
