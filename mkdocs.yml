@@ -24,8 +24,6 @@ theme:
   
   static_templates:
     - 404.html
-    - 500.html
-    - contact.php
   
   mainnav:
     - link: /membership
@@ -39,7 +37,7 @@ theme:
       target: "_blank"
     - link: /about
       name: About
-    - link: /contact.php
+    - link: /contact
       name: Contact
 
   carousel:
@@ -80,7 +78,7 @@ theme:
       link: /programs
 
   contactlinks:
-    - url:  /contact.php
+    - url:  /contact
       name: Contact
       icon: bi bi-person-lines-fill
     - url:  tel:(334) 640-5405
