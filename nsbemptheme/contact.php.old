@@ -20,7 +20,7 @@ if (isset($_POST['emailaddress']) && isset($HELPDESK_EMAIL)) {
     if ($_POST['emailaddress'] == "tester@nsbe-mp.org") {
         $mail_result = true;
     } else {
-        $mail_result = mail($HELPDESK_EMAIL, $subject, $message, $headers);
+        // $mail_result = mail($HELPDESK_EMAIL, $subject, $message, $headers);
     }
 
     if ($mail_result) {
