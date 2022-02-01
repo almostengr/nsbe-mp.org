@@ -24,7 +24,6 @@ theme:
   
   static_templates:
     - 404.html
-    - 500.html
   
   mainnav:
     - link: /membership
