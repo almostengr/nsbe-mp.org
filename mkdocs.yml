@@ -25,7 +25,6 @@ theme:
   static_templates:
     - 404.html
     - 500.html
-    - contact.php
   
   mainnav:
     - link: /membership
