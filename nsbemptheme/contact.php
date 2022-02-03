@@ -19,7 +19,7 @@ function cleanInput($data)
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST')
 {
-    $customerName = cleanInput($_POST["customername"]);
+    $customerName = cleanInput($_POST["customerName"]);
     if (strlen($customerName) < 4)
     {
         $customerNameError .= "Name is required and must be at least 4 characters long. ";
@@ -121,28 +121,28 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
     <p>
         <label for="customerName" class="font-weight-bold required">Name</label><br />
         <input class="form-control" name="customerName" type="text" required="required" minlength="4"  value="<?php echo $customerName; ?>" />
-        <div class="bg-danger text-light" id="customerNameError"><?php echo $customerNameError; ?></div>
+        <div class="bg-danger text-light m-2" id="customerNameError"><?php echo $customerNameError; ?></div>
     </p>
     <p>
         <label for="emailAddress" class="font-weight-bold required">Email Address</label><br />
         <input class="form-control" name="emailAddress" type="email" required="required" minlength="5" value="<?php echo $emailAddress; ?>" />
-        <div class="bg-danger text-light" id="emailAddressError"><?php echo $emailAddressError; ?></div>
+        <div class="bg-danger text-light m-2" id="emailAddressError"><?php echo $emailAddressError; ?></div>
     </p>
     <p>
         <label for="phoneNumber" class="required">Phone Number</label>
         <input class="form-control" type="tel" placeholder="Phone Number" minlength="10" name="phoneNumber" 
             maxlength="12" required="required"  value="<?php echo $phoneNumber; ?>" pattern="[0-9]{3}-[0-9]{3}-[0-9]{4}">
         <div class="text-small text-muted font-italic">Enter number in 555-555-5555 format.</div>
-        <div class="bg-danger text-light" id="phoneNumberError"><?php echo $phoneNumberError; ?></div>
+        <div class="bg-danger text-light m-2" id="phoneNumberError"><?php echo $phoneNumberError; ?></div>
     </p>
     <p>
         <label for="message" class="font-weight-bold required">Message, Comment or Question</label><br />
         <textarea class="form-control" name="message" required="required" rows="5"><?php echo $message; ?></textarea>
         <div class="text-small text-muted font-italic">Minimum 50 characters. The more details, the better</div>
-        <div class="bg-danger text-light" id="messageError"><?php echo $messageError; ?></div>
+        <div class="bg-danger text-light m-2" id="messageError"><?php echo $messageError; ?></div>
     </p>
     <p>
-        <input type="submit" class="form-control btn" value="Submit">
+        <button type="submit" class="form-control btn" value="Submit">
     </p>
 </form>
 
