@@ -142,7 +142,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
         <div class="bg-danger text-light m-2" id="messageError"><?php echo $messageError; ?></div>
     </p>
     <p>
-        <button type="submit" class="form-control btn" value="Submit">
+        <button type="submit" class="form-control btn text-white" value="Submit">
     </p>
 </form>
 

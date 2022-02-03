@@ -23,7 +23,7 @@
     }
 }
 
-a.btn {
+a.btn, button.btn {
     background-color: var(--dark-red);
     color: var(--white);
     text-decoration: none;
