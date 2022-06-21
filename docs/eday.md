@@ -1,54 +1,27 @@
 ---
 title: Engineering Day (E-Day) At The Park
-imagealt: Engineering Day will be October 16, 2021 from 10AM-2PM
-imageurl: /images/2021 Virtual EDay Save The Date Flyer.jpg
+imagealt: Engineering Day will be August 27, 2022
+imageurl: /images/eday2022.jpg
 ---
 
 E-Day (Engineering Day) at the Park allows K–12th grade students an opportunity to participate in a number of
 hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
 
-**Due to the COVID-19 pandemic, Engineering Day will be held virutally this year.**
-**Please check our social media pages for the latest updates.**
+Engineering Day allows 3rd–12th grade students an opportunity to participate in a number of hands-on S.T.E.M. activities.
 
-Virtual Engineering Day allows 3rd–12th grade students an opportunity to participate in a number of hands-on S.T.E.M. activities.
+## E-Day 2022 Details
 
-## E-Day 2021 Details
+### When: August 27, 2022; 9AM-1PM
 
-### Registration
+### Where: Oak Park; 1010 Forest Ave, Montgomery, AL
 
-To register for Virtual Engineering Day, visit 
-<a href="http://nsbempvirtualeday2021.eventbrite.com/" target="_blank">our EventBrite page</a>. 
+### Who: Students of all Ages
 
-**REGISTRATION CLOSES SEPTEMBER 25, 2021.**
+The rest of this years 
+details for this year's Engineering Day at the Park have not been finalized at this time. 
 
-Registrants will be sent the link for the project(s) that they have registered prior to the meeting start time.
-
-### Project Supplies
-
-A limited number of supply kits will be available for pickup. 
-Details on project supplies, packet pickup, and virtual access links will be provided to those that 
-have registered closer to the event date.
-
-Virtual Engineering Day wil be held in 3 grouped sessions.
-
-### SESSION 1 (October 16, 2021 10:00AM-11:00AM)
-
-3RD - 5TH GRADE STUDENTS
-
-PROJECT: TBA
-
-### SESSION 2 (October 16, 2021 11:30AM - 12:30PM)
-
-6TH - 8TH GRADE STUDENTS
-
-PROJECT: TBA
-
-### SESSION 3 (October 16, 2021 1:00PM - 2:00PM)
-
-9TH - 12TH GRADE STUDENTS
-
-PROJECT: TBA
-
+Please be sure to check back for details. This page will have all of the information about 
+this event.
 
 ## E-Day 2019 Highlights
 
