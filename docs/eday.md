@@ -7,15 +7,15 @@ imageurl: /images/eday2022.jpg
 E-Day (Engineering Day) at the Park allows K–12th grade students an opportunity to participate in a number of
 hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
 
-Engineering Day allows 3rd–12th grade students an opportunity to participate in a number of hands-on S.T.E.M. activities.
-
 ## E-Day 2022 Details
 
 ### When: August 27, 2022; 9AM-1PM
 
 ### Where: Oak Park; 1010 Forest Ave, Montgomery, AL
 
-### Who: Students of all Ages
+### Who: 3rd–12th grade students
+
+### What: Engineering Day allows students an opportunity to participate in a number of hands-on S.T.E.M. activities
 
 The rest of this years 
 details for this year's Engineering Day at the Park have not been finalized at this time. 
