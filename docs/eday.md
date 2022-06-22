@@ -23,7 +23,7 @@ Montgomery, AL
 
 ### Who
 
-3rd–12th grade students
+3rd–12th grade students from the Montgomery, Prattville, Wetumpka, and surrounding areas.
 
 ### What
 
