@@ -13,7 +13,7 @@ for this award.
 To be notified when scholarship applications are being accepted for the upcoming year, please sign up for 
 our mailing list or check with your school guidance counselor or advisor.
 
-## 2022 Scholarship Application Now Open!
+## 2022 Scholarship Application
 
 ![2022 Scholarship Flyer](/images/nsbemp2022scholarship.jpg)
 
@@ -23,6 +23,8 @@ postmarked by February 19, 2022.
 To apply for for the scholarship, [Download Application](/files/NSBE-MP2022ScholarshipApplication.pdf)
 
 ## Previous Scholarship Recepients
+### 2022 - Darriana M. Thompson; Kyla C. Young
+### 2021 - Nathon J. Tubbs; Christy C. Daniel
 ### 2020 - Jada Stringer; Brandon Butts
 ### 2019 - Tiara Williams; Aaron Bowen
 ### 2018 - Ryan Roche; Jasmine Williams
