@@ -1,7 +1,7 @@
 ---
 title: Engineering Day (E-Day) At The Park
 imagealt: Engineering Day will be August 27, 2022
-imageurl: /images/eday2022.jpg
+imageurl: /images/eday2022final.png
 ---
 
 E-Day (Engineering Day) at the Park allows K–12th grade students an opportunity to participate in a number of
@@ -28,12 +28,24 @@ Montgomery, AL
 ### What
 
 Engineering Day allows students an opportunity to participate in a number of hands-on S.T.E.M. activities
+You can register for the event on our 
+<a href="https://2022eday.eventbrite.com/" target="_blank">EventBrite page</a>.
 
-The rest of this years 
-details for this year's Engineering Day at the Park have not been finalized at this time. 
+## Volunteers Needed
 
-Please be sure to check back for details. This page will have all of the information about 
-this event.
+Volunteers will be needed in various areas in order to make E-Day a success! If you are interested in 
+volunteering, please register on the 
+<a href="https://us5.list-manage.com/survey?u=887bd5251f705dc81e45b1433&id=4b1950728d&e=*|UNIQID|*" target="_blank">Volunteer Registration page</a>.
+
+## Donations and Sponsors
+
+The Montgomery Chapter of the National Society of Black Engineers welcomes all donations 
+and/or sponsorships towards this event. We thank you in advance for your help in shaping the next
+generation of engineers, scientists, and technical professionals.
+
+[Make A Donation](/donate)
+
+<a href="https://us5.list-manage.com/survey?u=887bd5251f705dc81e45b1433&id=e20ffbea44&e=*|UNIQID|*" target="_blank">Become A E-Day Sponsor</a>
 
 ## E-Day 2019 Highlights
 
