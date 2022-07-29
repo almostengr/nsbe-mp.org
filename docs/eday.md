@@ -7,11 +7,14 @@ imageurl: /images/eday2022final.png
 E-Day (Engineering Day) at the Park allows K–12th grade students an opportunity to participate in a number of
 hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
 
+You can register for the 2022 Engineering Day at the Park on our 
+<a href="https://2022eday.eventbrite.com/" target="_blank">EventBrite page</a>.
+
 ## E-Day 2022 Details
 
 ### When
 
-August 27, 2022 9AM-1PM
+August 27, 2022 10AM-1PM
 
 ### Where
 
@@ -19,7 +22,7 @@ August 27, 2022 9AM-1PM
 
 1010 Forest Ave
 
-Montgomery, AL
+Montgomery, AL 36106
 
 ### Who
 
@@ -30,6 +33,8 @@ Montgomery, AL
 Engineering Day allows students an opportunity to participate in a number of hands-on S.T.E.M. activities
 You can register for the event on our 
 <a href="https://2022eday.eventbrite.com/" target="_blank">EventBrite page</a>.
+
+We will also have giveaways, hands on STEM activities, and free food!
 
 ## Volunteers Needed
 
