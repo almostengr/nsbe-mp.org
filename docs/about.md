@@ -4,7 +4,7 @@ imageurl: /images/mgmskyline.jpg
 imagealt: Montgomery skyline at night
 ---
 
-## NSBE Montgomery Professionals E-Board 2021-2022
+## NSBE Montgomery Professionals E-Board 2022-2023
 
 ### President - Adam Sumbry
 
@@ -23,6 +23,10 @@ imagealt: Montgomery skyline at night
 ### PCI (Pre-Collegiate Initiative) Chair - Tamaria McAlpin
 
 ### Scholarship Chair - Earnest Colvin
+
+### Membership Chair - Kalen Mumford
+
+### Fundraising Chair - Rodney Zeigler
 
 ### Delegate - Kenny Robinson
 
