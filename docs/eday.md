@@ -52,6 +52,23 @@ generation of engineers, scientists, and technical professionals.
 
 <a href="https://us5.list-manage.com/survey?u=887bd5251f705dc81e45b1433&id=e20ffbea44&e=*|UNIQID|*" target="_blank">Become A E-Day Sponsor</a>
 
+## Project Information
+
+Want to recreate a project that was done at E-Day 2022? Information for each project that was 
+presented at E-Day 2022, is listed below. Each document includes a list of materials and steps 
+to complete the project.
+
+* [Bottle Rocket](/2022edayprojects/Bottle_Rocket.pdf)
+* [Build Ultimate Sandcastle](/2022edayprojects/Build_The_Ultimate_Sandcastle.pdf)
+* [DIY Lava Lamp](/2022edayprojects/DIY_Lava_Lamp.pdf)
+* [Inside A Computer](/2022edayprojects/Inside_a_computer.pdf)
+* [Leak Proof Bag](/2022edayprojects/Leak-Proof-Bag.pdf)
+* [Magnetic Levitating Pencil](/2022edayprojects/Magnetic-Levitating-Pencil.pdf)
+* [Makers Station](/2022edayprojects/Makers_Station.pdf)
+* [Rubber Band Car](/2022edayprojects/Rubber_Band_Car.pdf)
+* [Slime Lab](/2022edayprojects/Slime_Lab.pdf)
+* [Water Pollution Clean Up](/2022edayprojects/asce-water-pollution-clean-up-activity-at-home-version.pdf)
+
 ## E-Day 2019 Highlights
 
 Engineering Day At The Park was featured on the local news in 2019. Check out the video on our 
