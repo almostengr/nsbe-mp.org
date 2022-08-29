@@ -85,6 +85,9 @@ theme:
     - url:  tel:(334) 640-5405
       name: (334) 640-5405
       icon: bi bi-telephone
+    - url: https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811
+      name: Events
+      icon: bi bi-phone
     - url:  /photos
       name: Photos
       icon: bi bi-camera
@@ -92,16 +95,16 @@ theme:
   nsbelinks:
     - url: https://www.nsbe.org
       name: National Society of Black Engineers (NSBE)
-    - url: https://www.nsbe.org/professionals/home.aspx
+    - url: https://www.nsbe.org/professionals
       name: NSBE Professionals
-    - url: https://www.nsbe.org/professionals/Regions/Region3/home.aspx
+    - url: https://www.nsbe.org/professionals/regions/region3
       name: NSBE Region 3 Professionals
     - url: https://pdc.nsbe.org/
       name: NSBE PDC
     - url: https://careers.nsbe.org/jobseeker/search
       name: NSBE Careers
     - url: https://mynsbe.nsbe.org/
-      name: NSBE Connect
+      name: MyNSBE (NSBE Connect)
 
   sociallinks:
     - url: https://www.facebook.com/nsbemp
