@@ -336,6 +336,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
             </li>
             
             <li class="nav-item">
+              <a class="text-black" href="https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811">
+                
+                <i class="bi bi-phone"></i>
+                
+                Events
+              </a>
+            </li>
+            
+            <li class="nav-item">
               <a class="text-black" href="/photos">
                 
                 <i class="bi bi-camera"></i>
@@ -384,11 +393,11 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
             </li>
             
             <li class="nav-item">
-              <a href="https://www.nsbe.org/professionals/home.aspx" target="_blank">NSBE Professionals</a>
+              <a href="https://www.nsbe.org/professionals" target="_blank">NSBE Professionals</a>
             </li>
             
             <li class="nav-item">
-              <a href="https://www.nsbe.org/professionals/Regions/Region3/home.aspx" target="_blank">NSBE Region 3 Professionals</a>
+              <a href="https://www.nsbe.org/professionals/regions/region3" target="_blank">NSBE Region 3 Professionals</a>
             </li>
             
             <li class="nav-item">
@@ -400,7 +409,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
             </li>
             
             <li class="nav-item">
-              <a href="https://mynsbe.nsbe.org/" target="_blank">NSBE Connect</a>
+              <a href="https://mynsbe.nsbe.org/" target="_blank">MyNSBE (NSBE Connect)</a>
             </li>
             
           </ul>
