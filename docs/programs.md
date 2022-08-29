@@ -57,5 +57,5 @@ professional. Various events are held throughout the year.
 * Networking Events
 * Special Interest Group (SIG) meetings and workshops
 
-To find out when these events will happen, follow or like our social media pages nad sign up for our
+To find out when these events will happen, follow or like our social media pages and sign up for our
 mailing list.
