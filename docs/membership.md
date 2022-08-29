@@ -21,7 +21,7 @@ Mechanical Engineers).
 and achievement in the engineering field.
 
 The full list of membership benefits are available on the 
-<a href="https://www.nsbe.org/Membership/Membership-Benefits.aspx" target="_blank">NSBE national website</a>.
+<a href="https://www.nsbe.org/membership/professional-membership" target="_blank">NSBE national website</a>.
 
 ## Local Membership Dues
 
@@ -39,9 +39,9 @@ National and regional membership dues can be found by visiting
 To become a member of NSBE, you will need to complete all of the steps listed below.
 
 * Register with NSBE National. This can be done by visiting 
-<a href="https://mynsbe.nsbe.org" target="_blank">NSBE Connect</a>.
+<a href="https://mynsbe.nsbe.org" target="_blank">MyNSBE</a>.
 * Pay your National and Regional Dues. This step is also done via the 
-<a href="https://mynsbe.nsbe.org" target="_blank">NSBE Connect website</a>. When paying,
+<a href="https://mynsbe.nsbe.org" target="_blank">MyNSBE website</a>. When paying,
 select "Professional" as the Membership Type and "Montgomery Professionals" as the Chapter.
 * Pay your Local Dues. This step is done by clicking the "Add To Cart" in the section below.
 * Once local and national dues have been paid, you will be officially a member and be able to 
