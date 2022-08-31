@@ -56,7 +56,10 @@
 
 <body>
   <nav class="navbar navbar-expand-md navbar-dark fixed-top navbar-color">
-    <a class="navbar-brand font-weight-bold" href="/">NSBE Montgomery Professionals</a>
+    <a class="navbar-brand font-weight-bold" href="/">
+      <span class="d-lg-none">NSBE-MP</span>
+      <span class="d-none d-lg-inline">NSBE Montgomery Professionals</span>
+    </a>
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault"
       aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
