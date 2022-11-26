@@ -13,14 +13,15 @@ for this award.
 To be notified when scholarship applications are being accepted for the upcoming year, please sign up for 
 our mailing list or check with your school guidance counselor or advisor.
 
-## 2022 Scholarship Application
+## 2023 Scholarship Application
 
-![2022 Scholarship Flyer](/images/nsbemp2022scholarship.jpg)
+Applications are now being accepted for the NSBE MP Scholarship for 2023. 
+**Applications must be postmarked by February 18, 2023.**
 
-Applications are now being accepted for the NSBE MP Scholarship for 2022. Applications must be 
-postmarked by February 19, 2022.
+To apply for for the scholarship, [Download Application](/files/NSBE-MP2023ScholarshipApplication.pdf)
 
-To apply for for the scholarship, [Download Application](/files/NSBE-MP2022ScholarshipApplication.pdf)
+Information about how to submit your application, the amount, and other information can be found inside
+of the application packet. The application can be downloaded at the link above.
 
 ## Previous Scholarship Recepients
 ### 2022 - Darriana M. Thompson; Kyla C. Young
