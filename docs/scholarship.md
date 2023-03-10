@@ -15,7 +15,6 @@ our mailing list or check with your school guidance counselor or advisor.
 
 ## 2023 Scholarship Application
 
-Applications are now being accepted for the NSBE MP Scholarship for 2023. 
 **Applications must be postmarked by February 18, 2023.**
 
 To apply for for the scholarship, [Download Application](/files/NSBE-MP2023ScholarshipApplication.pdf)
@@ -24,6 +23,7 @@ Information about how to submit your application, the amount, and other informat
 of the application packet. The application can be downloaded at the link above.
 
 ## Previous Scholarship Recepients
+
 ### 2022 - Darriana M. Thompson; Kyla C. Young
 ### 2021 - Nathon J. Tubbs; Christy C. Daniel
 ### 2020 - Jada Stringer; Brandon Butts
