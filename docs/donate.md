@@ -19,13 +19,3 @@ To make a donation, click the button below.
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="Add to Cart" />
 <img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
 </form>
-
-## Amazon Smile
-
-If you shop with Amazon, please consider using Amazon Smile for your purchase. NSBE MP receives a percentage 
-of your purchase that is used towards scholarships and community programs. 
-
-<div id="amznCharityBanner">
-    <script type="text/javascript" async src="/js/amazonsmile.min.js"></script>
-    <iframe style="display: block; border: medium none;" scrolling="no" frameborder="0"></iframe>
-</div>

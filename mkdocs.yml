@@ -164,10 +164,6 @@ theme:
       body: Want to make a difference? Donate to NSBE MP today!! NSBE MP is a 501(c)(3) organization. Donations made to NSBE MP will go to the NSBE MP Scholarship Fund.
       linkurl: /donate
       linktext: Donate today
-    - title: Amazon Smile
-      body: If you shop with Amazon, please consider using Amazon Smile for your purchase. NSBE MP receives a percentage of your purchase that is used towards scholarships and community programs.
-      linkurl: /donate#amazon-smile
-      linktext: Start shopping
 
 use_directory_urls: true
 strict: false
