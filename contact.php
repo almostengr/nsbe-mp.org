@@ -304,16 +304,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
         </div>
       </div>
       
-      <div class="card subfooter col-lg-3 col-sm-12">
-        <div class="card-body">
-          <h5 class="card-title p-2 subfooter font-weight-bold">Amazon Smile</h5>
-          <p class="card-text subfooter">If you shop with Amazon, please consider using Amazon Smile for your purchase. NSBE MP receives a percentage of your purchase that is used towards scholarships and community programs.</p>
-          
-          <a href="/donate#amazon-smile" class="btn btn-footer">Start shopping</a>
-          
-        </div>
-      </div>
-      
 
       <div class="card subfooter col-lg-3 col-sm-12">
         <div class="card-body">
@@ -359,6 +349,15 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
           </ul>
 
           <ul class="list-unstyled footer">
+            
+            <li class="nav-item">
+              <a class="text-black" href="https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811" target="_blank">
+                
+                <i class="bi bi-calendar-day"></i>
+                
+                Eventbrite
+              </a>
+            </li>
             
             <li class="nav-item">
               <a class="text-black" href="https://www.facebook.com/nsbemp" target="_blank">
@@ -423,7 +422,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
     <hr class="bg-white" />
 
     <div class="container text-center">
-      <p class="footer">Copyright &copy; 2022 NSBE Montgomery Professionals (NSBE-MP)</p>
+      <p class="footer">Copyright &copy; 2023 NSBE Montgomery Professionals (NSBE-MP)</p>
       <p class="footer">
         Cookies are used on this website to track your visits, provide advertisements specific
         to you, and preferences by a third-party.
