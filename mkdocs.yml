@@ -107,6 +107,9 @@ theme:
       name: MyNSBE (NSBE Connect)
 
   sociallinks:
+    - url: https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811
+      name: Eventbrite
+      icon: bi bi-calendar-day
     - url: https://www.facebook.com/nsbemp
       name: Facebook
       icon: bi bi-facebook
