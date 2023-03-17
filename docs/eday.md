@@ -1,6 +1,6 @@
 ---
 title: Engineering Day (E-Day) At The Park
-imagealt: Engineering Day will be August 27, 2022
+imagealt: Engineering Day at the park is a yearly event where we invite the students and the community to learn about STEM though hands on projects.
 imageurl: /images/eday2022final.png
 ---
 
@@ -58,16 +58,16 @@ Want to recreate a project that was done at E-Day 2022? Information for each pro
 presented at E-Day 2022, is listed below. Each document includes a list of materials and steps 
 to complete the project.
 
-* [Bottle Rocket](/2022edayprojects/Bottle_Rocket.pdf)
-* [Build Ultimate Sandcastle](/2022edayprojects/Build_The_Ultimate_Sandcastle.pdf)
-* [DIY Lava Lamp](/2022edayprojects/DIY_Lava_Lamp.pdf)
-* [Inside A Computer](/2022edayprojects/Inside_a_computer.pdf)
-* [Leak Proof Bag](/2022edayprojects/Leak-Proof-Bag.pdf)
-* [Magnetic Levitating Pencil](/2022edayprojects/Magnetic-Levitating-Pencil.pdf)
-* [Makers Station](/2022edayprojects/Makers_Station.pdf)
-* [Rubber Band Car](/2022edayprojects/Rubber_Band_Car.pdf)
-* [Slime Lab](/2022edayprojects/Slime_Lab.pdf)
-* [Water Pollution Clean Up](/2022edayprojects/asce-water-pollution-clean-up-activity-at-home-version.pdf)
+* [Bottle Rocket](/edayprojects/Bottle_Rocket.pdf)
+* [Build Ultimate Sandcastle](/edayprojects/Build_The_Ultimate_Sandcastle.pdf)
+* [DIY Lava Lamp](/edayprojects/DIY_Lava_Lamp.pdf)
+* [Inside A Computer](/edayprojects/Inside_a_computer.pdf)
+* [Leak Proof Bag](/edayprojects/Leak-Proof-Bag.pdf)
+* [Magnetic Levitating Pencil](/edayprojects/Magnetic-Levitating-Pencil.pdf)
+* [Makers Station](/edayprojects/Makers_Station.pdf)
+* [Rubber Band Car](/edayprojects/Rubber_Band_Car.pdf)
+* [Slime Lab](/edayprojects/Slime_Lab.pdf)
+* [Water Pollution Clean Up](/edayprojects/asce-water-pollution-clean-up-activity-at-home-version.pdf)
 
 ## E-Day 2019 Highlights
 

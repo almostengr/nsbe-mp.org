@@ -11,6 +11,29 @@ targeted towards younger students.
 * [Professional Development Programs](#professional-development-programs) which are
 targeted towards professionals that are just starting or well into their careers.
 
+## Professional Development Programs
+
+NSBE Professional Development Programs are designed for professionals that are in their careers to
+be successful, offer opportunities to grow, and to able to demonstrate their skills as STEM
+professional. Various events are held throughout the year.
+
+* Monthly Chapter Meetings
+* Networking Events
+* Special Interest Group (SIG) meetings and workshops
+
+To find out when these events will happen, follow or like our social media pages and sign up for our
+mailing list.
+
+### General Body Meetings
+
+Our monthly chapter meetings (a.k.a. General Body Meetings)
+are held on the first Tuesday of each month at 6pm. The meeting is 
+open to the public. 
+
+To recieve notifications about the next chapter meeting, you can sign up for our mailing list or 
+follow us on our [social media pages](/links) to receive the latest updates and information 
+regarding the chapter.
+
 ## Technical OutReach and Community Help (T.O.R.C.H.) Programs
 
 NSBE TORCH Programs are designed to encourage students in grades K-12 and college to pursue a career in a
@@ -46,16 +69,3 @@ alt="NSBE MP Members at STEAMFest at Montgomery Academy">
 
 Pictured above is two NSBE-MP members that participated in STEAMfest at Montgomery Academy. NSBE MP was 
 invited to participate to share with students the work that they do.
-
-## Professional Development Programs
-
-NSBE Professional Development Programs are designed for professionals that are in their careers to
-be successful, offer opportunities to grow, and to able to demonstrate their skills as STEM
-professional. Various events are held throughout the year.
-
-* Monthly Chapter Meetings - meetings are held on the first Tuesday of each month at 6 PM CT
-* Networking Events
-* Special Interest Group (SIG) meetings and workshops
-
-To find out when these events will happen, follow or like our social media pages and sign up for our
-mailing list.

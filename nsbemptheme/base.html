@@ -247,7 +247,12 @@
             </li>
             {% endfor %}
           </ul>
+        </div>
+      </div>
 
+      <div class="card subfooter col-lg-3 col-sm-12">
+        <div class="card-body">
+          <h5 class="card-title p-2 font-weight-bold">NSBE Links</h5>
           <ul class="list-unstyled footer">
             {% for link in config.theme.nsbelinks %}
             <li class="nav-item">
@@ -262,7 +267,7 @@
     <hr class="bg-white" />
 
     <div class="container text-center">
-      <p class="footer">Copyright &copy; {{ build_date_utc.strftime('%Y') }} {{ config.copyright }}</p>
+      <p class="footer">Copyright &copy; 2002-{{ build_date_utc.strftime('%Y') }} {{ config.copyright }}</p>
       <p class="footer">
         Cookies are used on this website to track your visits, provide advertisements specific
         to you, and preferences by a third-party.

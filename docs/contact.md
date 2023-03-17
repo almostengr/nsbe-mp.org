@@ -9,15 +9,13 @@ imagealt: National Society of Black Engineers Montgomery Professionals
 P.O. BOX 210176<br />
 Montgomery, AL 36121
 
-## Phone
-
-[(334) 640-5405](tel:3346405405)
-
 ## Social Media
 
 Follow or like our social media pages to get the latest information about upcoming meetings, events, and activities.
 
 <p>
+    <a class="btn text-white" href="https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811" target="_blank">
+        <i class="bi bi-calendar-day"></i> EventBrite</a>
     <a class="btn text-white" href="https://www.facebook.com/nsbemp" target="_blank">
         <i class="bi bi-facebook"></i> Facebook</a><span> </span>
     <a class="text-white btn" href="https://www.instagram.com/nsbemp" target="_blank">

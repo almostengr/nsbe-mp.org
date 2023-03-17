@@ -4,33 +4,35 @@ imageurl: /images/mgmskyline.jpg
 imagealt: Montgomery skyline at night
 ---
 
-## NSBE Montgomery Professionals E-Board 2022-2023
+## NSBE Montgomery Professionals Executive Board 2022-2023
 
-### President - Adam Sumbry
+### Adam Sumbry, President
 
-### President-Elect - Al Thomas
+### Al Thomas, President-Elect
 
-### Treasurer - Rodney Zeigler
+### Rodney Zeigler, Treasurer
 
-### Secretary - Kenny Robinson
+### Kenny Robinson, Secretary
 
-### Parliamentarian - Kel Morrissette
+### Kel Morrissette, Parliamentarian
 
-### President Emeritus - Shar Stiles
+### Shar Stiles, President Emeritus
 
-### Telecommunications Chair - LaTasha Merchant
+### Al Thomas, Programs Chair
 
-### PCI (Pre-Collegiate Initiative) Chair - Tamaria McAlpin
+### LaTasha Merchant, Telecommunications Chair
 
-### Scholarship Chair - Earnest Colvin
+### Tamaria McAlpin, PCI (Pre-Collegiate Initiative) Chair
 
-### Membership Chair - Kalen Mumford
+### Earnest Colvin. Scholarship Chair
 
-### Fundraising Chair - Rodney Zeigler
+### Kalen Mumford, Membership Chair
 
-### Delegate - Kenny Robinson
+### Rodney Zeigler, Fundraising Chair
 
-### Delegate - Sonja Favors
+### Kenny Robinson, Delegate
+
+### Sonja Favors, Delegate
 
 
 ## NSBE Montgomery Professionals History
@@ -90,4 +92,3 @@ Va., NSBE offers academic excellence programs, scholarships, leadership training
 to career opportunities for thousands of members annually. With over 2,000 elected leadership positions, 12 regional 
 conferences and an annual convention, NSBE provides opportunities for success that remain unmatched by any other 
 organization.
-
