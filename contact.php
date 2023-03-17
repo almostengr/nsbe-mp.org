@@ -320,15 +320,6 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
             </li>
             
             <li class="nav-item">
-              <a class="text-black" href="tel:(334) 640-5405">
-                
-                <i class="bi bi-telephone"></i>
-                
-                (334) 640-5405
-              </a>
-            </li>
-            
-            <li class="nav-item">
               <a class="text-black" href="https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811">
                 
                 <i class="bi bi-phone"></i>
@@ -387,7 +378,12 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
             </li>
             
           </ul>
+        </div>
+      </div>
 
+      <div class="card subfooter col-lg-3 col-sm-12">
+        <div class="card-body">
+          <h5 class="card-title p-2 font-weight-bold">NSBE Links</h5>
           <ul class="list-unstyled footer">
             
             <li class="nav-item">
@@ -422,7 +418,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST')
     <hr class="bg-white" />
 
     <div class="container text-center">
-      <p class="footer">Copyright &copy; 2023 NSBE Montgomery Professionals (NSBE-MP)</p>
+      <p class="footer">Copyright &copy; 2002-2023 National Society of Black Engineers Montgomery Professionals</p>
       <p class="footer">
         Cookies are used on this website to track your visits, provide advertisements specific
         to you, and preferences by a third-party.
