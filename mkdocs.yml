@@ -91,6 +91,9 @@ theme:
     - url:  /photos
       name: Photos
       icon: bi bi-camera
+    - url: /projects
+      name: STEM Projects
+      icon: bi bi-phone
 
   nsbelinks:
     - url: https://www.nsbe.org

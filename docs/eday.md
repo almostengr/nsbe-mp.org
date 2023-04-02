@@ -7,14 +7,11 @@ imageurl: /images/eday2022final.png
 E-Day (Engineering Day) at the Park allows K–12th grade students an opportunity to participate in a number of
 hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
 
-You can register for the 2022 Engineering Day at the Park on our 
-<a href="https://2022eday.eventbrite.com/" target="_blank">EventBrite page</a>.
-
-## E-Day 2022 Details
+## E-Day 2023 Details
 
 ### When
 
-August 27, 2022 10AM-1PM
+August 19, 2023 10AM-1PM
 
 ### Where
 
@@ -31,8 +28,6 @@ Montgomery, AL 36106
 ### What
 
 Engineering Day allows students an opportunity to participate in a number of hands-on S.T.E.M. activities
-You can register for the event on our 
-<a href="https://2022eday.eventbrite.com/" target="_blank">EventBrite page</a>.
 
 We will also have giveaways, hands on STEM activities, and free food!
 
@@ -58,16 +53,16 @@ Want to recreate a project that was done at E-Day 2022? Information for each pro
 presented at E-Day 2022, is listed below. Each document includes a list of materials and steps 
 to complete the project.
 
-* [Bottle Rocket](/edayprojects/Bottle_Rocket.pdf)
-* [Build Ultimate Sandcastle](/edayprojects/Build_The_Ultimate_Sandcastle.pdf)
-* [DIY Lava Lamp](/edayprojects/DIY_Lava_Lamp.pdf)
-* [Inside A Computer](/edayprojects/Inside_a_computer.pdf)
-* [Leak Proof Bag](/edayprojects/Leak-Proof-Bag.pdf)
-* [Magnetic Levitating Pencil](/edayprojects/Magnetic-Levitating-Pencil.pdf)
-* [Makers Station](/edayprojects/Makers_Station.pdf)
-* [Rubber Band Car](/edayprojects/Rubber_Band_Car.pdf)
-* [Slime Lab](/edayprojects/Slime_Lab.pdf)
-* [Water Pollution Clean Up](/edayprojects/asce-water-pollution-clean-up-activity-at-home-version.pdf)
+* [Bottle Rocket](/projects/Bottle_Rocket.pdf)
+* [Build Ultimate Sandcastle](/projects/Build_The_Ultimate_Sandcastle.pdf)
+* [DIY Lava Lamp](/projects/DIY_Lava_Lamp.pdf)
+* [Inside A Computer](/projects/Inside_a_computer.pdf)
+* [Leak Proof Bag](/projects/Leak-Proof-Bag.pdf)
+* [Magnetic Levitating Pencil](/projects/Magnetic-Levitating-Pencil.pdf)
+* [Makers Station](/projects/Makers_Station.pdf)
+* [Rubber Band Car](/projects/Rubber_Band_Car.pdf)
+* [Slime Lab](/projects/Slime_Lab.pdf)
+* [Water Pollution Clean Up](/projects/asce-water-pollution-clean-up-activity-at-home-version.pdf)
 
 ## E-Day 2019 Highlights
 
