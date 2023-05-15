@@ -31,7 +31,7 @@ jobs:
       run:  /usr/bin/python3 -m mkdocs gh-deploy -b website
 
   deploy:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     needs: build
 
     steps:
