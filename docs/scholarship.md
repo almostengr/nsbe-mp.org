@@ -24,6 +24,7 @@ of the application packet. The application can be downloaded at the link above.
 
 ## Previous Scholarship Recepients
 
+### 2023 - Anaiah Morrissette; William Rochelle
 ### 2022 - Darriana M. Thompson; Kyla C. Young
 ### 2021 - Nathon J. Tubbs; Christy C. Daniel
 ### 2020 - Jada Stringer; Brandon Butts
