@@ -1,7 +1,7 @@
 ---
 title: Engineering Day (E-Day) At The Park
 imagealt: Engineering Day at the park is a yearly event where we invite the students and the community to learn about STEM though hands on projects.
-imageurl: /images/eday2022final.png
+imageurl: /images/eday2023.jpg
 ---
 
 E-Day (Engineering Day) at the Park allows K–12th grade students an opportunity to participate in a number of
@@ -23,7 +23,7 @@ Montgomery, AL 36106
 
 ### Who
 
-3rd–12th grade students from the Montgomery, Prattville, Wetumpka, and surrounding areas.
+3rd–12th grade students from the Montgomery, Prattville, Wetumpka, Millbrook, and surrounding areas in the River Region.
 
 ### What
 
