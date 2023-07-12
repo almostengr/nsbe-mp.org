@@ -4,12 +4,11 @@ imageurl: /images/20171118_125006.jpg
 imagealt: Photo with participants with NSBE MP and The Links Montgomery Chapter
 ---
 
-NSBE MP provides two different levels of programming for the community and its members.
+NSBE MP provides different levels of programming for the community and its members.
 
-* [TORCH Programs](#technical-outreach-and-community-help-torch-programs) which are
-targeted towards younger students.
-* [Professional Development Programs](#professional-development-programs) which are
-targeted towards professionals that are just starting or well into their careers.
+* [Professional Development Programs](#professional-development-programs)
+* [Student Scholarships](#student-scholarships)
+* [TORCH Programs](#technical-outreach-and-community-help-torch-programs)
 
 ## Professional Development Programs
 
@@ -34,6 +33,14 @@ To recieve notifications about the next chapter meeting, you can sign up for our
 follow us on our [social media pages](/links) to receive the latest updates and information 
 regarding the chapter.
 
+## Student Scholarships
+
+Each year, NSBE Montgomery Professionals provide scholarships to students in the River Region scholarships
+towards their STEM (Science, Technology, Engineering, and Math) related degree or training.
+
+More information about our scholarship program, who is eligible, and how to apply, is available on the 
+[Scholarship page](/scholarship).
+
 ## Technical OutReach and Community Help (T.O.R.C.H.) Programs
 
 NSBE TORCH Programs are designed to encourage students in grades K-12 and college to pursue a career in a
@@ -44,7 +51,6 @@ Below are the programs that we offer. Click the program name below to read more 
 
 * [E-Day (Engineering Day) At The Park](/eday)
 * [Central Alabama NSBE Jr. Chapter](/nsbejr)
-* [NSBE MP Scholarship](/scholarship)
 * [Career Day Presentations](#career-day-presentations)
 * [STEM Exhibitions and Presentations](#stem-exhibitions-and-presentations)
 
