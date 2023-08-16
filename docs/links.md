@@ -4,14 +4,20 @@ imageurl: /images/nsbemplogo2.jpg
 imagealt: National Society of Black Engineers Montgomery Professionals
 ---
 
-[NSBE-MP Website](https://www.nsbe-mp.org)
+Follow us on our social media pages. In addition, find out more about NSBE Montgomery Professionals.
 
-[Engineering Day at the Park](https://www.nsbe-mp.org/links)
+### [Engineering Day at the Park](/eday)
 
-[EventBrite](https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811)
+### [Become A Member](/membership)
 
-[Facebook](https://www.facebook.com/nsbemp)
+### [Donate to NSBE-MP](/donate)
 
-[Instagram](https://www.instagram.com/nsbemp)
+### [EventBrite](https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811)
 
-[Twitter](https://twitter.com/nsbemp)
+### [Facebook](https://www.facebook.com/nsbemp)
+
+### [Instagram](https://www.instagram.com/nsbemp)
+
+### [X (formerly Twitter)](https://twitter.com/nsbemp)
+
+### [NSBE Montgomery Professionals Website](/)

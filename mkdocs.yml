@@ -13,7 +13,7 @@ remote_name: origin
 remote_branch: website
 
 # Development server details
-dev_addr: 192.168.1.103:8000
+dev_addr: 10.10.10.103:8000
 
 # Appearance
 theme:
@@ -81,9 +81,6 @@ theme:
     - url:  /contact
       name: Contact
       icon: bi bi-person-lines-fill
-    # - url:  tel:(334) 640-5405
-    #   name: (334) 640-5405
-    #   icon: bi bi-telephone
     - url: https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811
       name: Events
       icon: bi bi-phone

@@ -29,7 +29,7 @@ Membership dues for NSBE MP and CA NSBE Jr are broken down by the following cate
 
 * Current or Previous Professional Members - $50 annually
 * [First Year Professional Members](#first-year-members) - Free
-* NSBE Jr Members - $5 annually for Elementary and Middle School students, $10 annually for high school students
+* [NSBE Jr](/nsbejr) Members - $5 annually for elementary and middle School students, $10 annually for high school students
 
 National and regional membership dues can be found by visiting 
 <a href="https://mynsbe.nsbe.org" target="_blank">NSBE Connect</a>.
