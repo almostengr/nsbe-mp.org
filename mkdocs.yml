@@ -43,13 +43,13 @@ theme:
       name: Contact
 
   carousel:
-    - imageurl: /images/edaybanner.jpg
-      buttontext: Read more about Engineering Day at the Park
+    - imageurl: /images/eday2022volunteers.jpg
+      buttontext: Read more about Engingeering Day at the Park
       buttonlink: /eday
     - imageurl: /images/carousel3.jpg
       buttontext: NSBE-MP is involved in the local community
       buttonlink: "/programs"
-    - imageurl: /images/nsbejr.jpg
+    - imageurl: /images/steamfest2023.jpg
       buttontext: Read more about our NSBE Jr Chapter!
       buttonlink: /nsbejr
     - imageurl: /images/23376203_2076577645910383_3305085649971947333_n.jpg
