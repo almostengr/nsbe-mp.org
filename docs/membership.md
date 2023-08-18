@@ -23,20 +23,17 @@ and achievement in the engineering field.
 The full list of membership benefits are available on the 
 <a href="https://www.nsbe.org/membership/professional-membership" target="_blank">NSBE national website</a>.
 
-## Local Membership Dues
+## Membership Dues
 
 Membership dues for NSBE MP and CA NSBE Jr are broken down by the following categories. 
-
-* Current or Previous Professional Members - $50 annually
-* [First Year Professional Members](#first-year-members) - Free
-* [NSBE Jr](/nsbejr) Members - $5 annually for elementary and middle School students, $10 annually for high school students
 
 National and regional membership dues can be found by visiting 
 <a href="https://mynsbe.nsbe.org" target="_blank">NSBE Connect</a>.
 
-## How to Become A NSBE Professional Member
+### Professional Membership
 
-To become a member of NSBE, you will need to complete all of the steps listed below.
+* Current or Previous Professional Members - $50 annually
+* First Year Professional Members - Free
 
 * Register with NSBE National. This can be done by visiting 
 <a href="https://mynsbe.nsbe.org" target="_blank">MyNSBE</a>.
@@ -46,8 +43,6 @@ select "Professional" as the Membership Type and "Montgomery Professionals" as t
 * Pay your Local Dues. This step is done by clicking the "Add To Cart" in the section below.
 * Once local and national dues have been paid, you will be officially a member and be able to 
 participate in chapter activities and elections.
-
-### Purchase NSBE MP (Local) Membership
 
 To pay your local dues to NSBE MP, select the option you wish to pay and click the "Add to Cart" button. 
 You will be directed to Paypal to complete your transaction.
@@ -65,13 +60,11 @@ You will be directed to Paypal to complete your transaction.
 </form>
 <p class="mb-2"></p>
 
-### First Year Members
+### NSBE Jr Membership
 
-Those who choose to join and it is their first year as a member of NSBE MP, due not have to pay
-chapter dues. You are still responsible for completing the registration on NSBE Connect and paying
-your national and regional dues (if applicable).
+See the [NSBE Jr page](/nsbejr) for more information on how to become a NSBE Jr Member.
 
-### NSBE Calendar Year
+## NSBE Calendar Year
 
 Membership dues have to be paid on a yearly basis. The membership year starts on August 1
 and ends on July 31 of each year.

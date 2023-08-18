@@ -35,6 +35,8 @@ theme:
     - name: Events
       link: https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811
       target: "_blank"
+    - name: Scholarships
+      link: /scholarship
     - link: /about
       name: About
     - link: /contact
@@ -66,7 +68,7 @@ theme:
       link: /eday
     - title: Chapter Meetings
       body:  General Body Meetings are held on the first Tuesday of each month at 6 PM CT.
-      link: /programs
+      link: /chapter-meetings
     - title: Join NSBE
       body: Being a member of NSBE comes with great benefits and networking opportunities.
       link: /membership
