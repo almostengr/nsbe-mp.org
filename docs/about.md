@@ -4,21 +4,21 @@ imageurl: /images/mgmskyline.jpg
 imagealt: Montgomery skyline at night
 ---
 
-## NSBE Montgomery Professionals Executive Board 2022-2023
+## NSBE Montgomery Professionals Executive Board 2023-2024
 
-### Adam Sumbry, President
+### Al Thomas, President
 
-### Al Thomas, President-Elect
+### Rodney Zeigler, President-Elect
 
 ### Rodney Zeigler, Treasurer
 
-### Kenny Robinson, Secretary
+### Kalen Mumford, Secretary
 
-### Kel Morrissette, Parliamentarian
+### Kenny Robinson, Parliamentarian
 
-### Shar Stiles, President Emeritus
+### Adam Sumbry, President Emeritus
 
-### Al Thomas, Programs Chair
+### Rodney Zeigler, Programs Chair
 
 ### LaTasha Merchant, Telecommunications Chair
 
