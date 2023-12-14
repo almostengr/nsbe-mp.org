@@ -18,21 +18,21 @@ imagealt: Montgomery skyline at night
 
 ### Adam Sumbry, President Emeritus
 
+### Kenny Robinson, Delegate
+
+### Sonja Favors, Delegate
+
 ### Rodney Zeigler, Programs Chair
 
 ### LaTasha Merchant, Telecommunications Chair
 
 ### Tamaria McAlpin, PCI (Pre-Collegiate Initiative) Chair
 
-### Earnest Colvin. Scholarship Chair
+### Earnest Colvin, Scholarship Chair
 
 ### Kalen Mumford, Membership Chair
 
 ### Rodney Zeigler, Fundraising Chair
-
-### Kenny Robinson, Delegate
-
-### Sonja Favors, Delegate
 
 
 ## NSBE Montgomery Professionals History
