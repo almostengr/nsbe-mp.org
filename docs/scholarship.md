@@ -4,8 +4,8 @@ imageurl: /images/IMG_6468.jpg
 imagealt: 2016 NSBE MP Scholarship receipents with NSBE MP members.
 ---
 
-Each year, the Montgomery Professionals Chapter of the National Society of Black Engineers (NSBE-MP) awards
-scholarships to high school senior and/or college students with the intent of pursuing a technical or 
+Each year, the National Society of Black Engineers Montgomery Professionals Chapter (NSBE-MP) awards
+scholarships to high school senior and college students with the intent of pursuing a technical or 
 engineering degree from an accredited four-year college or university. Students must be a resident of 
 Autauga, Elmore, or Montgomery Counties in Alabama and meet other stated requirements in order to qualify
 for this award.

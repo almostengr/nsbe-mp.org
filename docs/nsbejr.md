@@ -16,13 +16,16 @@ leadership, technical development, and teamwork.
 
 NSBE Jr meets on 3rd Sunday of each month from September until May from
 3 PM until 5 PM CT at the Juliette Hampton Morgan Memorial Library 
-(<a href="https://goo.gl/maps/8G8UfhePq7PnSnDc7" target="_blank">245 High St, Montgomery, AL 36104</a>).
+(<a href="https://goo.gl/maps/8G8UfhePq7PnSnDc7" target="_blank">245 High St, Montgomery, AL 36104</a>)
+in Downtown Montgomery.
 
 ## Membership Dues
 
 NSBE Jr Membership dues are $5 for grades K-8 and $10 for grades 9-12. Membership dues are paid yearly.
 
 ### Purchase NSBE Jr Membership
+
+You may pay your membership dues in person at a NSBE Jr Meeting or by using the payment button below.
 
 <form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pb-2">
 <input type="hidden" name="cmd" value="_s-xclick">

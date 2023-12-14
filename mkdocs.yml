@@ -13,7 +13,7 @@ remote_name: origin
 remote_branch: website
 
 # Development server details
-dev_addr: 192.168.1.103:8000
+dev_addr: 10.10.10.103:8000
 
 # Appearance
 theme:
@@ -35,19 +35,21 @@ theme:
     - name: Events
       link: https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811
       target: "_blank"
+    - name: Scholarships
+      link: /scholarship
     - link: /about
       name: About
     - link: /contact
       name: Contact
 
   carousel:
-    - imageurl: /images/edaybanner.jpg
-      buttontext: Read more about Engineering Day at the Park
+    - imageurl: /images/eday2022volunteers.jpg
+      buttontext: Read more about Engingeering Day at the Park
       buttonlink: /eday
     - imageurl: /images/carousel3.jpg
       buttontext: NSBE-MP is involved in the local community
       buttonlink: "/programs"
-    - imageurl: /images/nsbejr.jpg
+    - imageurl: /images/steamfest2023.jpg
       buttontext: Read more about our NSBE Jr Chapter!
       buttonlink: /nsbejr
     - imageurl: /images/23376203_2076577645910383_3305085649971947333_n.jpg
@@ -66,7 +68,7 @@ theme:
       link: /eday
     - title: Chapter Meetings
       body:  General Body Meetings are held on the first Tuesday of each month at 6 PM CT.
-      link: /programs
+      link: /chapter-meetings
     - title: Join NSBE
       body: Being a member of NSBE comes with great benefits and networking opportunities.
       link: /membership
@@ -81,9 +83,6 @@ theme:
     - url:  /contact
       name: Contact
       icon: bi bi-person-lines-fill
-    # - url:  tel:(334) 640-5405
-    #   name: (334) 640-5405
-    #   icon: bi bi-telephone
     - url: https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811
       name: Events
       icon: bi bi-phone
