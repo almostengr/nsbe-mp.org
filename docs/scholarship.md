@@ -5,7 +5,7 @@ imagealt: 2016 NSBE MP Scholarship receipents with NSBE MP members.
 ---
 
 Each year, the National Society of Black Engineers Montgomery Professionals Chapter (NSBE-MP) awards
-scholarships to high school senior and college students with the intent of pursuing a technical or 
+scholarships to 1 deserving high school senior with the intent of pursuing a technical or 
 engineering degree from an accredited four-year college or university. Students must be a resident of 
 Autauga, Elmore, or Montgomery Counties in Alabama and meet other stated requirements in order to qualify
 for this award.
@@ -13,14 +13,16 @@ for this award.
 To be notified when scholarship applications are being accepted for the upcoming year, please sign up for 
 our mailing list or check with your school guidance counselor or advisor.
 
-## 2023 Scholarship Application
+## 2024 Scholarship Application
 
-**Applications must be postmarked by February 18, 2023.**
+![NSBE Scholarship Program Information](/images/2024 NSBE MP Scholarship Flyer.jpg)
 
-To apply for for the scholarship, [Download Application](/files/NSBE-MP2023ScholarshipApplication.pdf)
+**Applications must be postmarked by March 31, 2024.**
+
+To apply for for the scholarship, [fill out the online application](https://form.jotform.com/240065807225149).
 
 Information about how to submit your application, the amount, and other information can be found inside
-of the application packet. The application can be downloaded at the link above.
+of the application packet.
 
 ## Previous Scholarship Recepients
 
