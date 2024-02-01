@@ -14,6 +14,7 @@ Some of the projects below are provided by other creators and are credited to th
 * [Leak Proof Bag](/projects/Leak-Proof-Bag.pdf)
 * [Magnetic Levitating Pencil](/projects/Magnetic-Levitating-Pencil.pdf)
 * [Makers Station](/projects/Makers_Station.pdf)
+* [Milk Plastic](/projects/milk_plastic.pdf)
 * [Rubber Band Car](/projects/Rubber_Band_Car.pdf)
 * [Slime Lab](/projects/Slime_Lab.pdf)
 * [Ultimate Sandcastle](/projects/Build_The_Ultimate_Sandcastle.pdf)
