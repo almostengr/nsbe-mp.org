@@ -47,9 +47,10 @@ name="submit" alt="Add to Cart">
 the CA NSBE Jr program and Engineering Day at the Park.
 
 <div class="container">
-<img src="/images/nsbejr_2024_jan_1.jpg" alt="NSBE JR students">
+<div>
+<img src="/images/nsbejr_2024_jan_1.jpg" alt="NSBE JR students" class="w-100">
 </div>
-
-<div class="container">
-<img src="/images/nsbejr_2024_jan_2.jpg" alt="NSBE JR students">
+<div>
+<img src="/images/nsbejr_2024_jan_2.jpg" alt="NSBE JR students" class="w-100">
+</div>
 </div>
