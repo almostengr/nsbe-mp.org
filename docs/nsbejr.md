@@ -46,6 +46,10 @@ name="submit" alt="Add to Cart">
 * In 2019, we received the NSBE Region 3 Pre-College Initiative Program of the Year for our efforts with
 the CA NSBE Jr program and Engineering Day at the Park.
 
-![NSBE JR](/images/nsbejr_2024_jan_1.jpg)]
+<div class="container">
+<img src="/images/nsbejr_2024_jan_1.jpg" alt="NSBE JR students">
+</div>
 
-![NSBE JR](/images/nsbejr_2024_jan_2.jpg)]
+<div class="container">
+<img src="/images/nsbejr_2024_jan_2.jpg" alt="NSBE JR students">
+</div>
