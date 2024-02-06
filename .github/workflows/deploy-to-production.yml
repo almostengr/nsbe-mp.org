@@ -36,7 +36,7 @@ jobs:
 
     steps:
     - name: Deploy to Production
-      uses: fifsky/ssh-action@master
+      uses: fifsky/ssh-action@v3
       with:
         command: cd && cd www && git pull origin website
         host: ${{ secrets.HOSTNAME }}
