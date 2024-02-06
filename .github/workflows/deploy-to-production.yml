@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@master
 
     - name: Install pip
       run:  /usr/bin/python3 -m pip install --upgrade pip
@@ -36,7 +36,7 @@ jobs:
 
     steps:
     - name: Deploy to Production
-      uses: fifsky/ssh-action@v3
+      uses: fifsky/ssh-action@master
       with:
         command: cd && cd www && git pull origin website
         host: ${{ secrets.HOSTNAME }}
