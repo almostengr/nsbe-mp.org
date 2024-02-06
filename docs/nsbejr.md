@@ -15,9 +15,9 @@ leadership, technical development, and teamwork.
 ## Meetings
 
 NSBE Jr meets on 3rd Sunday of each month from September until May from
-3 PM until 5 PM CT at the Juliette Hampton Morgan Memorial Library 
-(<a href="https://goo.gl/maps/8G8UfhePq7PnSnDc7" target="_blank">245 High St, Montgomery, AL 36104</a>)
-in Downtown Montgomery.
+3 PM until 5 PM CT at the H. Councill Trenholm Hall 
+(<a href="https://maps.app.goo.gl/yewCMgbe3Ymut5wk7" target="_blank">1200 University Drive North, Montgomery, AL 36106</a>) 
+on the campus of Alabama State University.
 
 ## Membership Dues
 

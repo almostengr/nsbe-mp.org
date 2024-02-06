@@ -23,6 +23,14 @@ professional. Various events are held throughout the year.
 To find out when these events will happen, follow or like our social media pages and sign up for our
 mailing list.
 
+## Central Alabama NSBE Jr
+
+NSBE Jr. (National Society of Black Engineers Junior) is a dynamic and engaging program designed 
+to inspire and empower young minds in the fields of science, technology, engineering, and mathematics (STEM).
+Geared towards grade school students, NSBE Jr. offers a supportive community and a range of enriching 
+activities to foster a passion for STEM disciplines.
+
+For more information about Central Alabama NSBE Jr, visit the [NSBE Jr. page](/nsbejr).
 
 ## Student Scholarships
 
