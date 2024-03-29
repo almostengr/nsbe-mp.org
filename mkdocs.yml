@@ -27,7 +27,10 @@ theme:
   
   mainnav:
     - link: /membership
-      name: Membership
+      name: Become A Member
+    - link: 
+    - link: /nsbejr
+      name: K-12 Students
     - link: /programs
       name: Programs
     - link: /donate
@@ -35,8 +38,6 @@ theme:
     - name: Events
       link: https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811
       target: "_blank"
-    - name: Scholarships
-      link: /scholarship
     - link: /about
       name: About
     - link: /contact

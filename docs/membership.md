@@ -25,7 +25,7 @@ The full list of membership benefits are available on the
 
 ## Membership Dues
 
-Membership dues for NSBE MP and CA NSBE Jr are broken down by the following categories. 
+Membership dues for NSBE MP and Central Alabama NSBE Jr are broken down by the following categories. 
 
 National and regional membership dues can be found by visiting 
 <a href="https://mynsbe.nsbe.org" target="_blank">NSBE Connect</a>.

@@ -1,5 +1,5 @@
 ---
-title: Central Alabama NSBE Jr.
+title: Central Alabama NSBE Jr. Chapter
 imageurl: /images/nsbejr.jpg
 imagealt: Photo of CA NSBE Jr. students
 ---
@@ -17,11 +17,12 @@ leadership, technical development, and teamwork.
 NSBE Jr meets on 3rd Sunday of each month from September until May from
 3 PM until 5 PM CT at the H. Councill Trenholm Hall 
 (<a href="https://maps.app.goo.gl/yewCMgbe3Ymut5wk7" target="_blank">1200 University Drive North, Montgomery, AL 36106</a>) 
-on the campus of Alabama State University.
+on the campus of Alabama State University, in Montgomery, Alabama.
 
 ## Membership Dues
 
-NSBE Jr Membership dues are $5 for grades K-8 and $10 for grades 9-12. Membership dues are paid yearly.
+NSBE Jr Membership dues are $5 for grades K-8 and $10 for grades 9-12. 
+The membership year starts on August 1 and ends on July 31 of each year.
 
 ### Purchase NSBE Jr Membership
 
@@ -33,7 +34,7 @@ You may pay your membership dues in person at a NSBE Jr Meeting or by using the 
 <input type="hidden" name="currency_code" value="USD">
 <input type="hidden" name="on0" value="Membership Type">
 <select name="os0">
-<option value="Elem/Middle School Student">Elem/Middle School Student $5.00 USD</option>
+<option value="Elem/Middle School Student">Elementary/Middle School Student $5.00 USD</option>
 <option value="High School Student">High School Student $10.00 USD</option>
 </select>
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" 
@@ -41,10 +42,16 @@ name="submit" alt="Add to Cart">
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
+## Projects
+
+Previous projects are available for your child or student to do at home or in the classroom. 
+Some supplies are required in order to do projects. Most supplies can be purchased online or at 
+a local retailer.
+
 ## Awards
 
 * In 2019, we received the NSBE Region 3 Pre-College Initiative Program of the Year for our efforts with
-the CA NSBE Jr program and Engineering Day at the Park.
+the Central Alabama NSBE Jr program and Engineering Day at the Park event.
 
 <div class="container">
 <div>
