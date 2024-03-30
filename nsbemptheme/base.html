@@ -20,20 +20,12 @@
   <meta name="twitter:description" content="{{ config.site_description | striptags }}" />
   {% endif %}
 
-  {% if page and page.meta.author %}
-  <meta name="author" content="{{ page.meta.author }}">
-  {% else %}
   <meta name="author" content="{{ config.site_author }}">
-  {% endif %}
 
-  {% if page and page.meta.title %}
-  <title>{{ page.meta.title | striptags }} | {{ config.site_name }}</title>
-  <meta property="og:title" content="{{ page.meta.title }}" />
-  <meta name="twitter:title" content="{{ page.meta.title }}" />
-  {% elif page.title and not page.is_homepage %}
+  {% if page and page.title %}
   <title>{{ page.title | striptags }} | {{ config.site_name }}</title>
-  <meta property="og:title" content="{{ page.title | striptags }}" />
-  <meta name="twitter:title" content="{{ page.title | striptags }}" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta name="twitter:title" content="{{ page.title }}" />
   {% else %}
   <title>{{ config.site_name }}</title>
   <meta property="og:title" content="{{ config.site_name }}" />
@@ -55,11 +47,7 @@
   <meta property="og:type" content="website" />
   {% endif %}
 
-  {% if page and page.meta.robots %}
-  <meta name="robots" content="{{ page.meta.robots }}" />
-  {% else %}
   <meta name="robots" content="index, follow" />
-  {% endif %}
 
   {% if page and page.canonical_url %}
   <link rel="canonical" href="{{ page.canonical_url | url }}">
@@ -97,16 +85,12 @@
       <ul class="navbar-nav ml-auto">
         {% for navitem in config.theme.mainnav %}
         <li class="nav-item">
-          {% if navitem.target %}
-          <a href="{{ navitem.link }}" class="nav-link" target="{{ navitem.target }}">{{ navitem.name }}</a>
-          {% else %}
           <a href="{{ navitem.link }}" class="nav-link">{{ navitem.name }}</a>
-          {% endif %}
         </li>
         {% endfor %}
       </ul>
       <form class="form-inline mt-2 mt-md-0" action="/donate" method="GET">
-        <button class="btn btn-outline-light bg-light text-dark my-2 my-sm-0" type="submit">Donate</button>
+        <button class="btn btn-outline-light bg-danger text-dark my-2 my-sm-0" type="submit">Donate</button>
       </form>
     </div>
   </nav>
@@ -116,28 +100,92 @@
     {% include "_homepage.html" %}
     {% endif %}
 
-      <div class="body container">
-        {% if page and page.meta.title %}
-        <h1>{{ page.meta.title }}</h1>
-        {% endif %}
+    <div class="body container">
+      {% if page and page.meta.title %}
+      <h1>{{ page.meta.title }}</h1>
+      {% endif %}
 
-        {% if page and page.meta.imageurl and page.meta.imagealt %}
-        <div class="col-12 pb-4 text-center">
-          <img src="{{ page.meta.imageurl | url }}" alt="{{ page.meta.imagealt }}" class="headimage" />
-        </div>
-        {% endif %}
-
-        {%- block content %}
-        {{ page.content }}
-        {%- endblock %}
+      {% if page and page.meta.imageurl and page.meta.imagealt %}
+      <div class="col-12 pb-4 text-center">
+        <img src="{{ page.meta.imageurl | url }}" alt="{{ page.meta.imagealt }}" class="headimage" />
       </div>
-      <!-- todo - card for making donation -->
+      {% endif %}
 
-      <!-- todo - card for becoming a member -->
+      {%- block content %}
+      {{ page.content }}
+      {%- endblock %}
+    </div>
+    <!-- todo - card for making donation -->
+
+    <!-- todo - card for becoming a member -->
   </main>
 
   <footer class="footer">
-    {% include "_footer.html" %}
+    <div class="py-4 mx-auto subfooter row">
+      {% for block in config.theme.footerblocks %}
+      <div class="card subfooter col-lg-3 col-md-6 col-sm-12">
+        <div class="card-body">
+          <h5 class="card-title p-2 subfooter font-weight-bold">{{ block.title }}</h5>
+          <p class="card-text subfooter">{{ block.body }}</p>
+          {% if block.linkurl and block.linktext %}
+          <a href="{{ block.linkurl | url }}" class="btn btn-footer">{{ block.linktext }}</a>
+          {% endif %}
+        </div>
+      </div>
+      {% endfor %}
+
+      <div class="card subfooter col-lg-3 col-md-6 col-sm-12">
+        <div class="card-body">
+          <h5 class="card-title p-2 font-weight-bold">Links</h5>
+          <ul class="list-unstyled footer">
+            {% for link in config.theme.contactlinks %}
+            <li class="nav-item">
+              <a class="text-black" href="{{ link.url | url }}">
+                {% if link.icon %}
+                <i class="{{ link.icon }}"></i>
+                {% endif %}
+                {{ link.name | striptags }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+
+          <ul class="list-unstyled footer">
+            {% for link in config.theme.sociallinks %}
+            <li class="nav-item">
+              <a class="text-black" href="{{ link.url | url }}" target="_blank">
+                {% if link.icon %}
+                <i role="link" class="{{ link.icon }}"></i>
+                {% endif %}
+                {{ link.name | striptags }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+
+      <div class="card subfooter col-lg-3 col-md-6 col-sm-12">
+        <div class="card-body">
+          <h5 class="card-title p-2 font-weight-bold">NSBE Links</h5>
+          <ul class="list-unstyled footer">
+            {% for link in config.theme.nsbelinks %}
+            <li class="nav-item">
+              <a href="{{ link.url | url }}" target="_blank">
+                <i role="link" class="bi bi-link"></i> {{ link.name }}
+              </a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container text-center">
+      <p class="footer">Copyright &copy; 2001-{{ build_date_utc.strftime('%Y') }}
+        National Society of Black Engineers Montgomery Professionals (NSBE-MP)
+      </p>
+    </div>
   </footer>
   <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
     integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
