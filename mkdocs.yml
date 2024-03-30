@@ -94,6 +94,9 @@ theme:
     - url: /projects
       name: STEM Projects
       icon: bi bi-phone
+    - url: /forms
+      name: Forms
+      icon: bi bi-ui-checks
 
   nsbelinks:
     - url: https://www.nsbe.org
