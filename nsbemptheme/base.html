@@ -106,7 +106,7 @@
         {% endfor %}
       </ul>
       <form class="form-inline mt-2 mt-md-0" action="/donate" method="GET">
-        <button class="btn btn-outline-light btn-danger text-dark my-2 my-sm-0" type="submit">Donate</button>
+        <button class="btn btn-outline-light bg-light text-dark my-2 my-sm-0" type="submit">Donate</button>
       </form>
     </div>
   </nav>
@@ -116,8 +116,7 @@
     {% include "_homepage.html" %}
     {% endif %}
 
-    <div class="px-4">
-      <div class="body">
+      <div class="body container">
         {% if page and page.meta.title %}
         <h1>{{ page.meta.title }}</h1>
         {% endif %}
@@ -135,7 +134,6 @@
       <!-- todo - card for making donation -->
 
       <!-- todo - card for becoming a member -->
-    </div>
   </main>
 
   <footer class="footer">
