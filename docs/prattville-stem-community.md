@@ -11,8 +11,8 @@ Prattville, Alabama is a hub of innovation and opportunity, with a rich history 
 ## Upcoming STEM Events
 
 Stay tuned for exciting 
-<a href=”https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811” target=”_blank”>STEM events</a> coming up in Prattville, Alabama, including workshops, seminars, and [hands-on activities for students](/projects) and professionals alike. Check out our 
-<a href=”https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811” target=”_blank”>events calendar</a> for details on how you can get involved and make a difference in the Prattville, Alabama STEM community.
+<a href=”/events” target=”_blank”>STEM events</a> coming up in Prattville, Alabama, including workshops, seminars, and [hands-on activities for students](/projects) and professionals alike. Check out our 
+<a href=”/events” target=”_blank”>events calendar</a> for details on how you can get involved and make a difference in the Prattville, Alabama STEM community.
 
 ## Get Involved
 

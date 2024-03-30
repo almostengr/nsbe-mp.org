@@ -1,5 +1,5 @@
 ---
-title: Programs
+title: Programs and Community Involvement
 imageurl: /images/20171118_125006.jpg
 imagealt: Photo with participants with NSBE MP and The Links Montgomery Chapter
 ---
@@ -9,7 +9,7 @@ NSBE TORCH (Technical OutReach and Community Help)
 Programs are designed to encourage students in grades K-12 and college to pursue a career in a
 STEM (Science, Technology, Engineering, and Math) field. This is done by volunteering at STEM and STEAM community events, presenting about having a STEM career at local schools, and providing scholarships for students in the Montgomery and River Region.
 
-## Central Alabama NSBE Jr (Pre-Collegiate Initiative)
+## Pre-Collegiate Initiative (Central Alabama NSBE Jr Chapter)
 
 NSBE Jr. (National Society of Black Engineers Junior) is a dynamic and engaging program designed 
 to inspire and empower young minds in the fields of science, technology, engineering, and mathematics (STEM).
@@ -63,3 +63,14 @@ professional. Various events are held throughout the year.
 
 To find out when these events will happen, follow or like our social media pages and sign up for our
 mailing list.
+
+## Christmas Angel Program
+
+Each Christmas season, the Montgomery Professionals Chapter of the National Society of Black Engineers (NSBE) members come together to spread joy and cheer during the holiday season. Each year, we collect donations to purchase toys, clothes, gifts, and other items from children's Christmas wish lists.
+
+Members of our NSBE chapter and those from the community, generously donate money towards buying these items, which are then distributed to children in need. Through the Christmas Angel program, we aim to make a positive difference in the lives of children and families in our community, ensuring that every child receives a special gift during the holiday season.
+
+You can make a difference by participating in the Christmas Angel program! Whether you contribute financially or volunteer your time to help organize and distribute gifts, your support is invaluable in spreading holiday cheer to those who need it most. Join us in making the holidays brighter for children in our community.
+[Your donations](/donate) are crucial to the success of the Christmas Angel 
+program. Every contribution, no matter the size, helps us purchase gifts for children in need. 
+Together, we can make a meaningful impact and bring smiles to the faces of children during the holiday season.

@@ -1,12 +1,11 @@
 ---
-title: Membership
+title: Become A Member
 imageurl: /images/membership.jpg
 imagealt: Members of NSBE MP at social gathering event
 ---
 
 We welcome all technical professionals in the Montgomery, Alabama and River Region areas to join 
-NSBE Montgomery Professionals. Membership dues are $50.00 for the 
-[NSBE Calendar Year](#nsbe-calendar-year).
+NSBE Montgomery Professionals. Membership dues are $50.00 for the NSBE Calendar Year (August 1 throught July 31).
 
 ## Membership Benefits
 
