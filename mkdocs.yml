@@ -82,6 +82,9 @@ theme:
     - url: /about
       name: About NSBE-MP
       icon: bi bi-question-octagon
+    - url: /get-involved
+      name: Get Involved
+      icon: bi bi-people-fill
     - url: /events
       name: Events
       icon: bi bi-phone
