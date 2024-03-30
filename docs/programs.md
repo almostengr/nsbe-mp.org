@@ -1,5 +1,5 @@
 ---
-title: Programs and Community Involvement
+title: STEM Programs and Community Involvement
 imageurl: /images/20171118_125006.jpg
 imagealt: Photo with participants with NSBE MP and The Links Montgomery Chapter
 ---
@@ -35,7 +35,8 @@ alt="Two of NSBE MP members participating in Career Day at Catoma Elementary, a 
 
 Our members are glad to share the work that we do in our professional careers to the
 community through career day presentations. Pictured above is the career day presentation at 
-Catoma Elementary in Montgomery, Alabama, that NSBE-MP members did who work for the
+Catoma Elementary School, part of the Montgomery Public School System, 
+that NSBE-MP members did who work for the
 Alabama Department of Transportation presented information about their careers.
 
 ## STEM Exhibitions and Presentations

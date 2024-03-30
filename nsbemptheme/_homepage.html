@@ -1,11 +1,8 @@
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
         {% for item in config.theme.carousel %}
-        {% if loop.first %}
-        <li data-target="#myCarousel" data-slide-to="{{ loop.index-1 }}" class="active"></li>
-        {% else %}
-        <li data-target="#myCarousel" data-slide-to="{{ loop.index-1 }}"></li>
-        {% endif %}
+        <li data-target="#myCarousel" data-slide-to="{{ loop.index-1 }}" role="button" {% if loop.first %}
+            class="active" {% endif %}></li>
         {% endfor %}
     </ol>
     <div class="carousel-inner bg-black">
@@ -41,7 +38,7 @@
             <p>
                 {{ block.body }}
             </p>
-            <p><a class="btn btn-dark" href="{{ block.link | url }}" role="button">Read about {{ block.title }}</a></p>
+            <p><a class="btn btn-dark" href="{{ block.link | url }}" role="link">View {{ block.title }}</a></p>
         </div>
         {% endfor %}
     </div>

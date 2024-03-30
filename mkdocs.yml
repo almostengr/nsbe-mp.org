@@ -82,6 +82,9 @@ theme:
     - url: /about
       name: About NSBE-MP
       icon: bi bi-question-octagon
+    - url: /get-involved
+      name: Get Involved
+      icon: bi bi-people-fill
     - url: /events
       name: Events
       icon: bi bi-phone
@@ -91,6 +94,9 @@ theme:
     - url: /projects
       name: STEM Projects
       icon: bi bi-phone
+    - url: /forms
+      name: Forms
+      icon: bi bi-ui-checks
 
   nsbelinks:
     - url: https://www.nsbe.org
