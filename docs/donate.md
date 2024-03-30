@@ -6,7 +6,7 @@ imagealt: National Society of Black Engineers Montgomery Professionals
 
 With your donation, NSBE MP can:
 
-* Provide [scholarships](/scholarships) to high school and collegiate students who reside in the River Region, 
+* Provide [scholarships](/scholarship) to high school and collegiate students who reside in the River Region, 
 which includes Montgomery, Elmore, and Autauga Counties in Alabama.
 * Increase black students' awareness of science, technology, engineering, and math (STEM) related careers.
 * Purchase project kits for [NSBE Jr](/nsbejr) students to learn more about STEM.

@@ -18,4 +18,4 @@ Volunteers are the heart of NSBE Montgomery Professionals, and their dedication 
 
 ## Contact Us
 
-Have questions or need more information about getting involved with [Your NSBE Chapter Name]? We're here to help! Please don't hesitate to reach out to us via the [Contact page](/contact) or our social media pages. We look forward to hearing from you and welcoming you to our community!
+Have questions or need more information about getting involved withNSBE Montgomery Professionals? We're here to help! Please don't hesitate to reach out to us via the [Contact page](/contact) or our social media pages. We look forward to hearing from you and welcoming you to our community!
