@@ -62,23 +62,26 @@ theme:
     - title: E-Day At The Park
       body:  E-Day at the Park is an annual event hosted by NSBE MP that allows K-12th grade students an opportunity to participate in a number of hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
       link: /eday
-    - title: Chapter Meetings
-      body:  General Body Meetings are held on the first Tuesday of each month at 6 PM CT.
-      link: /chapter-meetings
+    - title: Scholarship Awards
+      body: Each year, NSBE MP gives out scholarships to students in the River Region that are pursuing or plan on pursuing a degree in a STEM or engineering related field.
+      link: /scholarship
     - title: Join NSBE
       body: Being a member of NSBE comes with great benefits and networking opportunities.
       link: /membership
-    - title: Scholarships
-      body: Each year, NSBE MP gives out scholarships to students in the River Region that are pursuing or plan on pursuing a degree in a STEM or engineering related field.
-      link: /scholarship
-    - title: Programs
+    - title: Community Programs
       body: NSBE programs are designed to encourage students in grades K-12 and college to pursue a career in a STEM (Science, Technology, Engineering, and Math) field and to improve professionals in their career development.
       link: /programs
+    - title: Make A Donation
+      body: Help us get more students in to STEM fields, by donating. Donations received, are used towards project kits for NSBE Jr and supplies for community outreach events.
+      link: /donate
 
   contactlinks:
     - url:  /contact
       name: Contact
       icon: bi bi-person-lines-fill
+    - url: /about
+      name: About NSBE-MP
+      icon: bi bi-question-octagon
     - url: /events
       name: Events
       icon: bi bi-phone
