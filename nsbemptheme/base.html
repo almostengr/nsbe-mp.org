@@ -105,11 +105,8 @@
         </li>
         {% endfor %}
       </ul>
-      <form class="form-inline mt-2 mt-md-0" action="https://www.google.com/search" method="GET">
-        <input type="hidden" name="q" value="site:nsbe-mp.org" />
-        <input type="text" name="q" alt="Search" placeholder="Search with Google" title="Search"
-          class="form-control mr-3" />
-        <button class="btn btn-outline-light my-2 my-sm-0" type="submit">Search</button>
+      <form class="form-inline mt-2 mt-md-0" action="/donate" method="GET">
+        <button class="btn btn-outline-light btn-danger text-dark my-2 my-sm-0" type="submit">Donate</button>
       </form>
     </div>
   </nav>
@@ -119,20 +116,25 @@
     {% include "_homepage.html" %}
     {% endif %}
 
-    <div class="container body">
-      {% if page and page.meta.title %}
-      <h1>{{ page.meta.title }}</h1>
-      {% endif %}
+    <div class="px-4">
+      <div class="body">
+        {% if page and page.meta.title %}
+        <h1>{{ page.meta.title }}</h1>
+        {% endif %}
 
-      {% if page and page.meta.imageurl and page.meta.imagealt %}
-      <div class="col-12 pb-4 text-center">
-        <img src="{{ page.meta.imageurl | url }}" alt="{{ page.meta.imagealt }}" class="headimage" />
+        {% if page and page.meta.imageurl and page.meta.imagealt %}
+        <div class="col-12 pb-4 text-center">
+          <img src="{{ page.meta.imageurl | url }}" alt="{{ page.meta.imagealt }}" class="headimage" />
+        </div>
+        {% endif %}
+
+        {%- block content %}
+        {{ page.content }}
+        {%- endblock %}
       </div>
-      {% endif %}
+      <!-- todo - card for making donation -->
 
-      {%- block content %}
-      {{ page.content }}
-      {%- endblock %}
+      <!-- todo - card for becoming a member -->
     </div>
   </main>
 

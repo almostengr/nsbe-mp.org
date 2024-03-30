@@ -10,15 +10,13 @@
     </ol>
     <div class="carousel-inner bg-black">
         {% for item in config.theme.carousel %}
-        <div {% if loop.first %} class="carousel-item text-center active">
-            {% else %}
-            class="carousel-item text-center">
-            {% endif %}
+        <div class="carousel-item text-center {% if loop.first %} active {% endif %}">
             <img src="{{ item.imageurl | url }}" alt="{{ item.buttontext }}" />
             {% if item.buttontext and item.buttonlink %}
             <div class="container">
                 <div class="carousel-caption">
-                    <p><a class="btn btn-lg" href="{{ item.buttonlink | url }}" role="button">{{ item.buttontext }}</a>
+                    <p>
+                        <a class="btn btn-lg" href="{{ item.buttonlink | url }}" role="button">{{ item.buttontext }}</a>
                     </p>
                 </div>
             </div>
@@ -35,7 +33,7 @@
         <span class="sr-only">Next</span>
     </a>
 </div>
-<div class="container marketing">
+<div class="marketing">
     <div class="row">
         {% for block in config.theme.marketing %}
         <div class="col-sm-12 col-md-6">
@@ -43,7 +41,7 @@
             <p>
                 {{ block.body }}
             </p>
-            <p><a class="btn btn-dark" href="{{ block.link | url }}" role="button">View details &raquo;</a></p>
+            <p><a class="btn btn-dark" href="{{ block.link | url }}" role="button">Read about {{ block.title }}</a></p>
         </div>
         {% endfor %}
     </div>
