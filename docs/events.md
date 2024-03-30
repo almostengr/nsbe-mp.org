@@ -2,13 +2,21 @@
 title: Events and Calendar
 ---
 
+Welcome to our Events and Calendar page! At NSBE MP, we're dedicated to providing engaging and impactful events for our members and the community. From General Body Meetings to exciting STEM initiatives like Engineering Day at the Park, there's always something happening that you won't want to miss.
+
+Explore our upcoming events below and mark your calendars to join us. Whether you're a STEM professional, student, educator, or simply passionate about making a difference in our community, there's a place for you at NSBE MP events.
+
+Don't forget to sign up for our mailing list to stay informed about all our upcoming events and activities. We look forward to seeing you at our next event!
+
 ## General Body Meeting
 
 Our General Body Meetings are an opportunity for members and non-members alike to come together, share ideas, and stay informed about the latest developments in our NSBE chapter. Each meeting covers a range of topics, including upcoming events, project updates, and opportunities for involvement.
 To attend our General Body Meeting, simply sign up for our mailing list to receive reminders and access instructions for both in-person and virtual attendance. Our mailing list ensures that you never miss an important meeting or announcement.
 
 When: First Tuesday of Each Month at 5:30pm
+
 Where: Juliette Hampton Morgan Memorial Library, Downtown Montgomery and virtual via Google Meet
+
 Who: STEM Professionals and those interested in STEM
 
 Don't miss out on our next General Body Meeting! Sign up for our mailing list today to receive reminders and stay updated on all things related to our NSBE chapter.
