@@ -117,26 +117,24 @@
     {% endif %}
 
     <div class="px-4">
-    <div class="body col-12 col-md-9">
-      {% if page and page.meta.title %}
-      <h1>{{ page.meta.title }}</h1>
-      {% endif %}
+      <div class="body">
+        {% if page and page.meta.title %}
+        <h1>{{ page.meta.title }}</h1>
+        {% endif %}
 
-      {% if page and page.meta.imageurl and page.meta.imagealt %}
-      <div class="col-12 pb-4 text-center">
-        <img src="{{ page.meta.imageurl | url }}" alt="{{ page.meta.imagealt }}" class="headimage" />
+        {% if page and page.meta.imageurl and page.meta.imagealt %}
+        <div class="col-12 pb-4 text-center">
+          <img src="{{ page.meta.imageurl | url }}" alt="{{ page.meta.imagealt }}" class="headimage" />
+        </div>
+        {% endif %}
+
+        {%- block content %}
+        {{ page.content }}
+        {%- endblock %}
       </div>
-      {% endif %}
-
-      {%- block content %}
-      {{ page.content }}
-      {%- endblock %}
-    </div>
-    <div class="col-12 col-md-3">
       <!-- todo - card for making donation -->
 
       <!-- todo - card for becoming a member -->
-    </div>
     </div>
   </main>
 
