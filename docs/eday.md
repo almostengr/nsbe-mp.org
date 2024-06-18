@@ -1,25 +1,24 @@
 ---
 title: Engineering Day (E-Day) At The Park
 imagealt: Engineering Day at the park is a yearly event where we invite the students and the community to learn about STEM though hands on projects.
-imageurl: /images/eday2023.jpg
+imageurl: /images/eday2024.jpg
 ---
 
-E-Day (Engineering Day) at the Park allows K–12th grade students an opportunity to participate in a number of
-hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
+E-Day (Engineering Day) at the Park allows K–12th grade students an opportunity to participate in a number of hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).  School supplies and other giveaways will be given at this event.
 
-## E-Day 2024 Details
+## Engineering Day 2024 Details
 
 ### When
 
-Tentatively August 17, 2024 10AM-1PM
+August 17, 2024 10AM-1PM
 
 ### Where
 
-**Oak Park**
+**Tucker Center**
 
-1010 Forest Ave
+5280 Vaughn Road
 
-Montgomery, AL 36106
+Montgomery, AL 36116
 
 ### Who
 
@@ -30,6 +29,8 @@ Montgomery, AL 36106
 Engineering Day allows students an opportunity to participate in a number of hands-on S.T.E.M. activities
 
 We will also have giveaways, hands on STEM activities, and free food!
+
+Tickets are required for this event. Tickets are free. You can get tickets from our [EventBrite page](https://nsbempeday24.eventbrite.com).
 
 ## Volunteers Needed
 
@@ -42,8 +43,6 @@ and/or sponsorships towards this event. We thank you in advance for your help in
 generation of engineers, scientists, and technical professionals.
 
 [Make A Donation](/donate)
-
-<a href="https://us5.list-manage.com/survey?u=887bd5251f705dc81e45b1433&id=e20ffbea44&e=*|UNIQID|*" target="_blank">Become A E-Day Sponsor</a>
 
 ## Project Information
 
