@@ -46,18 +46,9 @@ participate in chapter activities and elections.
 To pay your local dues to NSBE MP, select the option you wish to pay and click the "Add to Cart" button. 
 You will be directed to Paypal to complete your transaction.
 
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="6TLMYDYRX27TS">
-<input type="hidden" name="on0" value="Which Membership Would You Like">
-<select name="os0">
-<option value="Local Dues:">Local Dues: $50.00 USD</option>
-</select>
-<input type="hidden" name="currency_code" value="USD">
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" name="submit" alt="Add to Cart">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
-<p class="mb-2"></p>
+<a href="https://form.jotform.com/webnsbemp/nsbe-mp-membership-form" target="_blank">Complete the Membership application</a>
+
+<a href="https://www.paypal.com/donate/?hosted_button_id=LH23SQ7HPREZ4" target="_blank">Pay Chapter Membership dues</a>
 
 ### NSBE Jr Membership
 
