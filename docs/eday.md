@@ -14,10 +14,8 @@ August 17, 2024 10AM-1PM
 
 ### Where
 
-**Tucker Center**
-
-5280 Vaughn Road
-
+**Tucker Center**<br />
+5280 Vaughn Road<br />
 Montgomery, AL 36116
 
 ### Who
@@ -26,19 +24,24 @@ Montgomery, AL 36116
 
 ### What
 
-Engineering Day allows students an opportunity to participate in a number of hands-on S.T.E.M. activities
-
+Engineering Day allows students an opportunity to participate in a number of hands-on S.T.E.M. activities. This 
+free community event allows for young minds to explore the world of engineering and technology.
 We will also have giveaways, hands on STEM activities, and free food!
 
+## Get Your Tickets
+
 Tickets are required for this event. Tickets are free. You can get tickets from our [EventBrite page](https://nsbempeday24.eventbrite.com).
+Once you complete the checkout process, the ticket information will be emailed to you.
 
 ## Volunteers Needed
 
-Volunteers will be needed in various areas in order to make E-Day a success! Volunteer sign up will be announced at a later date.
+Volunteers will be needed in various areas in order to make E-Day a success! Volunteers 
+can sign up by completing the 
+[Volunteer Sign Up Form](https://form.jotform.com/231768013672154).
 
 ## Donations and Sponsors
 
-The Montgomery Chapter of the National Society of Black Engineers welcomes all donations 
+The Montgomery Professionals Chapter of the National Society of Black Engineers welcomes all donations 
 and/or sponsorships towards this event. We thank you in advance for your help in shaping the next
 generation of engineers, scientists, and technical professionals.
 

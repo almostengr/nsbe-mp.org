@@ -26,6 +26,7 @@ of the application packet.
 
 ## Previous Scholarship Recepients
 
+### 2024 - Morgan Washington
 ### 2023 - Anaiah Morrissette; William Rochelle
 ### 2022 - Darriana M. Thompson; Kyla C. Young
 ### 2021 - Nathon J. Tubbs; Christy C. Daniel
