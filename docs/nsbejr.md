@@ -14,10 +14,9 @@ leadership, technical development, and teamwork.
 
 ## Meetings
 
-NSBE Jr meets on 3rd Sunday of each month from September until May from
-3 PM until 5 PM CT at the H. Councill Trenholm Hall 
-(<a href="https://maps.app.goo.gl/yewCMgbe3Ymut5wk7" target="_blank">1200 University Drive North, Montgomery, AL 36106</a>) 
-on the campus of Alabama State University, in Montgomery, Alabama.
+NSBE Jr meets on 3rd Sunday of each month from September until May from 3 PM until 5 PM CT.
+Please sign up for our mailing list or follow us on social media, to be informed of where our meetings
+will take place.
 
 ## Membership Dues
 

@@ -20,17 +20,10 @@
   <meta name="twitter:description" content="{{ config.site_description | striptags }}" />
   {% endif %}
 
-  <meta name="author" content="{{ config.site_author }}">
-
-  {% if page and page.title %}
+  <meta name="author" content="{{ config.site_name }}">
   <title>{{ page.title | striptags }} | {{ config.site_name }}</title>
-  <meta property="og:title" content="{{ page.title }}" />
-  <meta name="twitter:title" content="{{ page.title }}" />
-  {% else %}
-  <title>{{ config.site_name }}</title>
-  <meta property="og:title" content="{{ config.site_name }}" />
-  <meta name="twitter:title" content="{{ config.site_name }}" />
-  {% endif %}
+  <meta property="og:title" content="{{ page.title }} | {{ config.site_name }}" />
+  <meta name="twitter:title" content="{{ page.title }} | {{ config.site_name }}" />
 
   {% if page and page.meta.imageurl %}
   <meta property="og:image" content="{{ page.meta.imageurl | url }}" />
@@ -58,9 +51,6 @@
   {% if config.google_analytics %}
   <script type="text/javascript" src=/js/analytics.min.js></script>
   {% endif %}
-
-  <script data-ad-client="ca-pub-5755792965145196" async
-    src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 
   <link rel="shortcut icon" href="/images/nsbemplogo.ico" type="image/png" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css"
@@ -98,26 +88,27 @@
   <main role="main" class="pb-4">
     {% if page.is_homepage %}
     {% include "_homepage.html" %}
-    {% endif %}
-
+    {% else %}
     <div class="body container">
       {% if page and page.meta.title %}
       <h1>{{ page.meta.title }}</h1>
       {% endif %}
-
+      
       {% if page and page.meta.imageurl and page.meta.imagealt %}
       <div class="col-12 pb-4 text-center">
         <img src="{{ page.meta.imageurl | url }}" alt="{{ page.meta.imagealt }}" class="headimage" />
       </div>
       {% endif %}
-
+      
       {%- block content %}
       {{ page.content }}
       {%- endblock %}
-    </div>
-    <!-- todo - card for making donation -->
 
-    <!-- todo - card for becoming a member -->
+      <!-- todo - card for making donation -->
+  
+      <!-- todo - card for becoming a member -->
+    </div>
+    {% endif %}
   </main>
 
   <footer class="footer">
@@ -128,7 +119,7 @@
           <h5 class="card-title p-2 subfooter font-weight-bold">{{ block.title }}</h5>
           <p class="card-text subfooter">{{ block.body }}</p>
           {% if block.linkurl and block.linktext %}
-          <a href="{{ block.linkurl | url }}" class="btn btn-footer">{{ block.linktext }}</a>
+          <a href="{{ block.linkurl | url }}" class="btn btn-outline-dark bg-warning text-dark">{{ block.linktext }}</a>
           {% endif %}
         </div>
       </div>
@@ -192,6 +183,9 @@
     crossorigin="anonymous"></script>
   <script>window.jQuery || document.write('<script src="/js/vendor/jquery.slim.min.js"><\/script>')</script>
   <script src="/js/bootstrap.bundle.min.js"></script>
+  
+  <script data-ad-client="ca-pub-5755792965145196" async
+    src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 </body>
 
 </html>

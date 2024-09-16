@@ -13,6 +13,11 @@ for this award.
 To be notified when scholarship applications are being accepted for the upcoming year, please sign up for 
 our mailing list or check with your school guidance counselor or advisor.
 
+## 2025 Scholarship Application
+
+The scholarship application the 2024-2025 year will open in 4th Quarter of 2024.  Please check this page
+in the future for when the application will be available. 
+
 ## 2024 Scholarship Application
 
 ![NSBE Scholarship Program Information](/images/2024 NSBE MP Scholarship Flyer.jpg)

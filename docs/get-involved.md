@@ -16,6 +16,14 @@ Becoming a [member of NSBE Montgomery Professionals](/membership) offers numerou
 
 Volunteers are the heart of NSBE Montgomery Professionals, and their dedication and passion are essential to our success. Whether you're interested in event planning, mentoring, outreach, or leadership roles, there are plenty of opportunities to get involved and make a difference. Volunteering with us is not only rewarding but also a great way to develop new skills, expand your network, and give back to the community. Volunteer opportunities are regularly available. Please sign up for out mailing list so that you are notified when volunteer opportunities become available.
 
+## Attend Meetings and Events
+
+Attending our General Body Meetings and other chapter hosted events are a great way to meet our members. Our general
+body meetings take place on the first Tuesday of each month at 5:30 PM in-person and online. Please follow our 
+social media pages or sign up for our mailing list to get the latest information about the next upcoming meeting.
+
 ## Contact Us
 
-Have questions or need more information about getting involved withNSBE Montgomery Professionals? We're here to help! Please don't hesitate to reach out to us via the [Contact page](/contact) or our social media pages. We look forward to hearing from you and welcoming you to our community!
+Have questions or need more information about getting involved with NSBE Montgomery Professionals? We're here to help!
+You may reach out out to us via the [Contact page](/contact) or our social media pages. 
+We look forward to hearing from you and welcoming you to our community!

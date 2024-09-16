@@ -4,7 +4,7 @@ imageurl: /images/mgmskyline.jpg
 imagealt: Montgomery skyline at night
 ---
 
-## NSBE Montgomery Professionals Executive Board 2023-2024
+## NSBE Montgomery Professionals Executive Board 2024-2025
 
 ### Al Thomas, President
 
@@ -18,9 +18,9 @@ imagealt: Montgomery skyline at night
 
 ### Adam Sumbry, President Emeritus
 
-### Kenny Robinson, Delegate
-
 ### Sonja Favors, Delegate
+
+### **Vacant**, Delegate
 
 ### Rodney Zeigler, Programs Chair
 

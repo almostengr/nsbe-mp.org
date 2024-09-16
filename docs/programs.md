@@ -7,9 +7,12 @@ imagealt: Photo with participants with NSBE MP and The Links Montgomery Chapter
 NSBE MP provides different levels of programming for the community and its members through a variety of programs.
 NSBE TORCH (Technical OutReach and Community Help) 
 Programs are designed to encourage students in grades K-12 and college to pursue a career in a
-STEM (Science, Technology, Engineering, and Math) field. This is done by volunteering at STEM and STEAM community events, presenting about having a STEM career at local schools, and providing scholarships for students in the Montgomery and River Region.
+STEM (Science, Technology, Engineering, and Math) or 
+STEAM (Science, Technology, Engineering, Arts, and Math) field. 
+This is done by volunteering at STEM and STEAM community events, presenting about having a STEM career at local schools, 
+and providing scholarships for students in the Montgomery and River Region.
 
-## Pre-Collegiate Initiative (Central Alabama NSBE Jr Chapter)
+## Central Alabama NSBE Jr Chapter (NSBE Pre-Collegiate Initiative)
 
 NSBE Jr. (National Society of Black Engineers Junior) is a dynamic and engaging program designed 
 to inspire and empower young minds in the fields of science, technology, engineering, and mathematics (STEM).

@@ -103,8 +103,6 @@ theme:
       name: National Society of Black Engineers (NSBE)
     - url: https://www.nsbe.org/professionals
       name: NSBE Professionals
-    - url: https://www.nsbe.org/professionals/regions/region3
-      name: NSBE Region 3 Professionals
     - url: https://pdc.nsbe.org/
       name: NSBE PDC
     - url: https://careers.nsbe.org/jobseeker/search
