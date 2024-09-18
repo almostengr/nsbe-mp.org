@@ -1,4 +1,5 @@
 site_name: NSBE Montgomery Professionals
+site_title: NSBE Montgomery Professionals (NSBE-MP) 
 site_description: NSBE Montgomery Professionals is a chapter of the National Society of Black Engineers, located in Montgomery, Alabama.
 site_author: NSBE Montgomery Professionals
 site_url: https://www.nsbe-mp.org
@@ -31,13 +32,18 @@ theme:
       body: 'Want to make a difference? Donate to NSBE MP today!! Your donations help us continue providing STEM programs to students.NSBE MP is a 501(c)(3) organization. Donations made to NSBE MP will go to the NSBE MP Scholarship Fund. <a href="/donate">Donate today!</a>'
     - heading: NSBE-MP Scholarship
       body: "Each year, NSBE-MP gives out scholarships to students in the River Region. Donations made to NSBE-MP are used to fund scholarship and other programs for youth in the Montgomery area. Read more about our <a href='/scholarship'>Scholarship program</a>."
+    - heading: Sponsor A Program
+      body: "Looking to make a difference in your community? Volunteer at our next event and help inspire the next generation of STEM leaders. <a href='/volunteer'>Sign up here</a>."
+
   sidebar2:
-    # - heading: Volunteer With Us
-    #   body: 'We are always looking for volunteers to help with our events.  <a href="/volunteer">Sign up</a> today!'
     - heading: Join NSBE Jr.
-      body: 'Get your child involved in our NSBE Jr. program. We meet on the 3rd Sunday of every month. <a href="/nsbejr">Learn more</a>'
+      body: 'Have a student interested in having a STEM career? Have them join our NSBE Jr chapter. <a href="/nsbejr">Learn more</a>'
     - heading: Join NSBE-MP
-      body: "Being a member of NSBE comes with great benefits and networking opportunities. <a href='/become-a-member'>Join today!</a>"
+      body: "Being a member of NSBE comes with great benefits and networking opportunities. Join NSBE-MP! We want you to become a member of the most dynamic group professionals who are working towards eliminating disparities in education and achievement in engineering. <a href='/become-a-member'>Join today!</a>"
+    - heading: General Body Meeting
+      body: NSBE-MP meets on the first Tuesday of each month in-person and virtually via Google Meet. Sign up for our mailing list to get meeting reminders.
+    - heading: Hosting A STEM Event?
+      body: Our members enjoy talking about their respective STEM professions. Let us know when your next STEM event or exhibition will take place, and our members will be glad to participate.
 
   mainnav:
     - link: /membership

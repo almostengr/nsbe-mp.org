@@ -12,7 +12,7 @@ STEAM (Science, Technology, Engineering, Arts, and Math) field.
 This is done by volunteering at STEM and STEAM community events, presenting about having a STEM career at local schools, 
 and providing scholarships for students in the Montgomery and River Region.
 
-## Central Alabama NSBE Jr Chapter (NSBE Pre-Collegiate Initiative)
+## Central Alabama NSBE Jr Chapter (Pre-Collegiate Initiative)
 
 NSBE Jr. (National Society of Black Engineers Junior) is a dynamic and engaging program designed 
 to inspire and empower young minds in the fields of science, technology, engineering, and mathematics (STEM).
@@ -20,6 +20,12 @@ Geared towards grade school students, NSBE Jr. offers a supportive community and
 activities to foster a passion for STEM disciplines.
 
 For more information about Central Alabama NSBE Jr and how to get your child or student involved, please visit the [NSBE Jr. page](/nsbejr).
+
+## Collegiate Initiative
+
+NSBE Montgomery Professionals works with the Alabama State University NSBE (nsbealasu) chapter on
+career fair prepartion, mock interviews, and resume workshops. Through these efforts, we are supporting the NSBE mission 
+to increase the number of Black engineers.
 
 ## Student Scholarships
 

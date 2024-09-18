@@ -2,11 +2,18 @@
 title: Get Involved
 ---
 
-Thank you for your interest in getting involved with NSBE Montgomery Professionals! Your support plays a crucial role in advancing our mission to promote diversity and excellence in STEM education and career development. There are several ways you can contribute and become a part of our vibrant community:
+Thank you for your interest in getting involved with NSBE Montgomery Professionals! Your support plays a crucial role in
+advancing our mission to promote diversity and excellence in STEM education and career development. There are several ways
+you can contribute and become a part of our vibrant community:
 
 ## Donate
 
-Your generous donations help us fund our programs, events, and initiatives that empower students and professionals in STEM fields. Every contribution, no matter the size, makes a difference and enables us to make a positive impact in the community. To make a donation, please visit our [Donation Page](/donate) and follow the instructions. Your support is greatly appreciated!
+Your generous donations help us fund our programs, events, and initiatives that empower students and professionals
+in STEM fields. Every contribution, no matter the size, makes a difference and enables us to make a positive impact
+in the community. 
+Donations are used to support our programs like [Engineering Day at the Park](/eday), 
+[Central Alabama NSBE Jr](/nsbejr), and our [annual scholarship](/scholarship).
+To make a donation, please visit our [Donation Page](/donate) and follow the instructions. Your support is greatly appreciated!
 
 ## Membership
 

@@ -14,7 +14,7 @@
   <meta http-equiv="refresh" content="0; url={{ page.meta.redirect }}" />
   {% endif %}
 
-  {% if page and page.meta.description %}
+  <!-- {% if page and page.meta.description %}
   <meta name="description" content="{{ page.meta.description | striptags }}">
   <meta property="og:description" content="{{ page.meta.description | striptags }}" />
   <meta name="twitter:description" content="{{ page.meta.description | striptags }}" />
@@ -22,12 +22,19 @@
   <meta name="description" content="{{ config.site_description | striptags }}">
   <meta property="og:description" content="{{ config.site_description | striptags }}" />
   <meta name="twitter:description" content="{{ config.site_description | striptags }}" />
-  {% endif %}
+  {% endif %} -->
 
-  <meta name="author" content="{{ config.site_name }}">
-  <title>{{ page.title | striptags }} | {{ config.site_name }}</title>
-  <meta property="og:title" content="{{ page.title }} | {{ config.site_name }}" />
-  <meta name="twitter:title" content="{{ page.title }} | {{ config.site_name }}" />
+  {% set description = page.meta.description if page and page.meta.description else config.site_description %}
+{% if description %}
+  <meta name="description" content="{{ description | striptags }}">
+  <meta property="og:description" content="{{ description | striptags }}">
+  <meta name="twitter:description" content="{{ description | striptags }}">
+{% endif %}
+
+  <meta name="author" content="{{ config.site_title }}">
+  <title>{{ page.title | striptags }} | {{ config.site_title }}</title>
+  <meta property="og:title" content="{{ page.title }} | {{ config.site_title }}" />
+  <meta name="twitter:title" content="{{ page.title }} | {{ config.site_title }}" />
 
   {% if page and page.meta.imageurl %}
   <meta property="og:image" content="{{ page.meta.imageurl | url }}" />
@@ -121,7 +128,7 @@
 
         <div class="col-sm-12 col-lg-3 pt-4">
           {% set sidebar = config.theme.sidebar|random %}
-          <div class="card mb-3 border-danger border">
+          <div class="card shadow mb-3 border-danger border">
             <div class="card-header text-white bg-primary">
               <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
             </div>
@@ -133,7 +140,7 @@
           </div>
 
           {% set sidebar = config.theme.sidebar2|random %}
-          <div class="card mt-5 mb-3 border-danger border">
+          <div class="card shadow mt-5 mb-3 border-danger border">
             <div class="card-header text-white bg-primary">
               <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
             </div>
