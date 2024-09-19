@@ -1,7 +1,7 @@
 {% for nav_item in nav %}
 {% if nav_item.children and page %}
 {% for nav_item in nav_item.children | reverse %}
-{% if page.url in nav_item.url and nav_item.url != page.url %}
+{% if "blog" in nav_item.url and page.url in nav_item.url and nav_item.url != page.url %}
 <div class="col mb-1">
     <div class="card h-100">
         <div class="card-body">

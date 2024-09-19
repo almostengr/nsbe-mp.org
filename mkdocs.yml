@@ -30,8 +30,6 @@ theme:
   sidebar:
     - heading: Support The Mission
       body: 'Want to make a difference? Donate to NSBE-MP today!! Your donations help us continue providing STEM programs to students.NSBE-MP is a 501(c)(3) organization. Donations made to NSBE-MP will go to the NSBE-MP Scholarship Fund. <a href="/support">Donate today!</a>'
-    - heading: NSBE-MP Scholarship
-      body: "Each year, NSBE-MP gives out scholarships to students in the River Region. Donations made to NSBE-MP are used to fund scholarship and other programs for youth in the Montgomery area. Read more about our <a href='/scholarship'>Scholarship program</a>."
     - heading: Sponsor A Program
       body: "Looking to make a difference in your community? Volunteer at our next event and help inspire the next generation of STEM leaders. <a href='/volunteer'>Sign up here</a>."
     - heading: Support The Mission
@@ -39,18 +37,26 @@ theme:
       link: "/support"
 
   sidebar2:
+    - heading: NSBE-MP Scholarship
+      body: "Each year, NSBE-MP gives out scholarships to students in the River Region. Donations made to NSBE-MP are used to fund scholarship and other programs for youth in the Montgomery area. Read more about our <a href='/scholarship'>Scholarship program</a>."
     - heading: Join NSBE Jr.
       body: 'Have a student interested in having a STEM career? Have them join our NSBE Jr chapter. <a href="/nsbejr">Learn more</a>'
     - heading: Join NSBE-MP
-      body: "Being a member of NSBE comes with great benefits and networking opportunities. Join NSBE-MP! We want you to become a member of the most dynamic group professionals who are working towards eliminating disparities in education and achievement in engineering. <a href='/become-a-member'>Join today!</a>"
-    - heading: General Body Meeting
+      body: "Being a member of NSBE comes with great benefits and networking opportunities. Join NSBE-MP! We want you to become a member of the most dynamic group professionals who are working towards eliminating disparities in education and achievement in engineering. <a href='/membership'>Join today!</a>"
+    - heading: General Body Meetings
       body: NSBE-MP meets on the first Tuesday of each month in-person and virtually via Google Meet. Sign up for our mailing list to get meeting reminders.
     - heading: Hosting A STEM Event?
-      body: Our members enjoy talking about their respective STEM professions. Let us know when your next STEM event or exhibition will take place, and our members will be glad to participate.
+      body: Our members enjoy talking about their respective STEM professions. <a href="/contact">Let us know</a> when your next STEM event or exhibition will take place, and our members will be glad to participate.
     - heading: Join NSBE-MP
       body: 'We are looking for members to help us reach students in the Montgomery, Prattvile, and Wetumpka areas. Help us join by <a href="/membership">becoming a member</a>.'
       link: "/membership"
-
+    - heading: NSBE Jr Meetings
+      link: "/nsbejr"
+      body: 'Central Alabama NSBE Jr meetings on the 3rd Sunday of the month during the school year. These meetings are designed for students to learn more about the STEM industry and encourage them to become STEM professionals. <a href="/nsbejr">Find out more!</a>'
+    - heading: E-Day At The Park
+      link: /eday
+      body: 'Engineering Day (E-Day) at the Park is a free annual event held in August where the community is invited to come out to learn about NSBE and the STEM industry. Sponsors are needed to make this event successful. Help support our mission by <a href="/support">becoming an E_Day sponsor</a>.'
+      
   mainnav:
     - link: /membership
       name: Become A Member

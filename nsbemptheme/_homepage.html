@@ -1,39 +1,16 @@
-<div class="marketing container">
+<div class="marketing container pt-4">
+    <h2>Latest Updates from NSBE-MP</h2>
     {% for nav_item in nav %}
     {% if nav_item.children and page %}
     {% for nav_item in nav_item.children | reverse %}
-    {% if page.url in nav_item.url and nav_item.url != page.url %}
-    <div class="col mb-4">
-        <div class="card h-100">
-            <div class="card-body">
-                <a class="text-decoration-none" href="{{ nav_item.url | url }}">
-                    <h2 class="card-title">{{ nav_item.title }}</h2>
-                </a>
-                <p class="card-text">{{ nav_item.content | striptags | truncate(150,false) }}</p>
-            </div>
-            <div class="card-footer">
-                <div class="text-muted">
-                    {%- set num_of_words = nav_item.content | wordcount // 200 -%}
-                    {% if num_of_words <= 1 %} 1 {% else %} {{ num_of_words }} {% endif %} minute read {% if nav_item.meta.posted %}| posted
-                        {{ nav_item.meta.posted }} {% endif %} 
-                </div>
-            </div>
+    {% if "blog" in nav_item.url and loop.index <= 5 %} 
+        <div class="col-sm-12 col-md-12">
+            <h3>{{ nav_item.title }}</h3>
+            <p>{{ nav_item.content | striptags | truncate(150,false) }}</p>
         </div>
-    </div>
     {% endif %}
     {% endfor %}
     {% endif %}
     {% endfor %}
 </div>
 
-<div class="marketing container">
-    <div class="row">
-        {% for block in config.theme.marketing %}
-        <div class="col-sm-12 col-md-12">
-            <h2>{{ block.title }}</h2>
-            <p>{{ block.body }}</p>
-            <p><a class="btn btn-dark" href="{{ block.link | url }}" role="link">Learn more</a></p>
-        </div>
-        {% endfor %}
-    </div>
-</div>

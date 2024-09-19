@@ -97,8 +97,24 @@
     </div>
   </nav>
 
-  <main role="main" class="pb-4">
+  <main role="main" class="">
     {% include "_jumbotron.html" %}
+
+    <div class="pb-3">
+      <div class="container">
+        {% if page.is_homepage %}
+        <div class="row">
+          {% for block in config.theme.marketing %}
+          <div class="col-sm-12 col-md-6">
+            <h2>{{ block.title }}</h2>
+            <p>{{ block.body }}</p>
+            <p><a class="btn btn-dark" href="{{ block.link | url }}" role="link">Learn more</a></p>
+          </div>
+          {% endfor %}
+        </div>
+        {% endif %}
+      </div>
+    </div>
 
     <div class="body container">
       <div class="row">
@@ -108,6 +124,12 @@
           {% else %}
           {% if page and page.meta.title %}
           <h1>{{ page.meta.title }}</h1>
+
+          {% if "blog" in page.url and page.url != "blog/" %}
+          <div class="text-muted pb-3">
+            3 minute read | 2024-04-06
+          </div>
+          {% endif %}
           {% endif %}
 
           {% if page and page.meta.imageurl and page.meta.imagealt %}
@@ -123,6 +145,9 @@
           {% if page.url == "blog/" %}
           {% include "_blog.html" %}
           {% endif %}
+
+
+
 
           {% endif %}
         </div>
@@ -151,6 +176,28 @@
               </p>
             </div>
           </div>
+
+
+          {% if page.is_homepage == false %}
+          <div class="card shadow mt-5 mb-3 border-dark border">
+            <div class="card-header text-dark bg-warning">
+              <h5 class="font-weight-bold">Latest Posts</h5>
+            </div>
+            <div class="card-body">
+              <p class="card-text">
+                {% for nav_item in nav %}
+                {% if nav_item.children and page %}
+                {% for nav_item in nav_item.children | reverse %}
+                {% if "blog" in nav_item.url and loop.index <= 5 %} <h5>
+                  <a href="/{{ nav_item.url }}">{{ nav_item.title }}</a></h5>
+                  {% endif %}
+                  {% endfor %}
+                  {% endif %}
+                  {% endfor %}
+              </p>
+            </div>
+          </div>
+          {% endif %}
         </div>
 
       </div>
