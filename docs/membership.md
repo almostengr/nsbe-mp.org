@@ -1,7 +1,7 @@
 ---
 title: Become A Member
 imageurl: /images/membership.jpg
-imagealt: Members of NSBE MP at social gathering event
+imagealt: Members of NSBE-MP at social gathering event
 ---
 
 We welcome all technical professionals in the Montgomery, Alabama and River Region areas to join 
@@ -24,30 +24,30 @@ The full list of membership benefits are available on the
 
 ## Membership Dues
 
-Membership dues for NSBE MP and Central Alabama NSBE Jr are broken down by the following categories. 
-
-National and regional membership dues can be found by visiting 
+Membership dues for NSBE-MP and Central Alabama NSBE Jr are broken down by the following categories. 
+National and regional membership dues can be found and paid by visiting 
 <a href="https://mynsbe.nsbe.org" target="_blank">NSBE Connect</a>.
 
 ### Professional Membership
 
-* Current or Previous Professional Members - $50 annually (membership year runs from August 1 through July 31)
-* First Year Professional Members - Free
+#### Pricing 
 
-* Register with NSBE National. This can be done by visiting <a href="https://mynsbe.nsbe.org" target="_blank">MyNSBE</a>.
-* Pay your National and Regional Dues. This step is also done via the <a href="https://mynsbe.nsbe.org" target="_blank">MyNSBE website</a>. When paying,
-select "Professional" as the Membership Type and "Montgomery Professionals" as the Chapter.
-* Pay your Local Dues. This step is done by clicking the "Add To Cart" in the section below.
+* First Year Professional Members - Free
+* Current or Previous Professional Members - $50 annually (membership year runs from August 1 through July 31)
+
+#### Instructions
+
+* Register with NSBE National. This can be done by visiting <a href="https://mynsbe.nsbe.org" target="_blank">MyNSBE</a>. 
+* Pay your National and Regional Dues. This step is also done via the <a href="https://mynsbe.nsbe.org" target="_blank">MyNSBE website</a>. When paying, select "Professional" as the Membership Type and "Montgomery Professionals" as the Chapter.
+* Complete the NSBE-MP membership application by clicking the button below.
+* Pay your Chapter Membership dues by clicking the button below.
 * Once local and national dues have been paid, you will be officially a member and be able to 
 participate in chapter activities and elections.
-
-To pay your local dues to NSBE MP, select the option you wish to pay and click the "Add to Cart" button. 
-You will be directed to Paypal to complete your transaction.
 
 <a href="https://form.jotform.com/webnsbemp/nsbe-mp-membership-form" 
 class="btn btn-outline-dark text-dark bg-warning" target="_blank">Complete the Membership application</a>
 
-<a href="https://www.paypal.com/donate/?hosted_button_id=LH23SQ7HPREZ4"
+<a href="https://www.paypal.com/support/?hosted_button_id=LH23SQ7HPREZ4"
 class="btn btn-outline-dark text-dark bg-warning"  target="_blank">Pay Chapter Membership dues</a>
 
 ### NSBE Jr Membership

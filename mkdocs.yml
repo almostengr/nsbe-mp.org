@@ -29,11 +29,14 @@ theme:
 
   sidebar:
     - heading: Support The Mission
-      body: 'Want to make a difference? Donate to NSBE MP today!! Your donations help us continue providing STEM programs to students.NSBE MP is a 501(c)(3) organization. Donations made to NSBE MP will go to the NSBE MP Scholarship Fund. <a href="/donate">Donate today!</a>'
+      body: 'Want to make a difference? Donate to NSBE-MP today!! Your donations help us continue providing STEM programs to students.NSBE-MP is a 501(c)(3) organization. Donations made to NSBE-MP will go to the NSBE-MP Scholarship Fund. <a href="/support">Donate today!</a>'
     - heading: NSBE-MP Scholarship
       body: "Each year, NSBE-MP gives out scholarships to students in the River Region. Donations made to NSBE-MP are used to fund scholarship and other programs for youth in the Montgomery area. Read more about our <a href='/scholarship'>Scholarship program</a>."
     - heading: Sponsor A Program
       body: "Looking to make a difference in your community? Volunteer at our next event and help inspire the next generation of STEM leaders. <a href='/volunteer'>Sign up here</a>."
+    - heading: Support The Mission
+      body: 'Help us bring STEM to students in the River Region through your financial support or by voluteering.'
+      link: "/support"
 
   sidebar2:
     - heading: Join NSBE Jr.
@@ -44,6 +47,9 @@ theme:
       body: NSBE-MP meets on the first Tuesday of each month in-person and virtually via Google Meet. Sign up for our mailing list to get meeting reminders.
     - heading: Hosting A STEM Event?
       body: Our members enjoy talking about their respective STEM professions. Let us know when your next STEM event or exhibition will take place, and our members will be glad to participate.
+    - heading: Join NSBE-MP
+      body: 'We are looking for members to help us reach students in the Montgomery, Prattvile, and Wetumpka areas. Help us join by <a href="/membership">becoming a member</a>.'
+      link: "/membership"
 
   mainnav:
     - link: /membership
@@ -83,7 +89,7 @@ theme:
       body: NSBE Jr is designed for students in grades K-12 to receive mentoring from current engineers and exposure to STEM activities in a learning environment.
       link: /nsbejr
     - title: Engineering Day At The Park
-      body:  Engineering Day (E-Day) at the Park is an annual event hosted by NSBE MP that allows K-12th grade students an opportunity to participate in a number of hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
+      body:  Engineering Day (E-Day) at the Park is an annual event hosted by NSBE-MP that allows K-12th grade students an opportunity to participate in a number of hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
       link: /eday
     - title: Scholarship Awards
       body: Each year, NSBE-MP gives out scholarships to students in the River Region that are pursuing or plan on pursuing a degree in a STEM or engineering related field.
@@ -96,7 +102,7 @@ theme:
       link: /programs
     - title: Make A Donation
       body: Help us get more students in to STEM fields, by donating. Donations received, are used towards project kits for NSBE Jr and supplies for community outreach events.
-      link: /donate
+      link: /support
 
   contactlinks:
     - url:  /contact
@@ -156,8 +162,8 @@ theme:
     #   linkurl: /membership
     #   linktext: Join now
     - title: Donations
-      body: Want to make a difference? Donate to NSBE MP today!! NSBE MP is a 501(c)(3) organization. Donations made to NSBE MP will go to the NSBE MP Scholarship Fund.
-      linkurl: /donate
+      body: Want to make a difference? Donate to NSBE-MP today!! NSBE-MP is a 501(c)(3) organization. Donations made to NSBE-MP will go to the NSBE-MP Scholarship Fund.
+      linkurl: /support
       linktext: Donate today
 
 use_directory_urls: true

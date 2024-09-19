@@ -2,9 +2,9 @@
 title: Events and Calendar
 ---
 
-Welcome to our Events and Calendar page! At NSBE MP, we're dedicated to providing engaging and impactful events for our members and the community. From General Body Meetings to exciting STEM initiatives like Engineering Day at the Park, there's always something happening that you won't want to miss.
+Welcome to our Events and Calendar page! At NSBE-MP, we're dedicated to providing engaging and impactful events for our members and the community. From General Body Meetings to exciting STEM initiatives like Engineering Day at the Park, there's always something happening that you won't want to miss.
 
-Explore our upcoming events below and mark your calendars to join us. Whether you're a STEM professional, student, educator, or simply passionate about making a difference in our community, there's a place for you at NSBE MP events.
+Explore our upcoming events below and mark your calendars to join us. Whether you're a STEM professional, student, educator, or simply passionate about making a difference in our community, there's a place for you at NSBE-MP events.
 
 Don't forget to sign up for our mailing list to stay informed about all our upcoming events and activities. We look forward to seeing you at our next event!
 

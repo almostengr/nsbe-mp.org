@@ -63,6 +63,7 @@ div.body>div>a,
 div.body>h2>a,
 div.body>h3>a,
 div.body>h4>a,
+.cta a,
 main a,
 main a:hover,
 .text-black {
@@ -124,7 +125,10 @@ a.card-link {
     background-color: var(--black);
     color: var(--white);
 }
-
+/* 
+.bg-warning {
+    background-color: var(--nsbe-yellow) !important;
+} */
 
 a {
     text-decoration: underline;

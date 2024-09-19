@@ -1,10 +1,10 @@
 ---
 title: STEM Programs and Community Involvement
 imageurl: /images/20171118_125006.jpg
-imagealt: Photo with participants with NSBE MP and The Links Montgomery Chapter
+imagealt: Photo with participants with NSBE-MP and The Links Montgomery Chapter
 ---
 
-NSBE MP provides different levels of programming for the community and its members through a variety of programs.
+NSBE-MP provides different levels of programming for the community and its members through a variety of programs.
 NSBE TORCH (Technical OutReach and Community Help) 
 Programs are designed to encourage students in grades K-12 and college to pursue a career in a
 STEM (Science, Technology, Engineering, and Math) or 
@@ -39,7 +39,7 @@ More information about our scholarship program, who is eligible, award amounts, 
 
 <div class="text-center pageimage">
 <img src="/images/careerday.jpg" class="pageimage"
-alt="Two of NSBE MP members participating in Career Day at Catoma Elementary, a Montgomery Public School">
+alt="Two of NSBE-MP members participating in Career Day at Catoma Elementary, a Montgomery Public School">
 </div>
 
 Our members are glad to share the work that we do in our professional careers to the
@@ -52,12 +52,12 @@ Alabama Department of Transportation presented information about their careers.
 
 <div class="text-center pageimage">
 <img src="/images/stempresentations.jpg" class="pageimage"
-alt="NSBE MP Members at STEAMFest at Montgomery Academy">
+alt="NSBE-MP Members at STEAMFest at Montgomery Academy">
 </div>
 
-At NSBE MP, we believe in the power of showcasing our work and inspiring the next generation of STEM leaders. Our members actively participate in STEM exhibitions and presentations, where they have the opportunity to share their knowledge, experiences, and projects with students and the community.
+At NSBE-MP, we believe in the power of showcasing our work and inspiring the next generation of STEM leaders. Our members actively participate in STEM exhibitions and presentations, where they have the opportunity to share their knowledge, experiences, and projects with students and the community.
 
-Pictured above are two NSBE MP members who participated in STEAMfest at Montgomery Academy. NSBE MP was honored to be invited to this event, where our members engaged with students and educators to demonstrate the impact of STEM in real-world applications. Through interactive exhibits, presentations, and hands-on activities, we aim to ignite curiosity, foster creativity, and encourage a passion for STEM disciplines among young minds.
+Pictured above are two NSBE-MP members who participated in STEAMfest at Montgomery Academy. NSBE-MP was honored to be invited to this event, where our members engaged with students and educators to demonstrate the impact of STEM in real-world applications. Through interactive exhibits, presentations, and hands-on activities, we aim to ignite curiosity, foster creativity, and encourage a passion for STEM disciplines among young minds.
 
 Have a STEM or STEAM event coming up? Let us know [via the Contact page](/contact).
 
@@ -81,6 +81,6 @@ Each Christmas season, the Montgomery Professionals Chapter of the National Soci
 Members of our NSBE chapter and those from the community, generously donate money towards buying these items, which are then distributed to children in need. Through the Christmas Angel program, we aim to make a positive difference in the lives of children and families in our community, ensuring that every child receives a special gift during the holiday season.
 
 You can make a difference by participating in the Christmas Angel program! Whether you contribute financially or volunteer your time to help organize and distribute gifts, your support is invaluable in spreading holiday cheer to those who need it most. Join us in making the holidays brighter for children in our community.
-[Your donations](/donate) are crucial to the success of the Christmas Angel 
+[Your donations](/support) are crucial to the success of the Christmas Angel 
 program. Every contribution, no matter the size, helps us purchase gifts for children in need. 
 Together, we can make a meaningful impact and bring smiles to the faces of children during the holiday season.

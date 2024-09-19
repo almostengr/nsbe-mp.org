@@ -51,7 +51,9 @@ As a local chapter of NSBE, we are committed to *increasing the number of cultur
 
 ### Awards
 
-* 2019 NSBE Region 3 Pre-College Initiative Program of the Year
+* ##### 2019 NSBE Region 3 Pre-College Initiative Program of the Year
+* ##### 2018-2019 Silver Chapter
+* ##### 2017-2018 Certified Chapter
 
 ## NSBE Mission
 

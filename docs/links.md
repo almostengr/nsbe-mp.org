@@ -10,7 +10,7 @@ Follow us on our social media pages. In addition, find out more about NSBE Montg
 
 ### [Become A Member](/membership)
 
-### [Donate to NSBE-MP](/donate)
+### [Donate to NSBE-MP](/support)
 
 ### [EventBrite](https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811)
 

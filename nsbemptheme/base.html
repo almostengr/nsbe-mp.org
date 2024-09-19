@@ -25,11 +25,11 @@
   {% endif %} -->
 
   {% set description = page.meta.description if page and page.meta.description else config.site_description %}
-{% if description %}
+  {% if description %}
   <meta name="description" content="{{ description | striptags }}">
   <meta property="og:description" content="{{ description | striptags }}">
   <meta name="twitter:description" content="{{ description | striptags }}">
-{% endif %}
+  {% endif %}
 
   <meta name="author" content="{{ config.site_title }}">
   <title>{{ page.title | striptags }} | {{ config.site_title }}</title>
@@ -90,8 +90,9 @@
         </li>
         {% endfor %}
       </ul>
-      <form class="form-inline mt-2 mt-md-0" action="/donate" method="GET">
-        <button class="btn btn-outline-dark bg-warning text-dark my-2 my-sm-0" type="submit">Donate</button>
+      <form class="form-inline mt-2 mt-md-0" action="/support" method="GET">
+        <button class="btn btn-outline-dark bg-warning text-dark my-2 my-sm-0" type="submit">Support The
+          Mission</button>
       </form>
     </div>
   </nav>
@@ -101,7 +102,7 @@
 
     <div class="body container">
       <div class="row">
-        <div class="col-sm-12 col-lg-9">
+        <div class="col-sm-12 col-lg-8">
           {% if page.is_homepage %}
           {% include "_homepage.html" %}
           {% else %}
@@ -126,10 +127,10 @@
           {% endif %}
         </div>
 
-        <div class="col-sm-12 col-lg-3 pt-4">
+        <div class="col-sm-12 col-lg-4 pt-4">
           {% set sidebar = config.theme.sidebar|random %}
-          <div class="card shadow mb-3 border-danger border">
-            <div class="card-header text-white bg-primary">
+          <div class="card shadow mb-3 border-dark border">
+            <div class="card-header text-dark bg-warning">
               <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
             </div>
             <div class="card-body">
@@ -140,8 +141,8 @@
           </div>
 
           {% set sidebar = config.theme.sidebar2|random %}
-          <div class="card shadow mt-5 mb-3 border-danger border">
-            <div class="card-header text-white bg-primary">
+          <div class="card shadow mt-5 mb-3 border-dark border">
+            <div class="card-header text-dark bg-warning">
               <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
             </div>
             <div class="card-body">

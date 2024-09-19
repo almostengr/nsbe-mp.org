@@ -13,7 +13,7 @@ in STEM fields. Every contribution, no matter the size, makes a difference and e
 in the community. 
 Donations are used to support our programs like [Engineering Day at the Park](/eday), 
 [Central Alabama NSBE Jr](/nsbejr), and our [annual scholarship](/scholarship).
-To make a donation, please visit our [Donation Page](/donate) and follow the instructions. Your support is greatly appreciated!
+To make a donation, please visit our [Donation Page](/support) and follow the instructions. Your support is greatly appreciated!
 
 ## Membership
 

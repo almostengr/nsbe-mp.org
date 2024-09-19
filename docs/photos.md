@@ -1,7 +1,7 @@
 ---
 title: Photos
 imageurl: /images/stempresentations.jpg
-imagealt: Members of NSBE MP and ASU NSBE
+imagealt: Members of NSBE-MP and ASU NSBE
 ---
 
 To see our photos from past events, please visit our social media pages.
