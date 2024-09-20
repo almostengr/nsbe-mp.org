@@ -91,8 +91,8 @@
         {% endfor %}
       </ul>
       <form class="form-inline mt-2 mt-md-0" action="/support" method="GET">
-        <button class="btn btn-outline-dark bg-warning text-dark my-2 my-sm-0" type="submit">Support The
-          Mission</button>
+        <button class="btn btn-outline-dark bg-warning text-dark my-2 my-sm-0" type="submit">
+          Support The Mission</button>
       </form>
     </div>
   </nav>
@@ -125,11 +125,7 @@
           {% if page and page.meta.title %}
           <h1>{{ page.meta.title }}</h1>
 
-          {% if "blog" in page.url and page.url != "blog/" %}
-          <div class="text-muted pb-3">
-            3 minute read | 2024-04-06
-          </div>
-          {% endif %}
+          {% include "_blogmeta.html" %}
           {% endif %}
 
           {% if page and page.meta.imageurl and page.meta.imagealt %}
@@ -146,60 +142,9 @@
           {% include "_blog.html" %}
           {% endif %}
 
-
-
-
           {% endif %}
         </div>
-
-        <div class="col-sm-12 col-lg-4 pt-4">
-          {% set sidebar = config.theme.sidebar|random %}
-          <div class="card shadow mb-3 border-dark border">
-            <div class="card-header text-dark bg-warning">
-              <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                {{ sidebar.body }}
-              </p>
-            </div>
-          </div>
-
-          {% set sidebar = config.theme.sidebar2|random %}
-          <div class="card shadow mt-5 mb-3 border-dark border">
-            <div class="card-header text-dark bg-warning">
-              <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                {{ sidebar.body }}
-              </p>
-            </div>
-          </div>
-
-
-          {% if page.is_homepage == false %}
-          <div class="card shadow mt-5 mb-3 border-dark border">
-            <div class="card-header text-dark bg-warning">
-              <h5 class="font-weight-bold">Latest Posts</h5>
-            </div>
-            <div class="card-body">
-              <p class="card-text">
-                {% for nav_item in nav %}
-                {% if nav_item.children and page %}
-                {% for nav_item in nav_item.children | reverse %}
-                {% if "blog" in nav_item.url and loop.index <= 5 %} <h5>
-                  <a href="/{{ nav_item.url }}">{{ nav_item.title }}</a></h5>
-                  {% endif %}
-                  {% endfor %}
-                  {% endif %}
-                  {% endfor %}
-              </p>
-            </div>
-          </div>
-          {% endif %}
-        </div>
-
+        {% include "_sidebar.html" %}
       </div>
   </main>
 

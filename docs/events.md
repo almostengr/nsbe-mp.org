@@ -16,19 +16,6 @@ visit our EventBrite page</a>.
 
 ## Recurring Events and Meetings
 
-### General Body Meeting
-
-Our General Body Meetings are an opportunity for members and non-members alike to come together, share ideas, and stay informed about the latest developments in our NSBE chapter. Each meeting covers a range of topics, including upcoming events, project updates, and opportunities for involvement.
-To attend our General Body Meeting, simply sign up for our mailing list to receive reminders and access instructions for both in-person and virtual attendance. Our mailing list ensures that you never miss an important meeting or announcement.
-
-When: First Tuesday of Each Month at 5:30pm
-
-Where: Juliette Hampton Morgan Memorial Library, Downtown Montgomery and virtual via Google Meet
-
-Who: STEM Professionals and those interested in STEM
-
-Don't miss out on our next General Body Meeting! Sign up for our mailing list today to receive reminders and stay updated on all things related to our NSBE chapter.
-
 ### Engineering Day at the Park
 
 Each year during August, NSBE Montgomery Professionals hosts an [Engineering Day at the Park](/eday). This STEM event,
@@ -44,10 +31,14 @@ Open to 3rd–12th grade students from Montgomery, Prattville, Wetumpka, Millbro
 Engineering Day offers students the chance to engage in various hands-on STEM activities, giveaways, and enjoy free food. Visit 
 the event page for more information about this event. Also sign up for mailing list to receive notifications about this event.
 
+### General Body Meeting
+
+Our General Body Meetings are an opportunity for members and non-members alike to come together, share ideas, and stay informed about the latest developments in our NSBE chapter. Each meeting covers a range of topics, including upcoming events, project updates, and opportunities for involvement.
+To attend our General Body Meeting, simply sign up for our mailing list to receive reminders and access instructions for both in-person and virtual attendance. Our mailing list ensures that you never miss an important meeting or announcement.
+
 ### NSBE Jr. Meeting
 
 NSBE Jr is the Pre-College Initiative (PCI) Program is designed to stimulate the interest in science, technology, engineering, and mathematics fields, or STEM.
-NSBE Jr meets on 3rd Sunday of each month from September through May from 3 PM until 5 PM CT at the H. Councill Trenholm Hall 
-located at 
-<a href="https://maps.app.goo.gl/G9v3w4s2hEFJZ3if8" target="_blank">1200 University Drive North, Montgomery, AL 36106</a>
-on the campus of Alabama State University.
+Each meeting, students work STEM projects with NSBE Jr advisors and volunteers.
+
+[More information](/nsbejr)

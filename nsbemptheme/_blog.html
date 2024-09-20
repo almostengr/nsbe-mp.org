@@ -10,9 +10,7 @@
             </a>
             <p class="card-text">{{ nav_item.content | striptags | truncate(150,false) }}</p>
             <p class="text-muted">
-                {%- set num_of_words = nav_item.content | wordcount // 200 -%}
-                {% if num_of_words <= 1 %} 1 {% else %} {{ num_of_words }} {% endif %} minute read {% if
-                    nav_item.meta.posted %}| posted {{ nav_item.meta.posted }} {% endif %}
+                {% include "_blogreadtime.html" %}
             </p>
         </div>
     </div>
