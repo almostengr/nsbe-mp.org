@@ -36,4 +36,4 @@ alt="Photo of CA NSBE Jr. students">
 </div>
 
 
-## Sponsorship
+## Organization Partnerships
