@@ -126,6 +126,7 @@
           <h1>{{ page.meta.title }}</h1>
 
           {% include "_blogmeta.html" %}
+          {% include "_membership.html" %}
           {% endif %}
 
           {% if page and page.meta.imageurl and page.meta.imagealt %}
@@ -151,7 +152,7 @@
   <footer class="footer">
     <div class="py-4 mx-auto subfooter row container">
       {% for block in config.theme.footerblocks %}
-      <div class="card subfooter col-lg-4 col-md-6 col-sm-12">
+      <div class="card subfooter col-lg-3 col-md-6 col-sm-12">
         <div class="card-body">
           <h5 class="card-title p-2 subfooter font-weight-bold">{{ block.title }}</h5>
           <p class="card-text subfooter">{{ block.body }}</p>
@@ -162,7 +163,7 @@
       </div>
       {% endfor %}
 
-      <div class="card subfooter col-lg-4 col-md-6 col-sm-12">
+      <div class="card subfooter col-lg-3 col-md-6 col-sm-12">
         <div class="card-body">
           <h5 class="card-title p-2 font-weight-bold">Links</h5>
           <ul class="list-unstyled footer">
@@ -177,6 +178,12 @@
             </li>
             {% endfor %}
           </ul>
+        </div>
+      </div>
+
+      <div class="card subfooter col-lg-3 col-md-6 col-sm-12">
+        <div class="card-body">
+          <h5 class="card-title p-2 font-weight-bold">Follow Us</h5>
 
           <ul class="list-unstyled footer">
             {% for link in config.theme.sociallinks %}
@@ -193,7 +200,7 @@
         </div>
       </div>
 
-      <div class="card subfooter col-lg-4 col-md-6 col-sm-12">
+      <div class="card subfooter col-lg-3 col-md-6 col-sm-12">
         <div class="card-body">
           <h5 class="card-title p-2 font-weight-bold">NSBE Links</h5>
           <ul class="list-unstyled footer">

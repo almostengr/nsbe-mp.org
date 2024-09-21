@@ -125,6 +125,7 @@ a.card-link {
     background-color: var(--black);
     color: var(--white);
 }
+
 /* 
 .bg-warning {
     background-color: var(--nsbe-yellow) !important;
@@ -201,4 +202,15 @@ img.pageimage {
 
 .border-primary {
     border-color: var(--dark-red) !important;
+}
+
+.jumbotron {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+footer a {
+    text-decoration: none;
 }

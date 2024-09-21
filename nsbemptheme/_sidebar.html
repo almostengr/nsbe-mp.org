@@ -1,7 +1,7 @@
-<div class="col-sm-12 col-lg-4 pt-4">
+<div class="col-sm-12 col-lg-4 py-4">
     {% set sidebar = config.theme.sidebar|random %}
     <div class="card shadow mb-3 border-dark border">
-        <div class="card-header text-dark bg-warning">
+        <div class="card-header bg-primary text-light">
             <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
         </div>
         <div class="card-body">
@@ -13,7 +13,7 @@
 
     {% set sidebar = config.theme.sidebar2|random %}
     <div class="card shadow mt-5 mb-3 border-dark border">
-        <div class="card-header text-dark bg-warning">
+        <div class="card-header bg-primary text-light">
             <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
         </div>
         <div class="card-body">
@@ -25,7 +25,7 @@
 
     {% if page.is_homepage == false %}
     <div class="card shadow mt-5 mb-3 border-dark border">
-        <div class="card-header text-dark bg-warning">
+        <div class="card-header bg-primary text-light">
             <h5 class="font-weight-bold">Latest Posts</h5>
         </div>
         <div class="card-body">

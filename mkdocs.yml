@@ -27,6 +27,11 @@ theme:
 
   jumbotron_image: "/images/eday2022volunteers.jpg"
 
+  donation_link: https://www.paypal.com/donate/?hosted_button_id=LH23SQ7HPREZ4
+  membershiplinks:
+    nsbejr: "https://form.jotform.com/241484911412048"
+    professionals: "https://form.jotform.com/241484911412048"
+
   sidebar:
     - heading: Support The Mission
       body: 'Want to make a difference? Donate to NSBE-MP today!! Your donations help us continue providing STEM programs to students.NSBE-MP is a 501(c)(3) organization. Donations made to NSBE-MP will go to the NSBE-MP Scholarship Fund. <a href="/support">Donate today!</a>'
@@ -55,13 +60,11 @@ theme:
       body: 'Central Alabama NSBE Jr meetings on the 3rd Sunday of the month during the school year. These meetings are designed for students to learn more about the STEM industry and encourage them to become STEM professionals. <a href="/nsbejr">Find out more!</a>'
     - heading: E-Day At The Park
       link: /eday
-      body: 'Engineering Day (E-Day) at the Park is a free annual event held in August where the community is invited to come out to learn about NSBE and the STEM industry. Sponsors are needed to make this event successful. Help support our mission by <a href="/support">becoming an E_Day sponsor</a>.'
+      body: 'Engineering Day (E-Day) at the Park is a free annual event held in August where the community is invited to come out to learn about NSBE and the STEM industry. Sponsors are needed to make this event successful. Help support our mission by <a href="/support">becoming an E-Day sponsor</a>.'
       
   mainnav:
     - link: /membership
       name: Become A Member
-    - link: /get-involved
-      name: Get Involved
     - link: /programs
       name: Community Programs
     - name: Events
@@ -117,8 +120,8 @@ theme:
     - url: /about
       name: About NSBE-MP
       icon: bi bi-question-octagon
-    - url: /get-involved
-      name: Get Involved
+    - url: /support
+      name: Support The Mission
       icon: bi bi-people-fill
     - url: /events
       name: Events
@@ -126,9 +129,9 @@ theme:
     - url:  /photos
       name: Photos
       icon: bi bi-camera
-    - url: /projects
-      name: STEM Projects
-      icon: bi bi-phone
+    # - url: /projects
+    #   name: STEM Projects
+    #   icon: bi bi-phone
     - url: /forms
       name: Forms
       icon: bi bi-ui-checks

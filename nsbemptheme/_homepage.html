@@ -4,13 +4,19 @@
     {% if nav_item.children and page %}
     {% for nav_item in nav_item.children | reverse %}
     {% if "blog" in nav_item.url and loop.index <= 5 %} 
-        <div class="col-sm-12 col-md-12">
-            <h3>{{ nav_item.title }}</h3>
+    <a href="{{ nav_item.url }}" class="text-decoration-none">
+        <div class="col-sm-12 col-md-12 my-3 py-3 shadow  border">
+            <h3 class="font-weight-bold">{{ nav_item.title }}</h3>
             <p>{{ nav_item.content | striptags | truncate(150,false) }}</p>
+            <div class="pl-3">Read more...</div>
         </div>
+    </a>
     {% endif %}
     {% endfor %}
     {% endif %}
     {% endfor %}
+    <div class="pb-3">
+        <a href="/blog">See All Posts</a>
+    </div>
 </div>
 

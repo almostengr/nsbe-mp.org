@@ -10,19 +10,19 @@ imagealt: Montgomery skyline at night
 
 ### Rodney Zeigler, President-Elect
 
-### Rodney Zeigler, Treasurer
-
 ### Kalen Mumford, Secretary
 
-### Kenny Robinson, Parliamentarian
+### Rodney Zeigler, Treasurer
 
-### Adam Sumbry, President Emeritus
+### Rodney Zeigler, Programs Chair
 
 ### Sonja Favors, Delegate
 
 ### **Vacant**, Delegate
 
-### Rodney Zeigler, Programs Chair
+### Kenny Robinson, Parliamentarian
+
+### Adam Sumbry, President Emeritus
 
 ### LaTasha Merchant, Telecommunications Chair
 
@@ -51,9 +51,9 @@ As a local chapter of NSBE, we are committed to *increasing the number of cultur
 
 ### Awards
 
-* ##### 2019 NSBE Region 3 Pre-College Initiative Program of the Year
-* ##### 2018-2019 Silver Chapter
-* ##### 2017-2018 Certified Chapter
+* ##### 2019 NSBE Region 3 Pre-College Initiative (PCI) Program of the Year
+* ##### 2018-2019 NSBE Professionals Silver Chapter
+* ##### 2017-2018 NSBE Professionals Certified Chapter
 
 ## NSBE Mission
 
