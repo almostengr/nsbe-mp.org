@@ -14,33 +14,16 @@ leadership, technical development, and teamwork.
 
 ## Meetings
 
-NSBE Jr meets on 3rd Sunday of each month from September until May from
-3 PM until 5 PM CT at the H. Councill Trenholm Hall 
-(<a href="https://maps.app.goo.gl/yewCMgbe3Ymut5wk7" target="_blank">1200 University Drive North, Montgomery, AL 36106</a>) 
-on the campus of Alabama State University, in Montgomery, Alabama.
+NSBE Jr meets on 3rd Sunday of each month from September until May from 3 PM until 5 PM CT.
+Please sign up for our mailing list or follow us on social media, to be informed of where our meetings
+will take place.
 
 ## Membership Dues
 
 NSBE Jr Membership dues are $5 for grades K-8 and $10 for grades 9-12. 
 The membership year starts on August 1 and ends on July 31 of each year.
 
-### Purchase NSBE Jr Membership
-
-You may pay your membership dues in person at a NSBE Jr Meeting or by using the payment button below.
-
-<form target="paypal" action="https://www.paypal.com/cgi-bin/webscr" method="post" class="pb-2">
-<input type="hidden" name="cmd" value="_s-xclick">
-<input type="hidden" name="hosted_button_id" value="VDL5MXV73N266">
-<input type="hidden" name="currency_code" value="USD">
-<input type="hidden" name="on0" value="Membership Type">
-<select name="os0">
-<option value="Elem/Middle School Student">Elementary/Middle School Student $5.00 USD</option>
-<option value="High School Student">High School Student $10.00 USD</option>
-</select>
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_cart_LG.gif" border="0" 
-name="submit" alt="Add to Cart">
-<img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
-</form>
+<a class="btn btn-outline-dark bg-warning text-dark" href="https://form.jotform.com/241484911412048">Register for NSBE Jr</a>
 
 ## Projects
 
@@ -50,7 +33,9 @@ a local retailer.
 
 ## Awards
 
-* In 2019, we received the NSBE Region 3 Pre-College Initiative Program of the Year for our efforts with
+##### 2019 Region 3 Pre-Collegiate Initiative Program of the Year
+
+We received the NSBE Region 3 Pre-College Initiative Program of the Year for our efforts with
 the Central Alabama NSBE Jr program and Engineering Day at the Park event.
 
 <div class="container">

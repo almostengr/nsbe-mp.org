@@ -1,0 +1,48 @@
+<div class="col-sm-12 col-lg-4 py-4">
+    {% set sidebar = config.theme.sidebar|random %}
+    <div class="card shadow mb-3 border-dark border">
+        <div class="card-header bg-primary text-light">
+            <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
+        </div>
+        <div class="card-body">
+            <p class="card-text">
+                {{ sidebar.body }}
+            </p>
+        </div>
+    </div>
+
+    {% set sidebar = config.theme.sidebar2|random %}
+    <div class="card shadow mt-5 mb-3 border-dark border">
+        <div class="card-header bg-primary text-light">
+            <h5 class="font-weight-bold">{{ sidebar.heading }}</h5>
+        </div>
+        <div class="card-body">
+            <p class="card-text">
+                {{ sidebar.body }}
+            </p>
+        </div>
+    </div>
+
+    {% if page.is_homepage == false %}
+    <div class="card shadow mt-5 mb-3 border-dark border">
+        <div class="card-header bg-primary text-light">
+            <h5 class="font-weight-bold">Latest Posts</h5>
+        </div>
+        <div class="card-body">
+            <p class="card-text">
+                {% for nav_item in nav %}
+                {% if nav_item.children and page %}
+                {% for nav_item in nav_item.children | reverse %}
+                {% if "blog" in nav_item.url and loop.index <= 5 %} 
+                <h5>
+                    <a href="/{{ nav_item.url }}">{{ nav_item.title }}</a>
+                </h5>
+                {% endif %}
+                {% endfor %}
+                {% endif %}
+                {% endfor %}
+            </p>
+        </div>
+    </div>
+    {% endif %}
+</div>

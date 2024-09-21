@@ -1,0 +1,22 @@
+{% if page.is_homepage %}
+<div class="jumbotron d-flex flex-column justify-content-end"
+    style="background-image: url({{ config.theme.jumbotron_image }});">
+    <div class="container bg-light p-2 my-5 rounded" style="opacity: 0.8;">
+        <p class="display-4">NSBE Montgomery Professionals</p>
+        <p>
+            NSBE Montgomery Professionals is a chapter of the National Society of Black Engineers, based in Montgomery,
+            Alabama. We are dedicated to community outreach, supporting STEM professionals, and creating valuable
+            networking opportunities for engineers.
+        </p>
+        <p>
+            <a class="btn btn-outline-dark bg-warning text-dark btn-lg mr-3 mb-3" href="/membership" role="button">Join
+                NSBE-MP</a>
+            <a class="btn btn-outline-dark bg-warning text-dark btn-lg mr-3 mb-3" href="/membership" role="button">Join
+                NSBE Jr</a>
+            <a class="btn btn-outline-dark bg-warning text-dark btn-lg mr-3 mb-3" href="/support" role="button">Learn
+                More</a>
+        </p>
+    </div>
+</div>
+
+{% endif %}

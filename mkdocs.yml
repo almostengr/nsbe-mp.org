@@ -1,9 +1,10 @@
 site_name: NSBE Montgomery Professionals
+site_title: NSBE Montgomery Professionals (NSBE-MP) 
 site_description: NSBE Montgomery Professionals is a chapter of the National Society of Black Engineers, located in Montgomery, Alabama.
 site_author: NSBE Montgomery Professionals
 site_url: https://www.nsbe-mp.org
 
-google_analytics: ["UA-101970327-1", "nsbe-mp.org"]
+# google_analytics: ["UA-101970327-1", "nsbe-mp.org"]
 
 # repository information
 repo_url: https://github.com/almostengr/nsbe-mp.org
@@ -12,7 +13,7 @@ remote_name: origin
 remote_branch: website
 
 # Development server details
-dev_addr: 10.10.10.103:8000
+dev_addr: 10.10.10.102:8000
 
 # Appearance
 theme:
@@ -23,16 +24,53 @@ theme:
   
   static_templates:
     - 404.html
-  
+
+  jumbotron_image: "/images/eday2022volunteers.jpg"
+
+  donation_link: https://www.paypal.com/donate/?hosted_button_id=LH23SQ7HPREZ4
+  membershiplinks:
+    nsbejr: "https://form.jotform.com/241484911412048"
+    professionals: "https://form.jotform.com/241484911412048"
+
+  sidebar:
+    - heading: Support The Mission
+      body: 'Want to make a difference? Donate to NSBE-MP today!! Your donations help us continue providing STEM programs to students.NSBE-MP is a 501(c)(3) organization. Donations made to NSBE-MP will go to the NSBE-MP Scholarship Fund. <a href="/support">Donate today!</a>'
+    - heading: Sponsor A Program
+      body: "Looking to make a difference in your community? Volunteer at our next event and help inspire the next generation of STEM leaders. <a href='/volunteer'>Sign up here</a>."
+    - heading: Support The Mission
+      body: 'Help us bring STEM to students in the River Region through your financial support or by voluteering.'
+      link: "/support"
+
+  sidebar2:
+    - heading: NSBE-MP Scholarship
+      body: "Each year, NSBE-MP gives out scholarships to students in the River Region. Donations made to NSBE-MP are used to fund scholarship and other programs for youth in the Montgomery area. Read more about our <a href='/scholarship'>Scholarship program</a>."
+    - heading: Join NSBE Jr.
+      body: 'Have a student interested in having a STEM career? Have them join our NSBE Jr chapter. <a href="/nsbejr">Learn more</a>'
+    - heading: Join NSBE-MP
+      body: "Being a member of NSBE comes with great benefits and networking opportunities. Join NSBE-MP! We want you to become a member of the most dynamic group professionals who are working towards eliminating disparities in education and achievement in engineering. <a href='/membership'>Join today!</a>"
+    - heading: General Body Meetings
+      body: NSBE-MP meets on the first Tuesday of each month in-person and virtually via Google Meet. Sign up for our mailing list to get meeting reminders.
+    - heading: Hosting A STEM Event?
+      body: Our members enjoy talking about their respective STEM professions. <a href="/contact">Let us know</a> when your next STEM event or exhibition will take place, and our members will be glad to participate.
+    - heading: Join NSBE-MP
+      body: 'We are looking for members to help us reach students in the Montgomery, Prattvile, and Wetumpka areas. Help us join by <a href="/membership">becoming a member</a>.'
+      link: "/membership"
+    - heading: NSBE Jr Meetings
+      link: "/nsbejr"
+      body: 'Central Alabama NSBE Jr meetings on the 3rd Sunday of the month during the school year. These meetings are designed for students to learn more about the STEM industry and encourage them to become STEM professionals. <a href="/nsbejr">Find out more!</a>'
+    - heading: E-Day At The Park
+      link: /eday
+      body: 'Engineering Day (E-Day) at the Park is a free annual event held in August where the community is invited to come out to learn about NSBE and the STEM industry. Sponsors are needed to make this event successful. Help support our mission by <a href="/support">becoming an E-Day sponsor</a>.'
+      
   mainnav:
     - link: /membership
       name: Become A Member
-    - link: /get-involved
-      name: Get Involved
     - link: /programs
       name: Community Programs
     - name: Events
       link: /events
+    - name: Blog
+      link: /blog
     - link: /about
       name: About
     - link: /contact
@@ -56,16 +94,16 @@ theme:
       buttonlink: /programs
 
   marketing:
-    - title: NSBE Jr
+    - title: Central Alabama NSBE Jr Chapter
       body: NSBE Jr is designed for students in grades K-12 to receive mentoring from current engineers and exposure to STEM activities in a learning environment.
       link: /nsbejr
-    - title: E-Day At The Park
-      body:  Engineering Day (E-Day) at the Park is an annual event hosted by NSBE MP that allows K-12th grade students an opportunity to participate in a number of hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
+    - title: Engineering Day At The Park
+      body:  Engineering Day (E-Day) at the Park is an annual event hosted by NSBE-MP that allows K-12th grade students an opportunity to participate in a number of hands-on activities and experiences focused on Science, Technology, Engineering and Math (S.T.E.M.).
       link: /eday
     - title: Scholarship Awards
       body: Each year, NSBE-MP gives out scholarships to students in the River Region that are pursuing or plan on pursuing a degree in a STEM or engineering related field.
       link: /scholarship
-    - title: Join NSBE
+    - title: Join NSBE and NSBE-MP
       body: Being a member of NSBE comes with great benefits and networking opportunities.
       link: /membership
     - title: Community Programs
@@ -73,7 +111,7 @@ theme:
       link: /programs
     - title: Make A Donation
       body: Help us get more students in to STEM fields, by donating. Donations received, are used towards project kits for NSBE Jr and supplies for community outreach events.
-      link: /donate
+      link: /support
 
   contactlinks:
     - url:  /contact
@@ -82,8 +120,8 @@ theme:
     - url: /about
       name: About NSBE-MP
       icon: bi bi-question-octagon
-    - url: /get-involved
-      name: Get Involved
+    - url: /support
+      name: Support The Mission
       icon: bi bi-people-fill
     - url: /events
       name: Events
@@ -91,11 +129,14 @@ theme:
     - url:  /photos
       name: Photos
       icon: bi bi-camera
-    - url: /projects
-      name: STEM Projects
-      icon: bi bi-phone
+    # - url: /projects
+    #   name: STEM Projects
+    #   icon: bi bi-phone
     - url: /forms
       name: Forms
+      icon: bi bi-ui-checks
+    - url: /sitemap.xml
+      name: Sitemap
       icon: bi bi-ui-checks
 
   nsbelinks:
@@ -103,8 +144,6 @@ theme:
       name: National Society of Black Engineers (NSBE)
     - url: https://www.nsbe.org/professionals
       name: NSBE Professionals
-    - url: https://www.nsbe.org/professionals/regions/region3
-      name: NSBE Region 3 Professionals
     - url: https://pdc.nsbe.org/
       name: NSBE PDC
     - url: https://careers.nsbe.org/jobseeker/search
@@ -127,18 +166,18 @@ theme:
       icon: bi bi-twitter
 
   footerblocks:
-    - title: Join Today
-      body: Join NSBE-MP! We want you to become a member of the most dynamic group professionals who are working towards eliminating disparities in education and achievement in engineering.
-      linkurl: /membership
-      linktext: Join now
+    # - title: Join Today
+    #   body: Join NSBE-MP! We want you to become a member of the most dynamic group professionals who are working towards eliminating disparities in education and achievement in engineering.
+    #   linkurl: /membership
+    #   linktext: Join now
     - title: Donations
-      body: Want to make a difference? Donate to NSBE MP today!! NSBE MP is a 501(c)(3) organization. Donations made to NSBE MP will go to the NSBE MP Scholarship Fund.
-      linkurl: /donate
+      body: Want to make a difference? Donate to NSBE-MP today!! NSBE-MP is a 501(c)(3) organization. Donations made to NSBE-MP will go to the NSBE-MP Scholarship Fund.
+      linkurl: /support
       linktext: Donate today
 
 use_directory_urls: true
 strict: false
 
-plugins:
-  - minify:
-      minify_html: true
+# plugins:
+#   - minify:
+#       minify_html: true

@@ -16,11 +16,11 @@ Stay tuned for exciting
 
 ## Get Involved
 
-Interested in joining us? Whether you're a student, educator, professional, or community member, there are many ways to get involved with NSBE Montgomery Professionals and [support our mission](/donate). Learn more about [membership opportunities](/membership), volunteer roles, and partnership possibilities.
+Interested in joining us? Whether you're a student, educator, professional, or community member, there are many ways to get involved with NSBE Montgomery Professionals and [support our mission](/support). Learn more about [membership opportunities](/membership), volunteer roles, and partnership possibilities.
 
 ## Support Our Mission
 
-Help us continue our work in Prattville, Alabama by [making a donation](/donate) to NSBE Montgomery Professionals. Your support allows us to fund our [programs](/programs), expand our reach, and make a lasting impact on the future of STEM education and innovation in Prattville, Alabama.
+Help us continue our work in Prattville, Alabama by [making a donation](/support) to NSBE Montgomery Professionals. Your support allows us to fund our [programs](/programs), expand our reach, and make a lasting impact on the future of STEM education and innovation in Prattville, Alabama.
 
 ## Contact Us
 

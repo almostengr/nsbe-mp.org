@@ -1,45 +1,22 @@
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-        {% for item in config.theme.carousel %}
-        <li data-target="#myCarousel" data-slide-to="{{ loop.index-1 }}" role="button" {% if loop.first %}
-            class="active" {% endif %}></li>
-        {% endfor %}
-    </ol>
-    <div class="carousel-inner bg-black">
-        {% for item in config.theme.carousel %}
-        <div class="carousel-item text-center {% if loop.first %} active {% endif %}">
-            <img src="{{ item.imageurl | url }}" alt="{{ item.buttontext }}" />
-            {% if item.buttontext and item.buttonlink %}
-            <div class="container">
-                <div class="carousel-caption">
-                    <p>
-                        <a class="btn btn-lg" href="{{ item.buttonlink | url }}" role="button">{{ item.buttontext }}</a>
-                    </p>
-                </div>
-            </div>
-            {% endif %}
+<div class="marketing container pt-4">
+    <h2>Latest Updates from NSBE-MP</h2>
+    {% for nav_item in nav %}
+    {% if nav_item.children and page %}
+    {% for nav_item in nav_item.children | reverse %}
+    {% if "blog" in nav_item.url and loop.index <= 5 %} 
+    <a href="{{ nav_item.url }}" class="text-decoration-none">
+        <div class="col-sm-12 col-md-12 my-3 py-3 shadow  border">
+            <h3 class="font-weight-bold">{{ nav_item.title }}</h3>
+            <p>{{ nav_item.content | striptags | truncate(150,false) }}</p>
+            <div class="pl-3">Read more...</div>
         </div>
-        {% endfor %}
-    </div>
-    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-        <span class="sr-only">Previous</span>
     </a>
-    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-        <span class="carousel-control-next-icon" aria-hidden="true"></span>
-        <span class="sr-only">Next</span>
-    </a>
-</div>
-<div class="marketing container">
-    <div class="row">
-        {% for block in config.theme.marketing %}
-        <div class="col-sm-12 col-md-6">
-            <h2>{{ block.title }}</h2>
-            <p>
-                {{ block.body }}
-            </p>
-            <p><a class="btn btn-dark" href="{{ block.link | url }}" role="link">View {{ block.title }}</a></p>
-        </div>
-        {% endfor %}
+    {% endif %}
+    {% endfor %}
+    {% endif %}
+    {% endfor %}
+    <div class="pb-3">
+        <a href="/blog">See All Posts</a>
     </div>
 </div>
+

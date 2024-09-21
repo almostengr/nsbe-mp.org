@@ -4,25 +4,25 @@ imageurl: /images/mgmskyline.jpg
 imagealt: Montgomery skyline at night
 ---
 
-## NSBE Montgomery Professionals Executive Board 2023-2024
+## NSBE Montgomery Professionals Executive Board 2024-2025
 
 ### Al Thomas, President
 
 ### Rodney Zeigler, President-Elect
 
+### Kalen Mumford, Secretary
+
 ### Rodney Zeigler, Treasurer
 
-### Kalen Mumford, Secretary
+### Rodney Zeigler, Programs Chair
+
+### Sonja Favors, Delegate
+
+### **Vacant**, Delegate
 
 ### Kenny Robinson, Parliamentarian
 
 ### Adam Sumbry, President Emeritus
-
-### Kenny Robinson, Delegate
-
-### Sonja Favors, Delegate
-
-### Rodney Zeigler, Programs Chair
 
 ### LaTasha Merchant, Telecommunications Chair
 
@@ -51,7 +51,9 @@ As a local chapter of NSBE, we are committed to *increasing the number of cultur
 
 ### Awards
 
-* 2019 NSBE Region 3 Pre-College Initiative Program of the Year
+* ##### 2019 NSBE Region 3 Pre-College Initiative (PCI) Program of the Year
+* ##### 2018-2019 NSBE Professionals Silver Chapter
+* ##### 2017-2018 NSBE Professionals Certified Chapter
 
 ## NSBE Mission
 
