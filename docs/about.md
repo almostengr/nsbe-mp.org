@@ -26,7 +26,9 @@ imagealt: Montgomery skyline at night
 
 ### LaTasha Merchant, Telecommunications Chair
 
-### Tamaria McAlpin, PCI (Pre-Collegiate Initiative) Chair
+### Kalen Mumford, PCI (Pre-Collegiate Initiative) Chair and NSBE Jr Advisor
+
+### Tamaria McAlpin, NSBE Jr Advisor
 
 ### Earnest Colvin, Scholarship Chair
 
