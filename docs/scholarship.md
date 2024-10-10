@@ -1,5 +1,5 @@
 ---
-redirect: /blog/2023.12.01-2024-nsbe-mp-scholarship
+redirect: /blog/2024.10.10-2025-nsbe-mp-scholarship
 ---
 
 Redirecting...
