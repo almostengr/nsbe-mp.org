@@ -12,8 +12,8 @@ jobs:
     steps:
     - uses: actions/checkout@master
 
-    - name: Install pip
-      run:  /usr/bin/python3 -m pip install --upgrade pip
+    # - name: Install pip
+    #   run:  /usr/bin/python3 -m pip install --upgrade pip
 
     - name: Install setuptools
       run:  /usr/bin/python3 -m pip install --upgrade setuptools
