@@ -38,12 +38,15 @@ a local retailer.
 
 ## Awards
 
+##### 2024 Region 3 Pre-Collegiate Initiative Program of the Year
+
 ##### 2019 Region 3 Pre-Collegiate Initiative Program of the Year
 
 We received the NSBE Region 3 Pre-College Initiative Program of the Year for our efforts with
-the Central Alabama NSBE Jr program and Engineering Day at the Park event.
+the Central Alabama NSBE Jr program, our annual Engineering Day at the Park event, 
+and for participating in STEM-related events within the Montgomery, Alabama community.
 
-<div class="container">
+<div class="container mb-3">
 <div>
 <img src="/images/nsbejr_2024_jan_1.jpg" alt="NSBE JR students" class="w-100">
 </div>
