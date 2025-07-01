@@ -1,5 +1,5 @@
 ---
-redirect: /blog/2024.06.01-eday-2024
+redirect: /blog/2025.07.01-eday-2025
 ---
 
 Redirecting...
