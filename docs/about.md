@@ -6,27 +6,27 @@ imagealt: Montgomery skyline at night
 
 ## NSBE Montgomery Professionals Executive Board 2024-2025
 
-### Al Thomas, President
+### Rodney Zeigler, President
 
-### Rodney Zeigler, President-Elect
+### Dontavious Sippial, President-Elect
 
-### Kalen Mumford, Secretary
+### Kenny Robinson, Secretary
 
 ### Rodney Zeigler, Treasurer
 
-### Rodney Zeigler, Programs Chair
+### Dontavious Sippial, Programs Chair
 
 ### Sonja Favors, Delegate
 
 ### **Vacant**, Delegate
 
-### Kenny Robinson, Parliamentarian
+### Al Thomas, Parliamentarian
 
-### Adam Sumbry, President Emeritus
+### Al Thomas, President Emeritus
 
 ### LaTasha Merchant, Telecommunications Chair
 
-### Kalen Mumford, PCI (Pre-Collegiate Initiative) Chair and NSBE Jr Advisor
+### Adam Sumbry, PCI (Pre-Collegiate Initiative) Chair and NSBE Jr Advisor
 
 ### Tamaria McAlpin, NSBE Jr Advisor
 
