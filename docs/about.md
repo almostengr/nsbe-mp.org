@@ -12,7 +12,7 @@ imagealt: Montgomery skyline at night
 
 ### Kenny Robinson, Secretary
 
-### Rodney Zeigler, Treasurer
+### **Vacant**, Treasurer
 
 ### Dontavious Sippial, Programs Chair
 
@@ -32,7 +32,7 @@ imagealt: Montgomery skyline at night
 
 ### Earnest Colvin, Scholarship Chair
 
-### Kalen Mumford, Membership Chair
+### **Vacant**, Membership Chair
 
 ### Rodney Zeigler, Fundraising Chair
 
