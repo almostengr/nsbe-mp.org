@@ -4,7 +4,7 @@ imageurl: /images/mgmskyline.jpg
 imagealt: Montgomery skyline at night
 ---
 
-## NSBE Montgomery Professionals Executive Board 2024-2025
+## NSBE Montgomery Professionals Executive Board 2025-2026
 
 ### Rodney Zeigler, President
 
