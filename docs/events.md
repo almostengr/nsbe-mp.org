@@ -11,7 +11,7 @@ Don't forget to sign up for our mailing list to stay informed about all our upco
 For information about our upcoming events, including location and time, please
 <a href="https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811" target="_blank">visit our EventBrite page</a>.
 
-<a href="https://www.eventbrite.com/o/the-national-society-of-black-engineers-montgomery-professionals-17650668811" target="_blank" class="btn bg-warning btn-outline-dark text-dark">See Our Upcoming Events</a>
+<a href="/blog/2025.08.20-2025-2026-calendar-of-events" target="_blank" class="btn bg-warning btn-outline-dark text-dark">See Our Upcoming Events</a>
 
 ## Recurring Events and Meetings
 
