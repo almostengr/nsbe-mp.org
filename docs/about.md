@@ -53,6 +53,8 @@ As a local chapter of NSBE, we are committed to *increasing the number of cultur
 
 ### Awards
 
+* ##### 2025-2026 NSBE Region 3 Professionals Collegiate Initiative (CI) Program of the Year
+* ##### 2023-2024 NSBE Region 3 Pre-Collegiate Initiative Program of the Year
 * ##### 2019 NSBE Region 3 Pre-College Initiative (PCI) Program of the Year
 * ##### 2018-2019 NSBE Professionals Silver Chapter
 * ##### 2017-2018 NSBE Professionals Certified Chapter
